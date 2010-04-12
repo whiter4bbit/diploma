@@ -1,0 +1,7 @@
+*.pdf
+*~
+*.tfm
+*.*pk
+*.aux
+*.log
+*.tok
