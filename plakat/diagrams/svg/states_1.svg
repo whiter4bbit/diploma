@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="35cm" height="27cm" viewBox="-5 26 691 537" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="246" y="95" width="165.55" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="246" y="95" width="165.55" height="52" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="328.775" y="116.9">
+      <tspan x="328.775" y="116.9">Загрузить структуру </tspan>
+      <tspan x="328.775" y="132.9">декларции</tspan>
+    </text>
+  </g>
+  <ellipse style="fill: #000000" cx="327" cy="38" rx="10" ry="10"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="328.134" y1="78.0121" x2="327" y2="48"/>
+    <polygon style="fill: #000000" points="323.138,78.2009 328.738,94.0007 333.131,77.8233 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="323.138,78.2009 328.738,94.0007 333.131,77.8233 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="412.226" y="66.75">открыть декларацию</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="230" y="199" width="195.15" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="230" y="199" width="195.15" height="52" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="327.575" y="220.9">
+      <tspan x="327.575" y="220.9">Загрузка сохранененного</tspan>
+      <tspan x="327.575" y="236.9">состояния</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="327.967" y1="182.005" x2="328.776" y2="147"/>
+    <polygon style="fill: #000000" points="322.968,181.889 327.597,198 332.966,182.12 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="322.968,181.889 327.597,198 332.966,182.12 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="408.788" y="175.5">структура загружена</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="447.452" y1="277.911" x2="425.15" y2="251"/>
+    <polygon style="fill: #000000" points="443.603,281.101 457.662,290.23 451.302,274.72 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="443.603,281.101 457.662,290.23 451.302,274.72 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="564.65" y="266.5">сохраненное состояние не найдено</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="371" y="291" width="174.6" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="371" y="291" width="174.6" height="52" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="458.3" y="312.9">
+      <tspan x="458.3" y="312.9">Установить состояния </tspan>
+      <tspan x="458.3" y="328.9">ячеек по умолчанию</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="108" y="306" width="190.9" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="108" y="306" width="190.9" height="52" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="203.45" y="327.9">
+      <tspan x="203.45" y="327.9">Установить сохнаненные</tspan>
+      <tspan x="203.45" y="343.9">состояния ячеек</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="210.84" y1="290.69" x2="230" y2="251"/>
+    <polygon style="fill: #000000" points="206.338,288.517 203.885,305.099 215.343,292.864 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="206.338,288.517 203.885,305.099 215.343,292.864 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="107" y="271">сохраненное состояние найдено</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="247" y="431" width="157.55" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="247" y="431" width="157.55" height="52" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="325.775" y="452.9">
+      <tspan x="325.775" y="452.9">Посчитать значения</tspan>
+      <tspan x="325.775" y="468.9">ячеек</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="413.411" y1="416.492" x2="458.3" y2="343"/>
+    <polygon style="fill: #000000" points="409.144,413.886 405.071,430.147 417.678,419.098 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="409.144,413.886 405.071,430.147 417.678,419.098 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="514" y="394.75">состояния установлены</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="238.29" y1="416.401" x2="203.45" y2="358"/>
+    <polygon style="fill: #000000" points="233.996,418.962 246.488,430.141 242.584,413.839 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="233.996,418.962 246.488,430.141 242.584,413.839 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="113" y="392">состояния ячеек установлены</text>
+  </g>
+  <ellipse style="fill: #000000" cx="326" cy="553" rx="10" ry="10"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="325.936" y1="526" x2="325.774" y2="483"/>
+    <polygon style="fill: #000000" points="320.936,526.019 325.996,542 330.936,525.981 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="320.936,526.019 325.996,542 330.936,525.981 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="399" y="519">декларация открыта</text>
+  </g>
+</svg>

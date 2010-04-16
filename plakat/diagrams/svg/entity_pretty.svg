@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="57cm" height="36cm" viewBox="-43 261 1140 719" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="836.4" y="443.9" width="74.2" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="836.4" y="443.9" width="74.2" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="873.5" y="465.9">Ячейка</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="821.4" y="288.9" width="105" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="821.4" y="288.9" width="105" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="873.9" y="310.9">Декларация</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="113.4" y="289" width="143.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="113.4" y="289" width="143.5" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="185.15" y="311">Налоговые формы</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="822.4,376.38 873.2,345.9 924,376.38 873.2,406.86 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="822.4,376.38 873.2,345.9 924,376.38 873.2,406.86 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="816.4" y="370.38"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="930" y="370.38"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="873.2" y="380.38">Содержит</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="873.559" y1="325.886" x2="873.2" y2="345.9"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="873.2" y1="406.86" x2="873.397" y2="442.913"/>
+  <g>
+    <polygon style="fill: #ffffff" points="356.4,307.38 407.2,276.9 458,307.38 407.2,337.86 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="356.4,307.38 407.2,276.9 458,307.38 407.2,337.86 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="350.4" y="301.38"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="464" y="301.38"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="407.2" y="311.38">Содержит</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="458" y1="307.38" x2="820.44" y2="306.962"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="17.2" cy="327" rx="50.8" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="17.2" cy="327" rx="50.8" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="17.2" y="331">Название</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="28.95" cy="280.4" rx="31.55" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="28.95" cy="280.4" rx="31.55" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="28.95" y="284.4">Год</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="113.4" y1="307" x2="60.5" y2="280.4"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="113.4" y1="307" x2="68" y2="327"/>
+  <g>
+    <rect style="fill: #ffffff" x="824" y="592" width="97.3" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="824" y="592" width="97.3" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="872.65" y="614">Состояние</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1035.8" cy="442" rx="50.8" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1035.8" cy="442" rx="50.8" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="1035.8" y="446">Название</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1021.55" cy="486" rx="31.55" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1021.55" cy="486" rx="31.55" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="1021.55" y="490">Тип</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="910.6" y1="461.9" x2="985" y2="442"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="910.6" y1="461.9" x2="990" y2="486"/>
+  <g>
+    <polygon style="fill: #ffffff" points="835,543.55 874.25,520 913.5,543.55 874.25,567.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="835,543.55 874.25,520 913.5,543.55 874.25,567.1 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="829" y="537.55"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="919.5" y="537.55"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="874.25" y="547.55">Имеет</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="873.5" y1="479.9" x2="873.961" y2="519.029"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="873.659" y1="568.096" x2="873.107" y2="591.019"/>
+  <g>
+    <rect style="fill: #ffffff" x="554" y="683" width="105" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="554" y="683" width="105" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="606.5" y="705">Тип ячейки</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="608.85" cy="776" rx="23.85" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="608.85" cy="776" rx="23.85" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="608.85" y="780">d</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="390" y="823" width="151.2" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="390" y="823" width="151.2" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="465.6" y="845">Пользовательская</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="576" y="822" width="66.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="576" y="822" width="66.5" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="609.25" y="844">Счета</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="256.9" y1="307" x2="356.4" y2="307.38"/>
+  <g>
+    <polygon style="fill: #ffffff" points="823,700.48 873.8,670 924.6,700.48 873.8,730.96 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="823,700.48 873.8,670 924.6,700.48 873.8,730.96 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="817" y="694.48"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="930.6" y="694.48"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="873.8" y="704.48">Содержит</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="823" y1="700.48" x2="660.004" y2="700.871"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="872.65" y1="628" x2="873.8" y2="670"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="608.067" y1="757.005" x2="606.5" y2="719"/>
+  <g>
+    <rect style="fill: #ffffff" x="663" y="823" width="81.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="663" y="823" width="81.9" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="703.95" y="845">Формула</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1044.8" cy="608" rx="50.8" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1044.8" cy="608" rx="50.8" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="1044.8" y="612">Значение</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="921.3" y1="610" x2="993.053" y2="608.838"/>
+  <g>
+    <rect style="fill: #ffffff" x="98" y="521" width="174.3" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="98" y="521" width="174.3" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="185.15" y="543">Бухгалтерская книга</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="136,428.17 182.95,400 229.9,428.17 182.95,456.34 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="136,428.17 182.95,400 229.9,428.17 182.95,456.34 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="130" y="422.17"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="235.9" y="422.17"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="182.95" y="432.17">Зависит</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="184.805" y1="325.999" x2="183.48" y2="398.994"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="183.529" y1="457.345" x2="184.773" y2="519.998"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="98" y1="539" x2="60.3796" y2="540.265"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="8.8" cy="542" rx="50.8" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="8.8" cy="542" rx="50.8" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="8.8" y="546">Название</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="134,618.48 184.8,588 235.6,618.48 184.8,648.96 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="134,618.48 184.8,588 235.6,618.48 184.8,648.96 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="128" y="612.48"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="241.6" y="612.48"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="184.8" y="622.48">Содержит</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="157" y="681" width="58.8" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="157" y="681" width="58.8" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="186.4" y="703">Счет</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="185.15" y1="557" x2="184.979" y2="587.005"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="184.8" y1="648.96" x2="185.793" y2="680.015"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="8.25" cy="648" rx="39.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="8.25" cy="648" rx="39.25" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="8.25" y="652">Номер</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="10.25" cy="697" rx="39.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="10.25" cy="697" rx="39.25" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="10.25" y="701">Дебет</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="9.1" cy="744" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="9.1" cy="744" rx="43.1" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="9.1" y="748">Кредит</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="157" y1="699" x2="47.5" y2="648"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="157" y1="699" x2="49.5" y2="697"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="157" y1="699" x2="44.8924" y2="733.11"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1028.55" cy="305" rx="31.55" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1028.55" cy="305" rx="31.55" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="1028.55" y="309">Имя</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="926.4" y1="306.9" x2="996.017" y2="305.605"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="465.6" y1="823" x2="585" y2="776"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="609.085" y1="821.021" x2="608.85" y2="794"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="703.95" y1="823" x2="629.676" y2="786.293"/>
+  <g>
+    <rect style="fill: #ffffff" x="362" y="448" width="89.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="362" y="448" width="89.6" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="406.8" y="470">Компания</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="366,371.55 405.25,348 444.5,371.55 405.25,395.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="366,371.55 405.25,348 444.5,371.55 405.25,395.1 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="360" y="365.55"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="450.5" y="365.55"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="405.25" y="375.55">Имеет</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="308,538.55 347.25,515 386.5,538.55 347.25,562.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="308,538.55 347.25,515 386.5,538.55 347.25,562.1 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="302" y="532.55"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="392.5" y="532.55"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="347.25" y="542.55">Имеет</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="406.8" y1="448" x2="405.25" y2="395.1"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="362" y1="484" x2="347.25" y2="515"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="308" y1="538.55" x2="272.3" y2="539"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="366" y1="371.55" x2="256.9" y2="325"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="845.95" cy="840" rx="46.95" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="845.95" cy="840" rx="46.95" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="845.95" y="844">Формула</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="744.9" y1="841" x2="799" y2="840"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="227.25" cy="840" rx="116.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="227.25" cy="840" rx="116.25" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="227.25" y="844">Пользовательское значение</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="390" y1="841" x2="343.5" y2="840"/>
+  <g>
+    <rect style="fill: #ffffff" x="698" y="900" width="89.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="698" y="900" width="89.6" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="742.8" y="922">Интервал</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="557,919.48 607.8,889 658.6,919.48 607.8,949.96 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="557,919.48 607.8,889 658.6,919.48 607.8,949.96 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="551" y="913.48"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="664.6" y="913.48"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="607.8" y="923.48">Сожержит</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="609.25" y1="858" x2="607.8" y2="889"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="658.6" y1="919.48" x2="697.041" y2="918.804"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="890.7" cy="877" rx="27.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="890.7" cy="877" rx="27.7" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="890.7" y="881">От</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="889.7" cy="918" rx="27.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="889.7" cy="918" rx="27.7" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="889.7" y="922">До</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="887.55" cy="961" rx="31.55" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="887.55" cy="961" rx="31.55" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="887.55" y="965">Тип</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="787.6" y1="918" x2="863" y2="877"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="787.6" y1="918" x2="862" y2="918"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="787.6" y1="918" x2="856" y2="961"/>
+  <g>
+    <polygon style="fill: #ffffff" points="356,591.48 406.8,561 457.6,591.48 406.8,621.96 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="356,591.48 406.8,561 457.6,591.48 406.8,621.96 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="350" y="585.48"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="463.6" y="585.48"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="406.8" y="595.48">Содержит</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="406.8" y1="561" x2="406.8" y2="484"/>
+  <g>
+    <rect style="fill: #ffffff" x="347" y="662" width="120.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="347" y="662" width="120.4" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="407.2" y="684">Пользователь</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="407.069" y1="660.998" x2="406.8" y2="621.96"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="288.8" cy="404" rx="50.8" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="288.8" cy="404" rx="50.8" ry="18"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="288.8" y="408">Название</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="362" y1="466" x2="339.6" y2="404"/>
+  <g>
+    <rect style="fill: #ffffff" x="513" y="579.502" width="166.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="513" y="579.502" width="166.6" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="596.3" y="601.502">Калькулятор ячейки</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="672,460.672 718.95,432.502 765.9,460.672 718.95,488.842 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="672,460.672 718.95,432.502 765.9,460.672 718.95,488.842 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="666" y="454.672"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="771.9" y="454.672"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="718.95" y="464.672">Считает</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="765.9" y1="460.672" x2="836.4" y2="461.9"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="679.6" y1="597.502" x2="718.95" y2="488.842"/>
+  <g>
+    <rect style="fill: #ffffff" x="496" y="396.502" width="197.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="496" y="396.502" width="197.4" height="36"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="594.7" y="418.502">Калькулятор декларации</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="548,341.672 594.95,313.502 641.9,341.672 594.95,369.842 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="548,341.672 594.95,313.502 641.9,341.672 594.95,369.842 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="542" y="335.672"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="647.9" y="335.672"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="594.95" y="345.672">Зависит</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="641.9" y1="341.672" x2="821.4" y2="306.9"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="594.7" y1="396.502" x2="594.95" y2="369.842"/>
+  <g>
+    <polygon style="fill: #ffffff" points="537,500.602 595.5,465.502 654,500.602 595.5,535.702 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="537,500.602 595.5,465.502 654,500.602 595.5,535.702 "/>
+    <text style="fill: #000000;text-anchor:end;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="531" y="494.602"></text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="660" y="494.602"></text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="595.5" y="504.602">Использует</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="594.7" y1="432.502" x2="595.5" y2="465.502"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="595.5" y1="535.702" x2="596.054" y2="578.521"/>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="152.602" y="163.981">
+    <tspan x="152.602" y="163.981"></tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="336.602" y="295.982">
+    <tspan x="336.602" y="295.982">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="785.102" y="296.782">
+    <tspan x="785.102" y="296.782">0..n</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="797.602" y="327.982">
+    <tspan x="797.602" y="327.982">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="608.602" y="388.982">
+    <tspan x="608.602" y="388.982">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="607.602" y="451.824">
+    <tspan x="607.602" y="451.824">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="604.102" y="568.782">
+    <tspan x="604.102" y="568.782">n</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="694.102" y="590.782">
+    <tspan x="694.102" y="590.782">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="814.102" y="481.782">
+    <tspan x="814.102" y="481.782">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="889.102" y="496.782">
+    <tspan x="889.102" y="496.782">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="889.102" y="579.532">
+    <tspan x="889.102" y="579.532">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="888.602" y="643.732">
+    <tspan x="888.602" y="643.732">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="671.102" y="691.532">
+    <tspan x="671.102" y="691.532">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="195.602" y="342.824">
+    <tspan x="195.602" y="342.824">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="191.602" y="510.732">
+    <tspan x="191.602" y="510.732">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="200.602" y="571.732">
+    <tspan x="200.602" y="571.732">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="194.102" y="670.532">
+    <tspan x="194.102" y="670.532">0..n</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="277.102" y="326.782">
+    <tspan x="277.102" y="326.782">0..n</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="418.102" y="435.782">
+    <tspan x="418.102" y="435.782">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="415.102" y="652.782">
+    <tspan x="415.102" y="652.782">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="417.102" y="498.782">
+    <tspan x="417.102" y="498.782">0..n</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="368.102" y="497.782">
+    <tspan x="368.102" y="497.782">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="283.102" y="526.782">
+    <tspan x="283.102" y="526.782">0..n</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="617.602" y="876.574">
+    <tspan x="617.602" y="876.574">1</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="669.102" y="912.374">
+    <tspan x="669.102" y="912.374">0..n</tspan>
+  </text>
+</svg>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="39cm" height="16cm" viewBox="120 297 771 306" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polygon style="fill: #ffffff" points="428,308 438,298 623.002,298 623.002,591.75 613.002,601.75 428,601.75 428,308 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="428,308 438,298 623.002,298 623.002,591.75 613.002,601.75 428,601.75 428,308 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="428" y1="308" x2="613.002" y2="308"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="613.002" y1="308" x2="623.002" y2="298"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="613.002" y1="308" x2="613.002" y2="601.75"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="438" y="329.9">
+      <tspan x="438" y="329.9">:Сервер приложений</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="438" y1="332.95" x2="580.2" y2="332.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="469" y="365" width="112.85" height="86"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="469" y="365" width="112.85" height="86"/>
+    <rect style="fill: #ffffff" x="449" y="387" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="449" y="387" width="40" height="14"/>
+    <rect style="fill: #ffffff" x="449" y="415" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="449" y="415" width="40" height="14"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="497" y="390.9">&lt;&lt;war&gt;&gt;</text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="497" y="406.9">
+      <tspan x="497" y="406.9">autotax.war</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="453" y="472" width="154.25" height="86"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="453" y="472" width="154.25" height="86"/>
+    <rect style="fill: #ffffff" x="433" y="494" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="433" y="494" width="40" height="14"/>
+    <rect style="fill: #ffffff" x="433" y="522" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="433" y="522" width="40" height="14"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="481" y="497.9">&lt;&lt;jar&gt;&gt;</text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="481" y="513.9">
+      <tspan x="481" y="513.9">autotax-engine.jar</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="687,371 697,361 890.002,361 890.002,528.75 880.002,538.75 687,538.75 687,371 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="687,371 697,361 890.002,361 890.002,528.75 880.002,538.75 687,538.75 687,371 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="687" y1="371" x2="880.002" y2="371"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="880.002" y1="371" x2="890.002" y2="361"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="880.002" y1="371" x2="880.002" y2="538.75"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="697" y="392.9">
+      <tspan x="697" y="392.9">:Сервер базы данных</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="697" y1="395.95" x2="841.75" y2="395.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="719" y="423" width="149.6" height="86"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="719" y="423" width="149.6" height="86"/>
+    <rect style="fill: #ffffff" x="699" y="445" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="699" y="445" width="40" height="14"/>
+    <rect style="fill: #ffffff" x="699" y="473" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="699" y="473" width="40" height="14"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="747" y="448.9">&lt;&lt;database&gt;&gt;</text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="747" y="464.9">
+      <tspan x="747" y="464.9">Database</tspan>
+      <tspan x="747" y="480.9">{vendor=Oracle}</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="121.002,365.05 131.002,355.05 366.452,355.05 366.452,535.05 356.452,545.05 121.002,545.05 121.002,365.05 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="121.002,365.05 131.002,355.05 366.452,355.05 366.452,535.05 356.452,545.05 121.002,545.05 121.002,365.05 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="121.002" y1="365.05" x2="356.452" y2="365.05"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="356.452" y1="365.05" x2="366.452" y2="355.05"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="356.452" y1="365.05" x2="356.452" y2="545.05"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="131.002" y="386.95">
+      <tspan x="131.002" y="386.95">:Рабочая станция пользователя</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="131.002" y1="390" x2="346.452" y2="390"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="181.9" y="415.05" width="133.35" height="86"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="181.9" y="415.05" width="133.35" height="86"/>
+    <rect style="fill: #ffffff" x="161.9" y="437.05" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="161.9" y="437.05" width="40" height="14"/>
+    <rect style="fill: #ffffff" x="161.9" y="465.05" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="161.9" y="465.05" width="40" height="14"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="209.9" y="440.95">&lt;&lt;браузер&gt;&gt;</text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:normal;font-weight:normal" x="209.9" y="456.95">
+      <tspan x="209.9" y="456.95"></tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="613.002,454.874 654.002,454.874 654.002,454.874 687,454.874 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="654.002" y="450.874">JDBC</text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="617.002" y="450.874"></text>
+    <text style="fill: #000000;text-anchor:end;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="683" y="450.874"></text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="356.452,455.05 369.002,455.05 369.002,454.874 428,454.874 "/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="371.002" y="450.962">HTTP</text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="360.452" y="451.05"></text>
+    <text style="fill: #000000;text-anchor:end;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="424" y="450.874"></text>
+  </g>
+</svg>
