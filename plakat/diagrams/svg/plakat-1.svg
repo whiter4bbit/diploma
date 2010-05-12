@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   viewBox="27 89 589.34819 415.60464"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="plakat-1.svg">
+  <metadata
+     id="metadata3140">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3138">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 761.81104 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="2940.9448 : 761.81104 : 1"
+       inkscape:persp3d-origin="1470.4724 : 507.87402 : 1"
+       id="perspective3142" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1281"
+     inkscape:window-height="846"
+     id="namedview3136"
+     showgrid="false"
+     inkscape:zoom="0.15489405"
+     inkscape:cx="1470.4724"
+     inkscape:cy="761.81104"
+     inkscape:window-x="76"
+     inkscape:window-y="43"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2816" />
+  <g
+     id="g2818"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="192.00301"
+       cy="459.00101"
+       rx="156.00301"
+       ry="52.000999"
+       id="ellipse2820"
+       sodipodi:cx="192.00301"
+       sodipodi:cy="459.00101"
+       sodipodi:rx="156.00301"
+       sodipodi:ry="52.000999"
+       d="m 348.00601,459.00101 c 0,28.71936 -69.84492,52.001 -156.003,52.001 C 105.84492,511.00201 36,487.72037 36,459.00101 c 0,-28.71936 69.84492,-52.001 156.00301,-52.001 86.15808,0 156.003,23.28164 156.003,52.001 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="192.00301"
+       cy="459.00101"
+       rx="156.00301"
+       ry="52.000999"
+       id="ellipse2822"
+       sodipodi:cx="192.00301"
+       sodipodi:cy="459.00101"
+       sodipodi:rx="156.00301"
+       sodipodi:ry="52.000999"
+       d="m 348.00601,459.00101 c 0,28.71936 -69.84492,52.001 -156.003,52.001 C 105.84492,511.00201 36,487.72037 36,459.00101 c 0,-28.71936 69.84492,-52.001 156.00301,-52.001 86.15808,0 156.003,23.28164 156.003,52.001 z" />
+    <text
+       style="font-size:22.96120071px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="192.00301"
+       y="466"
+       id="text2824">
+      <tspan
+         x="192.00301"
+         y="466"
+         id="tspan2826">Мини-бухгалтерия</tspan>
+    </text>
+  </g>
+  <g
+     id="g2828"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="625.79999"
+       cy="490.306"
+       rx="215.39999"
+       ry="86.106003"
+       id="ellipse2830"
+       sodipodi:cx="625.79999"
+       sodipodi:cy="490.306"
+       sodipodi:rx="215.39999"
+       sodipodi:ry="86.106003"
+       d="m 841.19998,490.306 c 0,47.55503 -96.43786,86.106 -215.39999,86.106 -118.96213,0 -215.4,-38.55097 -215.4,-86.106 0,-47.55503 96.43787,-86.106 215.4,-86.106 118.96213,0 215.39999,38.55097 215.39999,86.106 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="625.79999"
+       cy="490.306"
+       rx="215.39999"
+       ry="86.106003"
+       id="ellipse2832"
+       sodipodi:cx="625.79999"
+       sodipodi:cy="490.306"
+       sodipodi:rx="215.39999"
+       sodipodi:ry="86.106003"
+       d="m 841.19998,490.306 c 0,47.55503 -96.43786,86.106 -215.39999,86.106 -118.96213,0 -215.4,-38.55097 -215.4,-86.106 0,-47.55503 96.43787,-86.106 215.4,-86.106 118.96213,0 215.39999,38.55097 215.39999,86.106 z" />
+    <text
+       style="font-size:22.96120071px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="625.79999"
+       y="468.603"
+       id="text2834">
+      <tspan
+         x="625.79999"
+         y="468.603"
+         id="tspan2836">Интегрированная</tspan>
+      <tspan
+         x="625.79999"
+         y="497.30499"
+         id="tspan2838">бухгалтерская</tspan>
+      <tspan
+         x="625.79999"
+         y="526.00702"
+         id="tspan2840">система</tspan>
+    </text>
+  </g>
+  <g
+     id="g2842"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="1067.58"
+       cy="465.26001"
+       rx="177.181"
+       ry="59.060299"
+       id="ellipse2844"
+       sodipodi:cx="1067.58"
+       sodipodi:cy="465.26001"
+       sodipodi:rx="177.181"
+       sodipodi:ry="59.060299"
+       d="m 1244.761,465.26001 c 0,32.6181 -79.3267,59.0603 -177.181,59.0603 -97.85441,0 -177.18104,-26.4422 -177.18104,-59.0603 0,-32.6181 79.32663,-59.0603 177.18104,-59.0603 97.8543,0 177.181,26.4422 177.181,59.0603 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="1067.58"
+       cy="465.26001"
+       rx="177.181"
+       ry="59.060299"
+       id="ellipse2846"
+       sodipodi:cx="1067.58"
+       sodipodi:cy="465.26001"
+       sodipodi:rx="177.181"
+       sodipodi:ry="59.060299"
+       d="m 1244.761,465.26001 c 0,32.6181 -79.3267,59.0603 -177.181,59.0603 -97.85441,0 -177.18104,-26.4422 -177.18104,-59.0603 0,-32.6181 79.32663,-59.0603 177.18104,-59.0603 97.8543,0 177.181,26.4422 177.181,59.0603 z" />
+    <text
+       style="font-size:22.96120071px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="1067.58"
+       y="457.90799"
+       id="text2848">
+      <tspan
+         x="1067.58"
+         y="457.90799"
+         id="tspan2850">Бухгалтерский</tspan>
+      <tspan
+         x="1067.58"
+         y="486.60999"
+         id="tspan2852">конструктор</tspan>
+    </text>
+  </g>
+  <g
+     id="g2854"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="30.104,641.265 30.104,626.515 47.604,626.515 47.604,619.14 65.104,633.89 47.604,648.64 47.604,641.265 "
+       id="polygon2856" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="30.104,641.265 30.104,626.515 47.604,626.515 47.604,619.14 65.104,633.89 47.604,648.64 47.604,641.265 "
+       id="polygon2858" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="30.104,641.265 30.104,626.515 47.604,626.515 47.604,619.14 65.104,633.89 47.604,648.64 47.604,641.265 "
+       id="polygon2860" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="95.632935"
+     y="320.11139"
+     id="text2862">
+    <tspan
+       x="95.632935"
+       y="320.11139"
+       id="tspan2864">Отсутствие организации учета</tspan>
+    <tspan
+       x="95.632935"
+       y="327.00671"
+       id="tspan2866">по различным классам</tspan>
+  </text>
+  <g
+     id="g2868"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="28.604,697.565 28.604,682.815 46.104,682.815 46.104,675.44 63.604,690.19 46.104,704.94 46.104,697.565 "
+       id="polygon2870" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="28.604,697.565 28.604,682.815 46.104,682.815 46.104,675.44 63.604,690.19 46.104,704.94 46.104,697.565 "
+       id="polygon2872" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="28.604,697.565 28.604,682.815 46.104,682.815 46.104,675.44 63.604,690.19 46.104,704.94 46.104,697.565 "
+       id="polygon2874" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="95.473694"
+     y="338.36429"
+     id="text2876">
+    <tspan
+       x="95.473694"
+       y="338.36429"
+       id="tspan2878">Небольшой набор учетных</tspan>
+    <tspan
+       x="95.473694"
+       y="345.25961"
+       id="tspan2880">операций</tspan>
+  </text>
+  <g
+     id="g2882"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="28.604,749.565 28.604,734.815 46.104,734.815 46.104,727.44 63.604,742.19 46.104,756.94 46.104,749.565 "
+       id="polygon2884" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="28.604,749.565 28.604,734.815 46.104,734.815 46.104,727.44 63.604,742.19 46.104,756.94 46.104,749.565 "
+       id="polygon2886" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="28.604,749.565 28.604,734.815 46.104,734.815 46.104,727.44 63.604,742.19 46.104,756.94 46.104,749.565 "
+       id="polygon2888" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="95.792236"
+     y="355.56598"
+     id="text2890">
+    <tspan
+       x="95.792236"
+       y="355.56598"
+       id="tspan2892">Оформление небольшого набора</tspan>
+    <tspan
+       x="95.792236"
+       y="362.4613"
+       id="tspan2894">первичных документов</tspan>
+  </text>
+  <g
+     id="g2896"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="416.994,639.565 416.994,624.815 434.494,624.815 434.494,617.44 451.994,632.19 434.494,646.94 434.494,639.565 "
+       id="polygon2898" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="416.994,639.565 416.994,624.815 434.494,624.815 434.494,617.44 451.994,632.19 434.494,646.94 434.494,639.565 "
+       id="polygon2900" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="416.994,639.565 416.994,624.815 434.494,624.815 434.494,617.44 451.994,632.19 434.494,646.94 434.494,639.565 "
+       id="polygon2902" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="218.87671"
+     y="321.79971"
+     id="text2904">
+    <tspan
+       x="218.87671"
+       y="321.79971"
+       id="tspan2906">Огранизация работы в локальной сети</tspan>
+  </text>
+  <g
+     id="g2908"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="417.358,696.115 417.358,681.365 434.858,681.365 434.858,673.99 452.358,688.74 434.858,703.49 434.858,696.115 "
+       id="polygon2910" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="417.358,696.115 417.358,681.365 434.858,681.365 434.858,673.99 452.358,688.74 434.858,703.49 434.858,696.115 "
+       id="polygon2912" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="417.358,696.115 417.358,681.365 434.858,681.365 434.858,673.99 452.358,688.74 434.858,703.49 434.858,696.115 "
+       id="polygon2914" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="218.67413"
+     y="337.9024"
+     id="text2916">
+    <tspan
+       x="218.67413"
+       y="337.9024"
+       id="tspan2918">Использование централизированного</tspan>
+    <tspan
+       x="218.67413"
+       y="344.79807"
+       id="tspan2920">хранилища (СУБД)</tspan>
+  </text>
+  <g
+     id="g2922"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="417.358,747.565 417.358,732.815 434.858,732.815 434.858,725.44 452.358,740.19 434.858,754.94 434.858,747.565 "
+       id="polygon2924" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="417.358,747.565 417.358,732.815 434.858,732.815 434.858,725.44 452.358,740.19 434.858,754.94 434.858,747.565 "
+       id="polygon2926" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="417.358,747.565 417.358,732.815 434.858,732.815 434.858,725.44 452.358,740.19 434.858,754.94 434.858,747.565 "
+       id="polygon2928" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="217.71844"
+     y="355.24744"
+     id="text2930">
+    <tspan
+       x="217.71844"
+       y="355.24744"
+       id="tspan2932">Ведение учета по всем основным</tspan>
+    <tspan
+       x="217.71844"
+       y="362.14276"
+       id="tspan2934">участкам</tspan>
+  </text>
+  <g
+     id="g2936"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="908.568,642.115 908.568,627.365 926.068,627.365 926.068,619.99 943.568,634.74 926.068,649.49 926.068,642.115 "
+       id="polygon2938" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="908.568,642.115 908.568,627.365 926.068,627.365 926.068,619.99 943.568,634.74 926.068,649.49 926.068,642.115 "
+       id="polygon2940" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="908.568,642.115 908.568,627.365 926.068,627.365 926.068,619.99 943.568,634.74 926.068,649.49 926.068,642.115 "
+       id="polygon2942" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="375.46753"
+     y="319.74506"
+     id="text2944">
+    <tspan
+       x="375.46753"
+       y="319.74506"
+       id="tspan2946">Наличие встроенного</tspan>
+    <tspan
+       x="375.46753"
+       y="326.64072"
+       id="tspan2948">языка программирования</tspan>
+  </text>
+  <g
+     id="g2950"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="906.67,699.115 906.67,684.365 924.17,684.365 924.17,676.99 941.67,691.74 924.17,706.49 924.17,699.115 "
+       id="polygon2952" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="906.67,699.115 906.67,684.365 924.17,684.365 924.17,676.99 941.67,691.74 924.17,706.49 924.17,699.115 "
+       id="polygon2954" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="906.67,699.115 906.67,684.365 924.17,684.365 924.17,676.99 941.67,691.74 924.17,706.49 924.17,699.115 "
+       id="polygon2956" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="374.86292"
+     y="338.85803"
+     id="text2958">
+    <tspan
+       x="374.86292"
+       y="338.85803"
+       id="tspan2960" />
+  </text>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="376.23871"
+     y="339.63849"
+     id="text2962">
+    <tspan
+       x="376.23871"
+       y="339.63849"
+       id="tspan2964">Позволяют изменять методику</tspan>
+    <tspan
+       x="376.23871"
+       y="346.53381"
+       id="tspan2966">учета</tspan>
+  </text>
+  <g
+     id="g2968"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="185.606,794.64 165.606,794.64 165.606,814.64 155.606,814.64 175.606,834.64 195.606,814.64 185.606,814.64 "
+       id="polygon2970" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="185.606,794.64 165.606,794.64 165.606,814.64 155.606,814.64 175.606,834.64 195.606,814.64 185.606,814.64 "
+       id="polygon2972" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="185.606,794.64 165.606,794.64 165.606,814.64 155.606,814.64 175.606,834.64 195.606,814.64 185.606,814.64 "
+       id="polygon2974" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="103.11951"
+     y="396.56335"
+     id="text2976">
+    <tspan
+       x="103.11951"
+       y="396.56335"
+       id="tspan2978">1С</tspan>
+  </text>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="103.43805"
+     y="406.85251"
+     id="text2980">
+    <tspan
+       x="103.43805"
+       y="406.85251"
+       id="tspan2982">ИнфоСофт</tspan>
+  </text>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="104.0752"
+     y="417.6832"
+     id="text2984">
+    <tspan
+       x="104.0752"
+       y="417.6832"
+       id="tspan2986">Инфофин</tspan>
+  </text>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="237.229"
+     y="399.20731"
+     id="text2988">
+    <tspan
+       x="237.229"
+       y="399.20731"
+       id="tspan2990">1С</tspan>
+  </text>
+  <g
+     id="g2992"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="587.02,791.84 567.02,791.84 567.02,811.84 557.02,811.84 577.02,831.84 597.02,811.84 587.02,811.84 "
+       id="polygon2994" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="587.02,791.84 567.02,791.84 567.02,811.84 557.02,811.84 577.02,831.84 597.02,811.84 587.02,811.84 "
+       id="polygon2996" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="587.02,791.84 567.02,791.84 567.02,811.84 557.02,811.84 577.02,831.84 597.02,811.84 587.02,811.84 "
+       id="polygon2998" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="237.54755"
+     y="408.66824"
+     id="text3000">
+    <tspan
+       x="237.54755"
+       y="408.66824"
+       id="tspan3002">Галлактика</tspan>
+  </text>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="237.229"
+     y="416.409"
+     id="text3004">
+    <tspan
+       x="237.229"
+       y="416.409"
+       id="tspan3006">Парус</tspan>
+  </text>
+  <g
+     id="g3008"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="1053.02,787.84 1033.02,787.84 1033.02,807.84 1023.02,807.84 1043.02,827.84 1063.02,807.84 1053.02,807.84 "
+       id="polygon3010" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1053.02,787.84 1033.02,787.84 1033.02,807.84 1023.02,807.84 1043.02,827.84 1063.02,807.84 1053.02,807.84 "
+       id="polygon3012" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1053.02,787.84 1033.02,787.84 1033.02,807.84 1023.02,807.84 1043.02,827.84 1063.02,807.84 1053.02,807.84 "
+       id="polygon3014" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="390.7713"
+     y="396.02182"
+     id="text3016">
+    <tspan
+       x="390.7713"
+       y="396.02182"
+       id="tspan3018">1С</tspan>
+  </text>
+  <g
+     id="g3020"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="1484.49"
+       cy="466.79999"
+       rx="188.881"
+       ry="62.9603"
+       id="ellipse3022"
+       sodipodi:cx="1484.49"
+       sodipodi:cy="466.79999"
+       sodipodi:rx="188.881"
+       sodipodi:ry="62.9603"
+       d="m 1673.371,466.79999 c 0,34.77201 -84.5649,62.9603 -188.881,62.9603 -104.3161,0 -188.881,-28.18829 -188.881,-62.9603 0,-34.77202 84.5649,-62.9603 188.881,-62.9603 104.3161,0 188.881,28.18828 188.881,62.9603 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="1484.49"
+       cy="466.79999"
+       rx="188.881"
+       ry="62.9603"
+       id="ellipse3024"
+       sodipodi:cx="1484.49"
+       sodipodi:cy="466.79999"
+       sodipodi:rx="188.881"
+       sodipodi:ry="62.9603"
+       d="m 1673.371,466.79999 c 0,34.77201 -84.5649,62.9603 -188.881,62.9603 -104.3161,0 -188.881,-28.18829 -188.881,-62.9603 0,-34.77202 84.5649,-62.9603 188.881,-62.9603 104.3161,0 188.881,28.18828 188.881,62.9603 z" />
+    <text
+       style="font-size:22.96120071px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="1484.49"
+       y="459.448"
+       id="text3026">
+      <tspan
+         x="1484.49"
+         y="459.448"
+         id="tspan3028">Управленческие</tspan>
+      <tspan
+         x="1484.49"
+         y="488.14999"
+         id="tspan3030">системы</tspan>
+    </text>
+  </g>
+  <g
+     id="g3032"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="1327.51,639.565 1327.51,624.815 1345.01,624.815 1345.01,617.44 1362.51,632.19 1345.01,646.94 1345.01,639.565 "
+       id="polygon3034" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1327.51,639.565 1327.51,624.815 1345.01,624.815 1345.01,617.44 1362.51,632.19 1345.01,646.94 1345.01,639.565 "
+       id="polygon3036" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1327.51,639.565 1327.51,624.815 1345.01,624.815 1345.01,617.44 1362.51,632.19 1345.01,646.94 1345.01,639.565 "
+       id="polygon3038" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="508.92139"
+     y="318.93274"
+     id="text3040">
+    <tspan
+       x="508.92139"
+       y="318.93274"
+       id="tspan3042">Управленческий учет</tspan>
+  </text>
+  <g
+     id="g3044"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="1325.61,696.565 1325.61,681.815 1343.11,681.815 1343.11,674.44 1360.61,689.19 1343.11,703.94 1343.11,696.565 "
+       id="polygon3046" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1325.61,696.565 1325.61,681.815 1343.11,681.815 1343.11,674.44 1360.61,689.19 1343.11,703.94 1343.11,696.565 "
+       id="polygon3048" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1325.61,696.565 1325.61,681.815 1343.11,681.815 1343.11,674.44 1360.61,689.19 1343.11,703.94 1343.11,696.565 "
+       id="polygon3050" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="508.31616"
+     y="338.04575"
+     id="text3052">
+    <tspan
+       x="508.31616"
+       y="338.04575"
+       id="tspan3054" />
+  </text>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="509.69238"
+     y="338.82587"
+     id="text3056">
+    <tspan
+       x="509.69238"
+       y="338.82587"
+       id="tspan3058">Планирование и</tspan>
+    <tspan
+       x="509.69238"
+       y="345.72119"
+       id="tspan3060">управление</tspan>
+  </text>
+  <g
+     id="g3062"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="1325.61,760.115 1325.61,745.365 1343.11,745.365 1343.11,737.99 1360.61,752.74 1343.11,767.49 1343.11,760.115 "
+       id="polygon3064" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1325.61,760.115 1325.61,745.365 1343.11,745.365 1343.11,737.99 1360.61,752.74 1343.11,767.49 1343.11,760.115 "
+       id="polygon3066" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1325.61,760.115 1325.61,745.365 1343.11,745.365 1343.11,737.99 1360.61,752.74 1343.11,767.49 1343.11,760.115 "
+       id="polygon3068" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="509.69238"
+     y="361.61844"
+     id="text3070">
+    <tspan
+       x="509.69238"
+       y="361.61844"
+       id="tspan3072">Открытость архитектуры</tspan>
+  </text>
+  <g
+     id="g3074"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="1425.02,785.84 1405.02,785.84 1405.02,805.84 1395.02,805.84 1415.02,825.84 1435.02,805.84 1425.02,805.84 "
+       id="polygon3076" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1425.02,785.84 1405.02,785.84 1405.02,805.84 1395.02,805.84 1415.02,825.84 1435.02,805.84 1425.02,805.84 "
+       id="polygon3078" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1425.02,785.84 1405.02,785.84 1405.02,805.84 1395.02,805.84 1415.02,825.84 1435.02,805.84 1425.02,805.84 "
+       id="polygon3080" />
+  </g>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="509.27179"
+     y="395.3847"
+     id="text3082">
+    <tspan
+       x="509.27179"
+       y="395.3847"
+       id="tspan3084">Новый Атлант</tspan>
+  </text>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="511.18304"
+     y="406.21539"
+     id="text3086">
+    <tspan
+       x="511.18304"
+       y="406.21539"
+       id="tspan3088">SAP</tspan>
+  </text>
+  <text
+     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="509.909"
+     y="415.77191"
+     id="text3090">
+    <tspan
+       x="509.909"
+       y="415.77191"
+       id="tspan3092">Oracle</tspan>
+  </text>
+  <g
+     id="g3094"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <rect
+       style="fill:#ffffff"
+       x="45.608002"
+       y="90.639503"
+       width="1566"
+       height="148"
+       id="rect3096" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="45.608002"
+       y="90.639503"
+       width="1566"
+       height="148"
+       id="rect3098" />
+  </g>
+  <text
+     style="font-size:16.30433464px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="241.68933"
+     y="178.03816"
+     id="text3100">
+    <tspan
+       x="241.68933"
+       y="178.03816"
+       id="tspan3102">Бухгалтерские системы</tspan>
+  </text>
+  <g
+     id="g3104"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="223.608,266.64 163.608,266.64 163.608,326.64 133.608,326.64 193.608,386.64 253.608,326.64 223.608,326.64 "
+       id="polygon3106" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="223.608,266.64 163.608,266.64 163.608,326.64 133.608,326.64 193.608,386.64 253.608,326.64 223.608,326.64 "
+       id="polygon3108" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="223.608,266.64 163.608,266.64 163.608,326.64 133.608,326.64 193.608,386.64 253.608,326.64 223.608,326.64 "
+       id="polygon3110" />
+  </g>
+  <g
+     id="g3112"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="645.022,267.84 585.022,267.84 585.022,327.84 555.022,327.84 615.022,387.84 675.022,327.84 645.022,327.84 "
+       id="polygon3114" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="645.022,267.84 585.022,267.84 585.022,327.84 555.022,327.84 615.022,387.84 675.022,327.84 645.022,327.84 "
+       id="polygon3116" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="645.022,267.84 585.022,267.84 585.022,327.84 555.022,327.84 615.022,387.84 675.022,327.84 645.022,327.84 "
+       id="polygon3118" />
+  </g>
+  <g
+     id="g3120"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="1087.02,267.84 1027.02,267.84 1027.02,327.84 997.022,327.84 1057.02,387.84 1117.02,327.84 1087.02,327.84 "
+       id="polygon3122" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1087.02,267.84 1027.02,267.84 1027.02,327.84 997.022,327.84 1057.02,387.84 1117.02,327.84 1087.02,327.84 "
+       id="polygon3124" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1087.02,267.84 1027.02,267.84 1027.02,327.84 997.022,327.84 1057.02,387.84 1117.02,327.84 1087.02,327.84 "
+       id="polygon3126" />
+  </g>
+  <g
+     id="g3128"
+     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+    <polygon
+       style="fill:#ffffff"
+       points="1501.02,267.84 1441.02,267.84 1441.02,327.84 1411.02,327.84 1471.02,387.84 1531.02,327.84 1501.02,327.84 "
+       id="polygon3130" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1501.02,267.84 1441.02,267.84 1441.02,327.84 1411.02,327.84 1471.02,387.84 1531.02,327.84 1501.02,327.84 "
+       id="polygon3132" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1501.02,267.84 1441.02,267.84 1441.02,327.84 1411.02,327.84 1471.02,387.84 1531.02,327.84 1501.02,327.84 "
+       id="polygon3134" />
+  </g>
+</svg>

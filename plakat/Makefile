@@ -1,4 +1,4 @@
-DIA_SRC=$(notdir $(woldcard *.dia))
+DIA_SRC=$(notdir $(wildcard *.dia))
 IMAGES=$(DIA_SRC:.dia=.svg)
 
 pics: $(IMAGES)

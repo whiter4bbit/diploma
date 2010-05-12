@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   viewBox="140 -98 586.81452 411.29269"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="plakat-6.svg">
+  <metadata
+     id="metadata3160">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3158">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 726.37793 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="2196.8503 : 726.37793 : 1"
+       inkscape:persp3d-origin="1098.4252 : 484.25195 : 1"
+       id="perspective3162" />
+    <inkscape:perspective
+       id="perspective3176"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1131"
+     inkscape:window-height="750"
+     id="namedview3156"
+     showgrid="false"
+     inkscape:zoom="0.45947762"
+     inkscape:cx="35.609264"
+     inkscape:cy="543.87552"
+     inkscape:window-x="56"
+     inkscape:window-y="75"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2816" />
+  <g
+     id="g2818"
+     transform="matrix(0.40087731,0,0,0.40087731,113.97849,-19.413598)">
+    <polygon
+       style="fill:#ffffff"
+       points="259.2,531 259.2,531 269.2,521 775,521 775,657 765,667 259.2,667 "
+       id="polygon2820" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="259.2,531 259.2,531 269.2,521 775,521 775,657 765,667 259.2,667 "
+       id="polygon2822" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="259.20001"
+       y1="531"
+       x2="765"
+       y2="531"
+       id="line2824" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="765"
+       y1="531"
+       x2="775"
+       y2="521"
+       id="line2826" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="765"
+       y1="531"
+       x2="765"
+       y2="667"
+       id="line2828" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="269.20001"
+       y="552.90002"
+       id="text2830">
+      <tspan
+         x="269.20001"
+         y="552.90002"
+         id="tspan2832">:Сервер приложений</tspan>
+    </text>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1"
+       x1="269.20001"
+       y1="555.95001"
+       x2="411.39999"
+       y2="555.95001"
+       id="line2834" />
+  </g>
+  <g
+     id="g2836"
+     transform="matrix(0.40087731,0,0,0.40087731,113.97849,-19.413598)">
+    <polygon
+       style="fill:#ffffff"
+       points="264.2,-86 264.2,-86 274.2,-96 774,-96 774,174 764,184 264.2,184 "
+       id="polygon2838" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="264.2,-86 264.2,-86 274.2,-96 774,-96 774,174 764,184 264.2,184 "
+       id="polygon2840" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="264.20001"
+       y1="-86"
+       x2="764"
+       y2="-86"
+       id="line2842" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="764"
+       y1="-86"
+       x2="774"
+       y2="-96"
+       id="line2844" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="764"
+       y1="-86"
+       x2="764"
+       y2="184"
+       id="line2846" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="274.20001"
+       y="-64.099998"
+       id="text2848">
+      <tspan
+         x="274.20001"
+         y="-64.099998"
+         id="tspan2850">:Рабочая станция пользователя</tspan>
+    </text>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1"
+       x1="274.20001"
+       y1="-61.049999"
+       x2="489.64999"
+       y2="-61.049999"
+       id="line2852" />
+  </g>
+  <g
+     id="g2854"
+     transform="matrix(0.40087731,0,0,0.40087731,113.97849,-19.413598)">
+    <rect
+       style="fill:#ffffff"
+       x="290.20001"
+       y="-56"
+       width="461.25"
+       height="225.05"
+       id="rect2856" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="290.20001"
+       y="-56"
+       width="461.25"
+       height="225.05"
+       id="rect2858" />
+    <rect
+       style="fill:#ffffff"
+       x="270.20001"
+       y="35.525002"
+       width="40"
+       height="14"
+       id="rect2860" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="270.20001"
+       y="35.525002"
+       width="40"
+       height="14"
+       id="rect2862" />
+    <rect
+       style="fill:#ffffff"
+       x="270.20001"
+       y="63.525002"
+       width="40"
+       height="14"
+       id="rect2864" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="270.20001"
+       y="63.525002"
+       width="40"
+       height="14"
+       id="rect2866" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="318.20001"
+       y="-30.1"
+       id="text2868">&lt;&lt;браузер&gt;&gt;</text>
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="318.20001"
+       y="-14.1"
+       id="text2870">
+      <tspan
+         x="318.20001"
+         y="-14.1"
+         id="tspan2872" />
+      <tspan
+         x="318.20001"
+         y="1.9"
+         id="tspan2874" />
+      <tspan
+         x="318.20001"
+         y="17.9"
+         id="tspan2876" />
+      <tspan
+         x="318.20001"
+         y="33.900002"
+         id="tspan2878" />
+      <tspan
+         x="318.20001"
+         y="49.900002"
+         id="tspan2880" />
+      <tspan
+         x="318.20001"
+         y="65.900002"
+         id="tspan2882" />
+      <tspan
+         x="318.20001"
+         y="81.900002"
+         id="tspan2884" />
+      <tspan
+         x="318.20001"
+         y="97.900002"
+         id="tspan2886" />
+      <tspan
+         x="318.20001"
+         y="113.9"
+         id="tspan2888" />
+      <tspan
+         x="318.20001"
+         y="129.89999"
+         id="tspan2890" />
+      <tspan
+         x="318.20001"
+         y="145.89999"
+         id="tspan2892" />
+      <tspan
+         x="318.20001"
+         y="161.89999"
+         id="tspan2894" />
+    </text>
+  </g>
+  <image
+     sodipodi:absref="/home/whiter4bbit/documents/tex/diploma/plakat/diagrams/svg/../src/recalccell.png"
+     xlink:href="../src/recalccell.png"
+     id="image2896"
+     height="63.338615"
+     width="166.10872"
+     y="-25.42676"
+     x="241.93851" />
+  <g
+     id="g2898"
+     transform="matrix(0.40087731,0,0,0.40087731,113.97849,-19.413598)">
+    <rect
+       style="fill:#ffffff"
+       x="295"
+       y="567"
+       width="410.39999"
+       height="28"
+       id="rect2900" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="295"
+       y="567"
+       width="410.39999"
+       height="28"
+       id="rect2902" />
+    <text
+       style="font-size:16px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="500.20001"
+       y="586"
+       id="text2904">ReportStateController</text>
+    <rect
+       style="fill:#ffffff"
+       x="295"
+       y="595"
+       width="410.39999"
+       height="8"
+       id="rect2906" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="295"
+       y="595"
+       width="410.39999"
+       height="8"
+       id="rect2908" />
+    <rect
+       style="fill:#ffffff"
+       x="295"
+       y="603"
+       width="410.39999"
+       height="36"
+       id="rect2910" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="295"
+       y="603"
+       width="410.39999"
+       height="36"
+       id="rect2912" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:monospace"
+       x="298"
+       y="617"
+       id="text2914">+recalculateCell(cellName:String,taxKitId:Long,</text>
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:monospace"
+       x="298"
+       y="633"
+       id="text2916">reportName:String): List&lt;CellState&gt;</text>
+  </g>
+  <g
+     id="g2918"
+     transform="matrix(0.40087731,0,0,0.40087731,113.97849,-19.413598)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="514.09998"
+       y1="184"
+       x2="512.12598"
+       y2="526.52802"
+       id="line2920" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="507.171,518.735 512.113,528.764 517.17,518.793 "
+       id="polyline2922" />
+  </g>
+  <text
+     style="font-size:5.13114929px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="325.24081"
+     y="63.16713"
+     id="text2924">
+    <tspan
+       x="325.24081"
+       y="63.16713"
+       id="tspan2926">Асинхронный HTTP Запрос</tspan>
+  </text>
+  <g
+     id="g2928"
+     transform="matrix(0.40087731,0,0,0.40087731,113.97849,-19.413598)">
+    <polygon
+       style="fill:#ffffff"
+       points="754.1,369 766.1,381 766.1,467 571,467 571,369 "
+       id="polygon2930" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="754.1,369 766.1,381 766.1,467 571,467 571,369 "
+       id="polygon2932" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1"
+       points="754.1,369 754.1,381 766.1,381 "
+       id="polyline2934" />
+    <text
+       style="font-size:12.79979992px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:monospace"
+       x="578"
+       y="393.89999"
+       id="text2936">
+      <tspan
+         x="578"
+         y="393.89999"
+         id="tspan2938">JSON:</tspan>
+      <tspan
+         x="578"
+         y="409.89999"
+         id="tspan2940">{cellValue:</tspan>
+      <tspan
+         x="578"
+         y="425.89999"
+         id="tspan2942">{strValue:'5321350'},</tspan>
+      <tspan
+         x="578"
+         y="441.89999"
+         id="tspan2944">cellName: HJ2053} }</tspan>
+      <tspan
+         x="578"
+         y="457.89999"
+         id="tspan2946" />
+    </text>
+  </g>
+  <g
+     id="g2948"
+     transform="matrix(0.40087731,0,0,0.40087731,113.97849,-19.413598)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="412.5"
+       y1="517.5"
+       x2="413.95599"
+       y2="197.73599"
+       id="line2950" />
+    <polygon
+       style="fill:#000000"
+       points="413.956,197.736 408.944,200.213 413.99,190.236 418.944,200.259 "
+       id="polygon2952" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="413.956,197.736 408.944,200.213 413.99,190.236 418.944,200.259 "
+       id="polygon2954" />
+  </g>
+  <g
+     id="g2956"
+     transform="matrix(0.40087731,0,0,0.40087731,113.97849,-19.413598)">
+    <polygon
+       style="fill:#ffffff"
+       points="348.2,394.5 360.2,406.5 360.2,492.5 142,492.5 142,394.5 "
+       id="polygon2958" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="348.2,394.5 360.2,406.5 360.2,492.5 142,492.5 142,394.5 "
+       id="polygon2960" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1"
+       points="348.2,394.5 348.2,406.5 360.2,406.5 "
+       id="polyline2962" />
+    <text
+       style="font-size:12.79979992px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:monospace"
+       x="149"
+       y="419.39999"
+       id="text2964">
+      <tspan
+         x="149"
+         y="419.39999"
+         id="tspan2966">JSON:</tspan>
+      <tspan
+         x="149"
+         y="435.39999"
+         id="tspan2968">[{ state: {</tspan>
+      <tspan
+         x="149"
+         y="451.39999"
+         id="tspan2970">actualValue:'5321350'},</tspan>
+      <tspan
+         x="149"
+         y="467.39999"
+         id="tspan2972">name: 'HM2053'}]</tspan>
+      <tspan
+         x="149"
+         y="483.39999"
+         id="tspan2974" />
+    </text>
+  </g>
+  <text
+     style="font-size:5.13114929px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="241.05661"
+     y="111.83363"
+     id="text2976">
+    <tspan
+       x="241.05661"
+       y="111.83363"
+       id="tspan2978">HTTP Ответ</tspan>
+  </text>
+  <g
+     id="g2980"
+     transform="matrix(0.40087731,0,0,0.40087731,113.97849,-19.413598)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="360.20001"
+       y1="443.5"
+       x2="408.33701"
+       y2="361.155"
+       id="line2982" />
+    <polygon
+       style="fill:#000000"
+       points="408.337,361.155 402.758,360.79 412.122,354.68 411.391,365.837 "
+       id="polygon2984" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="408.337,361.155 402.758,360.79 412.122,354.68 411.391,365.837 "
+       id="polygon2986" />
+  </g>
+  <g
+     id="g2988"
+     transform="matrix(0.40087731,0,0,0.40087731,113.97849,-19.413598)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="571"
+       y1="418"
+       x2="519.83197"
+       y2="364.534"
+       id="line2990" />
+    <polygon
+       style="fill:#000000"
+       points="519.832,364.534 517.948,369.797 514.646,359.115 525.172,362.883 "
+       id="polygon2992" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="519.832,364.534 517.948,369.797 514.646,359.115 525.172,362.883 "
+       id="polygon2994" />
+  </g>
+  <g
+     id="g2996"
+     transform="matrix(0.40087731,0,0,0.40087731,140.67743,-21.840774)">
+    <polygon
+       style="fill:#ffffff"
+       points="894.2,-86.1 894.2,-86.1 904.2,-96.1 1319,-96.1 1319,173.9 1309,183.9 894.2,183.9 "
+       id="polygon2998" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="894.2,-86.1 894.2,-86.1 904.2,-96.1 1319,-96.1 1319,173.9 1309,183.9 894.2,183.9 "
+       id="polygon3000" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="894.20001"
+       y1="-86.099998"
+       x2="1309"
+       y2="-86.099998"
+       id="line3002" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1309"
+       y1="-86.099998"
+       x2="1319"
+       y2="-96.099998"
+       id="line3004" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1309"
+       y1="-86.099998"
+       x2="1309"
+       y2="183.89999"
+       id="line3006" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="904.20001"
+       y="-64.199997"
+       id="text3008">
+      <tspan
+         x="904.20001"
+         y="-64.199997"
+         id="tspan3010">:Рабочая станция пользователя</tspan>
+    </text>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1"
+       x1="904.20001"
+       y1="-61.150002"
+       x2="1119.65"
+       y2="-61.150002"
+       id="line3012" />
+  </g>
+  <g
+     id="g3014"
+     transform="matrix(0.40087731,0,0,0.40087731,140.67743,-21.840774)">
+    <rect
+       style="fill:#ffffff"
+       x="922.20001"
+       y="-52.099998"
+       width="368.10001"
+       height="225.05"
+       id="rect3016" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="922.20001"
+       y="-52.099998"
+       width="368.10001"
+       height="225.05"
+       id="rect3018" />
+    <rect
+       style="fill:#ffffff"
+       x="902.20001"
+       y="39.424999"
+       width="40"
+       height="14"
+       id="rect3020" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="902.20001"
+       y="39.424999"
+       width="40"
+       height="14"
+       id="rect3022" />
+    <rect
+       style="fill:#ffffff"
+       x="902.20001"
+       y="67.425003"
+       width="40"
+       height="14"
+       id="rect3024" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="902.20001"
+       y="67.425003"
+       width="40"
+       height="14"
+       id="rect3026" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="950.20001"
+       y="-26.200001"
+       id="text3028">&lt;&lt;браузер&gt;&gt;</text>
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="950.20001"
+       y="-10.2"
+       id="text3030">
+      <tspan
+         x="950.20001"
+         y="-10.2"
+         id="tspan3032" />
+      <tspan
+         x="950.20001"
+         y="5.8000002"
+         id="tspan3034" />
+      <tspan
+         x="950.20001"
+         y="21.799999"
+         id="tspan3036" />
+      <tspan
+         x="950.20001"
+         y="37.799999"
+         id="tspan3038" />
+      <tspan
+         x="950.20001"
+         y="53.799999"
+         id="tspan3040" />
+      <tspan
+         x="950.20001"
+         y="69.800003"
+         id="tspan3042" />
+      <tspan
+         x="950.20001"
+         y="85.800003"
+         id="tspan3044" />
+      <tspan
+         x="950.20001"
+         y="101.8"
+         id="tspan3046" />
+      <tspan
+         x="950.20001"
+         y="117.8"
+         id="tspan3048" />
+      <tspan
+         x="950.20001"
+         y="133.8"
+         id="tspan3050" />
+      <tspan
+         x="950.20001"
+         y="149.8"
+         id="tspan3052" />
+      <tspan
+         x="950.20001"
+         y="165.8"
+         id="tspan3054" />
+    </text>
+  </g>
+  <image
+     sodipodi:absref="/home/whiter4bbit/documents/tex/diploma/plakat/diagrams/svg/../src/savereport.png"
+     xlink:href="../src/savereport.png"
+     id="image3056"
+     height="71.005394"
+     width="113.44828"
+     y="-29.056572"
+     x="523.91614" />
+  <g
+     id="g3058"
+     transform="matrix(0.40087731,0,0,0.40087731,140.67743,-21.840774)">
+    <polygon
+       style="fill:#ffffff"
+       points="849.1,355.7 849.1,355.7 859.1,345.7 1364.9,345.7 1364.9,476 1354.9,486 849.1,486 "
+       id="polygon3060" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="849.1,355.7 849.1,355.7 859.1,345.7 1364.9,345.7 1364.9,476 1354.9,486 849.1,486 "
+       id="polygon3062" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="849.09998"
+       y1="355.70001"
+       x2="1354.9"
+       y2="355.70001"
+       id="line3064" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1354.9"
+       y1="355.70001"
+       x2="1364.9"
+       y2="345.70001"
+       id="line3066" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1354.9"
+       y1="355.70001"
+       x2="1354.9"
+       y2="486"
+       id="line3068" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="859.09998"
+       y="377.60001"
+       id="text3070">
+      <tspan
+         x="859.09998"
+         y="377.60001"
+         id="tspan3072">:Сервер приложений</tspan>
+    </text>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1"
+       x1="859.09998"
+       y1="380.64999"
+       x2="1001.3"
+       y2="380.64999"
+       id="line3074" />
+  </g>
+  <g
+     id="g3076"
+     transform="matrix(0.40087731,0,0,0.40087731,140.67743,-21.840774)">
+    <rect
+       style="fill:#ffffff"
+       x="893.09998"
+       y="404.70001"
+       width="418.10001"
+       height="28"
+       id="rect3078" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="893.09998"
+       y="404.70001"
+       width="418.10001"
+       height="28"
+       id="rect3080" />
+    <text
+       style="font-size:16px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="1102.15"
+       y="423.70001"
+       id="text3082">ReportStateController</text>
+    <rect
+       style="fill:#ffffff"
+       x="893.09998"
+       y="432.70001"
+       width="418.10001"
+       height="8"
+       id="rect3084" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="893.09998"
+       y="432.70001"
+       width="418.10001"
+       height="8"
+       id="rect3086" />
+    <rect
+       style="fill:#ffffff"
+       x="893.09998"
+       y="440.70001"
+       width="418.10001"
+       height="20"
+       id="rect3088" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="893.09998"
+       y="440.70001"
+       width="418.10001"
+       height="20"
+       id="rect3090" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:monospace"
+       x="896.09998"
+       y="454.70001"
+       id="text3092">+storeReport(taxKitId:Long,reportName:String): String</text>
+  </g>
+  <g
+     id="g3094"
+     transform="matrix(0.40087731,0,0,0.40087731,140.67743,-21.840774)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1101.6"
+       y1="183.89999"
+       x2="1101.99"
+       y2="351.228"
+       id="line3096" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1096.97,343.476 1101.99,353.464 1106.97,343.452 "
+       id="polyline3098" />
+  </g>
+  <text
+     style="font-size:5.13114929px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="588.49744"
+     y="57.372585"
+     id="text3100">
+    <tspan
+       x="588.49744"
+       y="57.372585"
+       id="tspan3102" />
+    <tspan
+       x="588.49744"
+       y="63.786633"
+       id="tspan3104">HTTP Запрос</tspan>
+  </text>
+  <g
+     id="g3106"
+     transform="matrix(0.40087731,0,0,0.40087731,140.67743,-21.840774)">
+    <polygon
+       style="fill:#ffffff"
+       points="1006.1,551.7 1006.1,551.7 1016.1,541.7 1209.1,541.7 1209.1,694 1199.1,704 1006.1,704 "
+       id="polygon3108" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1006.1,551.7 1006.1,551.7 1016.1,541.7 1209.1,541.7 1209.1,694 1199.1,704 1006.1,704 "
+       id="polygon3110" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1006.1"
+       y1="551.70001"
+       x2="1199.1"
+       y2="551.70001"
+       id="line3112" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1199.1"
+       y1="551.70001"
+       x2="1209.1"
+       y2="541.70001"
+       id="line3114" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1199.1"
+       y1="551.70001"
+       x2="1199.1"
+       y2="704"
+       id="line3116" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="1016.1"
+       y="573.59998"
+       id="text3118">
+      <tspan
+         x="1016.1"
+         y="573.59998"
+         id="tspan3120">:Сервер базы данных</tspan>
+    </text>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1"
+       x1="1016.1"
+       y1="576.65002"
+       x2="1160.85"
+       y2="576.65002"
+       id="line3122" />
+  </g>
+  <g
+     id="g3124"
+     transform="matrix(0.40087731,0,0,0.40087731,140.67743,-21.840774)">
+    <rect
+       style="fill:#ffffff"
+       x="1032.1"
+       y="600.70001"
+       width="149.60001"
+       height="86"
+       id="rect3126" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="1032.1"
+       y="600.70001"
+       width="149.60001"
+       height="86"
+       id="rect3128" />
+    <rect
+       style="fill:#ffffff"
+       x="1012.1"
+       y="622.70001"
+       width="40"
+       height="14"
+       id="rect3130" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="1012.1"
+       y="622.70001"
+       width="40"
+       height="14"
+       id="rect3132" />
+    <rect
+       style="fill:#ffffff"
+       x="1012.1"
+       y="650.70001"
+       width="40"
+       height="14"
+       id="rect3134" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="1012.1"
+       y="650.70001"
+       width="40"
+       height="14"
+       id="rect3136" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="1060.1"
+       y="626.59998"
+       id="text3138">&lt;&lt;database&gt;&gt;</text>
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="1060.1"
+       y="642.59998"
+       id="text3140">
+      <tspan
+         x="1060.1"
+         y="642.59998"
+         id="tspan3142">Database</tspan>
+      <tspan
+         x="1060.1"
+         y="658.59998"
+         id="tspan3144">{vendor=Oracle}</tspan>
+    </text>
+  </g>
+  <g
+     id="g3146"
+     transform="matrix(0.40087731,0,0,0.40087731,140.67743,-21.840774)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1102"
+       y1="486"
+       x2="1102.5601"
+       y2="547.22803"
+       id="line3148" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1097.49,539.51 1102.58,549.464 1107.49,539.419 "
+       id="polyline3150" />
+  </g>
+  <text
+     style="font-size:5.13114929px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="592.9071"
+     y="186.05418"
+     id="text3152">
+    <tspan
+       x="592.9071"
+       y="186.05418"
+       id="tspan3154">JDBC</tspan>
+  </text>
+  <text
+     xml:space="preserve"
+     style="font-size:11.1523304px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="262.57236"
+     y="-73.242119"
+     id="text3164"><tspan
+       sodipodi:role="line"
+       id="tspan3166"
+       x="262.57236"
+       y="-73.242119">Пересчет ячейки</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:11.1523304px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="516.21228"
+     y="-75.669296"
+     id="text3193"><tspan
+       sodipodi:role="line"
+       id="tspan3195"
+       x="516.21228"
+       y="-75.669296">Сохранение декларации</tspan></text>
+</svg>

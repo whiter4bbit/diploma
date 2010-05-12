@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   viewBox="-4 -171 590.53502 405.22221"
+   id="svg25318"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="usecase_1.svg">
+  <metadata
+     id="metadata25564">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs25562">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 478.34647 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="2125.9841 : 478.34647 : 1"
+       inkscape:persp3d-origin="1062.9921 : 318.89764 : 1"
+       id="perspective25566" />
+    <inkscape:perspective
+       id="perspective34635"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1154"
+     inkscape:window-height="853"
+     id="namedview25560"
+     showgrid="false"
+     inkscape:zoom="0.49336625"
+     inkscape:cx="388.58629"
+     inkscape:cy="342.06781"
+     inkscape:window-x="43"
+     inkscape:window-y="41"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg25318" />
+  <g
+     id="g25320"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="32"
+       cy="153"
+       rx="6"
+       ry="6"
+       id="ellipse25322"
+       sodipodi:cx="32"
+       sodipodi:cy="153"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       d="m 38,153 c 0,3.31371 -2.686292,6 -6,6 -3.313708,0 -6,-2.68629 -6,-6 0,-3.31371 2.686292,-6 6,-6 3.313708,0 6,2.68629 6,6 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="32"
+       cy="153"
+       rx="6"
+       ry="6"
+       id="ellipse25324"
+       sodipodi:cx="32"
+       sodipodi:cy="153"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       d="m 38,153 c 0,3.31371 -2.686292,6 -6,6 -3.313708,0 -6,-2.68629 -6,-6 0,-3.31371 2.686292,-6 6,-6 3.313708,0 6,2.68629 6,6 z" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="8"
+       y1="165"
+       x2="56"
+       y2="165"
+       id="line25326" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="32"
+       y1="159"
+       x2="32"
+       y2="189"
+       id="line25328" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="32"
+       y1="189"
+       x2="8"
+       y2="215"
+       id="line25330" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="32"
+       y1="189"
+       x2="56"
+       y2="215"
+       id="line25332" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="32"
+       y="238.89999"
+       id="text25334">
+      <tspan
+         x="32"
+         y="238.89999"
+         id="tspan25336">Бухгалтер</tspan>
+    </text>
+  </g>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.85364997"
+     x1="75.2155"
+     y1="58.914768"
+     x2="95.260475"
+     y2="58.552822"
+     id="line25338" />
+  <g
+     id="g25340"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="358.10001"
+       y1="100.217"
+       x2="218.83701"
+       y2="152.42999"
+       id="line25342" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="224.352,145.023 216.744,153.215 227.863,154.386 "
+       id="polyline25344" />
+  </g>
+  <g
+     id="g25346"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="214.64999"
+       cy="187.517"
+       rx="100.55"
+       ry="33.516701"
+       id="ellipse25348"
+       sodipodi:cx="214.64999"
+       sodipodi:cy="187.517"
+       sodipodi:rx="100.55"
+       sodipodi:ry="33.516701"
+       d="m 315.2,187.517 c 0,18.51076 -45.01777,33.5167 -100.55001,33.5167 -55.53223,0 -100.55,-15.00594 -100.55,-33.5167 0,-18.51076 45.01777,-33.5167 100.55,-33.5167 55.53224,0 100.55001,15.00594 100.55001,33.5167 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="214.64999"
+       cy="187.517"
+       rx="100.55"
+       ry="33.516701"
+       id="ellipse25350"
+       sodipodi:cx="214.64999"
+       sodipodi:cy="187.517"
+       sodipodi:rx="100.55"
+       sodipodi:ry="33.516701"
+       d="m 315.2,187.517 c 0,18.51076 -45.01777,33.5167 -100.55001,33.5167 -55.53223,0 -100.55,-15.00594 -100.55,-33.5167 0,-18.51076 45.01777,-33.5167 100.55,-33.5167 55.53224,0 100.55001,15.00594 100.55001,33.5167 z" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="214.64999"
+       y="191.41701"
+       id="text25352">
+      <tspan
+         x="214.64999"
+         y="191.41701"
+         id="tspan25354">Открытие декларации</tspan>
+    </text>
+  </g>
+  <g
+     id="g25356"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="463.75"
+       cy="100.217"
+       rx="105.65"
+       ry="35.216702"
+       id="ellipse25358"
+       sodipodi:cx="463.75"
+       sodipodi:cy="100.217"
+       sodipodi:rx="105.65"
+       sodipodi:ry="35.216702"
+       d="m 569.4,100.217 c 0,19.44965 -47.30112,35.2167 -105.65,35.2167 -58.34888,0 -105.65,-15.76705 -105.65,-35.2167 0,-19.449644 47.30112,-35.216699 105.65,-35.216699 58.34888,0 105.65,15.767055 105.65,35.216699 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="463.75"
+       cy="100.217"
+       rx="105.65"
+       ry="35.216702"
+       id="ellipse25360"
+       sodipodi:cx="463.75"
+       sodipodi:cy="100.217"
+       sodipodi:rx="105.65"
+       sodipodi:ry="35.216702"
+       d="m 569.4,100.217 c 0,19.44965 -47.30112,35.2167 -105.65,35.2167 -58.34888,0 -105.65,-15.76705 -105.65,-35.2167 0,-19.449644 47.30112,-35.216699 105.65,-35.216699 58.34888,0 105.65,15.767055 105.65,35.216699 z" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="463.75"
+       y="104.117"
+       id="text25362">
+      <tspan
+         x="463.75"
+         y="104.117"
+         id="tspan25364">Редактирование ячейки</tspan>
+    </text>
+  </g>
+  <g
+     id="g25366"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="742.75"
+       cy="3.21667"
+       rx="96.650002"
+       ry="32.216702"
+       id="ellipse25368"
+       sodipodi:cx="742.75"
+       sodipodi:cy="3.21667"
+       sodipodi:rx="96.650002"
+       sodipodi:ry="32.216702"
+       d="m 839.4,3.21667 c 0,17.792793 -43.27168,32.216702 -96.65,32.216702 -53.37832,0 -96.65,-14.423909 -96.65,-32.216702 0,-17.792793 43.27168,-32.216701 96.65,-32.216701 53.37832,0 96.65,14.423908 96.65,32.216701 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="742.75"
+       cy="3.21667"
+       rx="96.650002"
+       ry="32.216702"
+       id="ellipse25370"
+       sodipodi:cx="742.75"
+       sodipodi:cy="3.21667"
+       sodipodi:rx="96.650002"
+       sodipodi:ry="32.216702"
+       d="m 839.4,3.21667 c 0,17.792793 -43.27168,32.216702 -96.65,32.216702 -53.37832,0 -96.65,-14.423909 -96.65,-32.216702 0,-17.792793 43.27168,-32.216701 96.65,-32.216701 53.37832,0 96.65,14.423908 96.65,32.216701 z" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="742.75"
+       y="7.1166701"
+       id="text25372">
+      <tspan
+         x="742.75"
+         y="7.1166701"
+         id="tspan25374">Изменить тип ячейки</tspan>
+    </text>
+  </g>
+  <g
+     id="g25376"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="351.64999"
+       cy="293.85001"
+       rx="107.55"
+       ry="35.849998"
+       id="ellipse25378"
+       sodipodi:cx="351.64999"
+       sodipodi:cy="293.85001"
+       sodipodi:rx="107.55"
+       sodipodi:ry="35.849998"
+       d="m 459.2,293.85001 c 0,19.7994 -48.15178,35.84999 -107.55001,35.84999 -59.39822,0 -107.55,-16.05059 -107.55,-35.84999 0,-19.79941 48.15178,-35.85 107.55,-35.85 59.39823,0 107.55001,16.05059 107.55001,35.85 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="351.64999"
+       cy="293.85001"
+       rx="107.55"
+       ry="35.849998"
+       id="ellipse25380"
+       sodipodi:cx="351.64999"
+       sodipodi:cy="293.85001"
+       sodipodi:rx="107.55"
+       sodipodi:ry="35.849998"
+       d="m 459.2,293.85001 c 0,19.7994 -48.15178,35.84999 -107.55001,35.84999 -59.39822,0 -107.55,-16.05059 -107.55,-35.84999 0,-19.79941 48.15178,-35.85 107.55,-35.85 59.39823,0 107.55001,16.05059 107.55001,35.85 z" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="351.64999"
+       y="297.75"
+       id="text25382">
+      <tspan
+         x="351.64999"
+         y="297.75"
+         id="tspan25384">Сохранение декларации</tspan>
+    </text>
+  </g>
+  <text
+     style="font-size:5.46336031px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="145.62581"
+     y="23.332502"
+     id="text25386">
+    <tspan
+       x="145.62581"
+       y="23.332502"
+       id="tspan25388">&lt;&lt;расширяет&gt;&gt;</tspan>
+  </text>
+  <g
+     id="g25390"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="646.09998"
+       y1="3.21666"
+       x2="542.172"
+       y2="72.826103"
+       id="line25392" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="545.84,64.3513 540.314,74.0704 551.405,72.6598 "
+       id="polyline25394" />
+  </g>
+  <g
+     id="g25396"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="351.64999"
+       y1="258"
+       x2="285.68799"
+       y2="224.064"
+       id="line25398" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="294.88,223.17 283.7,223.041 290.305,232.062 "
+       id="polyline25400" />
+  </g>
+  <text
+     style="font-size:5.46336031px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="187.49734"
+     y="80.911194"
+     id="text25402">
+    <tspan
+       x="187.49734"
+       y="80.911194"
+       id="tspan25404">&lt;&lt;расширяет&gt;&gt;</tspan>
+  </text>
+  <text
+     style="font-size:5.46336031px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="289.55118"
+     y="33.106796"
+     id="text25406">
+    <tspan
+       x="289.55118"
+       y="33.106796"
+       id="tspan25408">&lt;&lt;расширяет&gt;&gt;</tspan>
+  </text>
+  <g
+     id="g25410"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="342.04999"
+       cy="-84.683296"
+       rx="102.95"
+       ry="34.3167"
+       id="ellipse25412"
+       sodipodi:cx="342.04999"
+       sodipodi:cy="-84.683296"
+       sodipodi:rx="102.95"
+       sodipodi:ry="34.3167"
+       d="m 444.99998,-84.683296 c 0,18.95259 -46.09228,34.3167 -102.94999,34.3167 -56.85772,0 -102.95,-15.36411 -102.95,-34.3167 0,-18.952594 46.09228,-34.316704 102.95,-34.316704 56.85771,0 102.94999,15.36411 102.94999,34.316704 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="342.04999"
+       cy="-84.683296"
+       rx="102.95"
+       ry="34.3167"
+       id="ellipse25414"
+       sodipodi:cx="342.04999"
+       sodipodi:cy="-84.683296"
+       sodipodi:rx="102.95"
+       sodipodi:ry="34.3167"
+       d="m 444.99998,-84.683296 c 0,18.95259 -46.09228,34.3167 -102.94999,34.3167 -56.85772,0 -102.95,-15.36411 -102.95,-34.3167 0,-18.952594 46.09228,-34.316704 102.95,-34.316704 56.85771,0 102.94999,15.36411 102.94999,34.316704 z" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="342.04999"
+       y="-80.783302"
+       id="text25416">
+      <tspan
+         x="342.04999"
+         y="-80.783302"
+         id="tspan25418">Пересчитать значение</tspan>
+    </text>
+  </g>
+  <g
+     id="g25420"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="342.04999"
+       y1="-50.3666"
+       x2="460.504"
+       y2="61.923302"
+       id="line25422" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="451.43,60.2106 462.127,63.4617 458.31,52.9533 "
+       id="polyline25424" />
+  </g>
+  <text
+     style="font-size:5.46336031px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="212.97881"
+     y="-26.819437"
+     id="text25426">
+    <tspan
+       x="212.97881"
+       y="-26.819437"
+       id="tspan25428">&lt;&lt;расширяет&gt;&gt;</tspan>
+  </text>
+  <text
+     style="font-size:5.46336031px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="192.55522"
+     y="-57.629108"
+     id="text25430">
+    <tspan
+       x="192.55522"
+       y="-57.629108"
+       id="tspan25432" />
+  </text>
+  <g
+     id="g25434"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="835.125"
+       cy="116.025"
+       rx="140.325"
+       ry="46.775002"
+       id="ellipse25436"
+       sodipodi:cx="835.125"
+       sodipodi:cy="116.025"
+       sodipodi:rx="140.325"
+       sodipodi:ry="46.775002"
+       d="m 975.45,116.025 c 0,25.83312 -62.82564,46.775 -140.325,46.775 -77.49936,0 -140.325,-20.94188 -140.325,-46.775 0,-25.833118 62.82564,-46.775 140.325,-46.775 77.49936,0 140.325,20.941882 140.325,46.775 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="835.125"
+       cy="116.025"
+       rx="140.325"
+       ry="46.775002"
+       id="ellipse25438"
+       sodipodi:cx="835.125"
+       sodipodi:cy="116.025"
+       sodipodi:rx="140.325"
+       sodipodi:ry="46.775002"
+       d="m 975.45,116.025 c 0,25.83312 -62.82564,46.775 -140.325,46.775 -77.49936,0 -140.325,-20.94188 -140.325,-46.775 0,-25.833118 62.82564,-46.775 140.325,-46.775 77.49936,0 140.325,20.941882 140.325,46.775 z" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="835.125"
+       y="119.925"
+       id="text25440">
+      <tspan
+         x="835.125"
+         y="119.925"
+         id="tspan25442">Изменить параметры типа ячейки</tspan>
+    </text>
+  </g>
+  <g
+     id="g25444"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="694.79999"
+       y1="116.025"
+       x2="573.83698"
+       y2="100.776"
+       id="line25446" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="582.165,96.7863 571.619,100.496 580.915,106.708 "
+       id="polyline25448" />
+  </g>
+  <text
+     style="font-size:5.46336031px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="294.41699"
+     y="1.073579"
+     id="text25450">
+    <tspan
+       x="294.41699"
+       y="1.073579"
+       id="tspan25452">&lt;&lt;расширяет&gt;&gt;</tspan>
+  </text>
+  <g
+     id="g25454"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="1102.8"
+       cy="196.25"
+       rx="6"
+       ry="6"
+       id="ellipse25456"
+       sodipodi:cx="1102.8"
+       sodipodi:cy="196.25"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       d="m 1108.8,196.25 c 0,3.31371 -2.6862,6 -6,6 -3.3137,0 -6,-2.68629 -6,-6 0,-3.31371 2.6863,-6 6,-6 3.3138,0 6,2.68629 6,6 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="1102.8"
+       cy="196.25"
+       rx="6"
+       ry="6"
+       id="ellipse25458"
+       sodipodi:cx="1102.8"
+       sodipodi:cy="196.25"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       d="m 1108.8,196.25 c 0,3.31371 -2.6862,6 -6,6 -3.3137,0 -6,-2.68629 -6,-6 0,-3.31371 2.6863,-6 6,-6 3.3138,0 6,2.68629 6,6 z" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1078.8"
+       y1="208.25"
+       x2="1126.8"
+       y2="208.25"
+       id="line25460" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1102.8"
+       y1="202.25"
+       x2="1102.8"
+       y2="232.25"
+       id="line25462" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1102.8"
+       y1="232.25"
+       x2="1078.8"
+       y2="258.25"
+       id="line25464" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1102.8"
+       y1="232.25"
+       x2="1126.8"
+       y2="258.25"
+       id="line25466" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="1102.8"
+       y="282.14999"
+       id="text25468">
+      <tspan
+         x="1102.8"
+         y="282.14999"
+         id="tspan25470">&lt;&lt;system&gt;&gt;</tspan>
+      <tspan
+         x="1102.8"
+         y="298.14999"
+         id="tspan25472">Калькулятор декларации</tspan>
+    </text>
+  </g>
+  <g
+     id="g25474"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="803.34998"
+       cy="229.767"
+       rx="103.55"
+       ry="34.516701"
+       id="ellipse25476"
+       sodipodi:cx="803.34998"
+       sodipodi:cy="229.767"
+       sodipodi:rx="103.55"
+       sodipodi:ry="34.516701"
+       d="m 906.89998,229.767 c 0,19.06305 -46.36092,34.5167 -103.55,34.5167 -57.18909,0 -103.55001,-15.45365 -103.55001,-34.5167 0,-19.06305 46.36092,-34.5167 103.55001,-34.5167 57.18908,0 103.55,15.45365 103.55,34.5167 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="803.34998"
+       cy="229.767"
+       rx="103.55"
+       ry="34.516701"
+       id="ellipse25478"
+       sodipodi:cx="803.34998"
+       sodipodi:cy="229.767"
+       sodipodi:rx="103.55"
+       sodipodi:ry="34.516701"
+       d="m 906.89998,229.767 c 0,19.06305 -46.36092,34.5167 -103.55,34.5167 -57.18909,0 -103.55001,-15.45365 -103.55001,-34.5167 0,-19.06305 46.36092,-34.5167 103.55001,-34.5167 57.18908,0 103.55,15.45365 103.55,34.5167 z" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="803.34998"
+       y="233.66701"
+       id="text25480">
+      <tspan
+         x="803.34998"
+         y="233.66701"
+         id="tspan25482">Посчитать декларацию</tspan>
+    </text>
+  </g>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.85364997"
+     x1="433.64731"
+     y1="76.585747"
+     x2="480.3121"
+     y2="77.177322"
+     id="line25484" />
+  <g
+     id="g25486"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="1084.8"
+       cy="-151.75"
+       rx="6"
+       ry="6"
+       id="ellipse25488"
+       sodipodi:cx="1084.8"
+       sodipodi:cy="-151.75"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       d="m 1090.8,-151.75 c 0,3.31371 -2.6862,6 -6,6 -3.3137,0 -6,-2.68629 -6,-6 0,-3.31371 2.6863,-6 6,-6 3.3138,0 6,2.68629 6,6 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="1084.8"
+       cy="-151.75"
+       rx="6"
+       ry="6"
+       id="ellipse25490"
+       sodipodi:cx="1084.8"
+       sodipodi:cy="-151.75"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       d="m 1090.8,-151.75 c 0,3.31371 -2.6862,6 -6,6 -3.3137,0 -6,-2.68629 -6,-6 0,-3.31371 2.6863,-6 6,-6 3.3138,0 6,2.68629 6,6 z" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1060.8"
+       y1="-139.75"
+       x2="1108.8"
+       y2="-139.75"
+       id="line25492" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1084.8"
+       y1="-145.75"
+       x2="1084.8"
+       y2="-115.75"
+       id="line25494" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1084.8"
+       y1="-115.75"
+       x2="1060.8"
+       y2="-89.75"
+       id="line25496" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="1084.8"
+       y1="-115.75"
+       x2="1108.8"
+       y2="-89.75"
+       id="line25498" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="1084.8"
+       y="-65.849998"
+       id="text25500">
+      <tspan
+         x="1084.8"
+         y="-65.849998"
+         id="tspan25502">&lt;&lt;system&gt;&gt;</tspan>
+      <tspan
+         x="1084.8"
+         y="-49.849998"
+         id="tspan25504">Калькулятор ячейки</tspan>
+    </text>
+  </g>
+  <g
+     id="g25506"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="828.625"
+       cy="-114.808"
+       rx="92.824997"
+       ry="30.9417"
+       id="ellipse25508"
+       sodipodi:cx="828.625"
+       sodipodi:cy="-114.808"
+       sodipodi:rx="92.824997"
+       sodipodi:ry="30.9417"
+       d="m 921.45,-114.808 c 0,17.08863 -41.55917,30.941701 -92.825,30.941701 -51.26583,0 -92.825,-13.853071 -92.825,-30.941701 0,-17.08863 41.55917,-30.9417 92.825,-30.9417 51.26583,0 92.825,13.85307 92.825,30.9417 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="828.625"
+       cy="-114.808"
+       rx="92.824997"
+       ry="30.9417"
+       id="ellipse25510"
+       sodipodi:cx="828.625"
+       sodipodi:cy="-114.808"
+       sodipodi:rx="92.824997"
+       sodipodi:ry="30.9417"
+       d="m 921.45,-114.808 c 0,17.08863 -41.55917,30.941701 -92.825,30.941701 -51.26583,0 -92.825,-13.853071 -92.825,-30.941701 0,-17.08863 41.55917,-30.9417 92.825,-30.9417 51.26583,0 92.825,13.85307 92.825,30.9417 z" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="828.625"
+       y="-110.908"
+       id="text25512">
+      <tspan
+         x="828.625"
+         y="-110.908"
+         id="tspan25514">Пересчитать ячейку</tspan>
+    </text>
+  </g>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.85364997"
+     x1="479.92371"
+     y1="-70.717964"
+     x2="439.85764"
+     y2="-70.487045"
+     id="line25516" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.85364997"
+     x="92.57148"
+     y="-85.401169"
+     width="375.17917"
+     height="212.55885"
+     id="rect25518" />
+  <g
+     id="g25520"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="315.20001"
+       y1="187.517"
+       x2="695.35498"
+       y2="229.278"
+       id="line25522" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="687.091,233.4 697.577,229.522 688.183,223.46 "
+       id="polyline25524" />
+  </g>
+  <text
+     style="font-size:5.46336031px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="234.23468"
+     y="62.152237"
+     id="text25526">
+    <tspan
+       x="234.23468"
+       y="62.152237"
+       id="tspan25528">&lt;&lt;включает&gt;&gt;</tspan>
+  </text>
+  <g
+     id="g25530"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="445"
+       y1="-84.683403"
+       x2="731.35199"
+       y2="-114.348"
+       id="line25532" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="724.144,-108.574 733.576,-114.578 723.114,-118.521 "
+       id="polyline25534" />
+  </g>
+  <g
+     id="g25536"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="742.75"
+       y1="-29"
+       x2="761.638"
+       y2="-88.665604"
+       id="line25538" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="764.062,-79.7547 762.313,-90.7974 754.528,-82.7727 "
+       id="polyline25540" />
+  </g>
+  <g
+     id="g25542"
+     transform="matrix(0.42682499,0,0,0.42682499,46.559736,-21.484122)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="934.34998"
+       y1="82.949997"
+       x2="895.25598"
+       y2="-88.568901"
+       id="line25544" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="901.856,-82.1103 894.759,-90.749 892.106,-79.888 "
+       id="polyline25546" />
+  </g>
+  <text
+     style="font-size:5.46336031px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="266.6734"
+     y="-52.236858"
+     id="text25548">
+    <tspan
+       x="266.6734"
+       y="-52.236858"
+       id="tspan25550">&lt;&lt;включает&gt;&gt;</tspan>
+  </text>
+  <text
+     style="font-size:5.46336031px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="370.776"
+     y="-42.718662"
+     id="text25552">
+    <tspan
+       x="370.776"
+       y="-42.718662"
+       id="tspan25554">&lt;&lt;включает&gt;&gt;</tspan>
+  </text>
+  <text
+     style="font-size:5.46336031px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="392.07458"
+     y="-1.1885918"
+     id="text25556">
+    <tspan
+       x="392.07458"
+       y="-1.1885918"
+       id="tspan25558">&lt;&lt;включает&gt;&gt;</tspan>
+  </text>
+</svg>
