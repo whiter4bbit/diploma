@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -7,13 +8,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1052.3622"
+   width="1052.3625"
    height="744.09448"
-   viewBox="27 89 589.34819 415.60464"
+   viewBox="27 89 589.3484 415.60465"
    id="svg2816"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="plakat-1.svg">
+   sodipodi:docname="plakat-1.svg"
+   inkscape:export-filename="/home/whiter4bbit/documents/tex/diploma/plakat/diagrams/svg/plakat-1.pdf.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata3140">
     <rdf:RDF>
@@ -22,6 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,6 +39,48 @@
        inkscape:vp_z="2940.9448 : 761.81104 : 1"
        inkscape:persp3d-origin="1470.4724 : 507.87402 : 1"
        id="perspective3142" />
+    <inkscape:perspective
+       id="perspective12898"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective14281"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective14303"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective14325"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective16117"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective16621"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -48,773 +95,2029 @@
      inkscape:window-height="846"
      id="namedview3136"
      showgrid="false"
-     inkscape:zoom="0.15489405"
-     inkscape:cx="1470.4724"
-     inkscape:cy="761.81104"
-     inkscape:window-x="76"
-     inkscape:window-y="43"
+     inkscape:zoom="0.6195762"
+     inkscape:cx="810.48268"
+     inkscape:cy="428.24899"
+     inkscape:window-x="157"
+     inkscape:window-y="66"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2816" />
-  <g
-     id="g2818"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <ellipse
-       style="fill:#ffffff"
-       cx="192.00301"
-       cy="459.00101"
-       rx="156.00301"
-       ry="52.000999"
-       id="ellipse2820"
-       sodipodi:cx="192.00301"
-       sodipodi:cy="459.00101"
-       sodipodi:rx="156.00301"
-       sodipodi:ry="52.000999"
-       d="m 348.00601,459.00101 c 0,28.71936 -69.84492,52.001 -156.003,52.001 C 105.84492,511.00201 36,487.72037 36,459.00101 c 0,-28.71936 69.84492,-52.001 156.00301,-52.001 86.15808,0 156.003,23.28164 156.003,52.001 z" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:2"
-       cx="192.00301"
-       cy="459.00101"
-       rx="156.00301"
-       ry="52.000999"
-       id="ellipse2822"
-       sodipodi:cx="192.00301"
-       sodipodi:cy="459.00101"
-       sodipodi:rx="156.00301"
-       sodipodi:ry="52.000999"
-       d="m 348.00601,459.00101 c 0,28.71936 -69.84492,52.001 -156.003,52.001 C 105.84492,511.00201 36,487.72037 36,459.00101 c 0,-28.71936 69.84492,-52.001 156.00301,-52.001 86.15808,0 156.003,23.28164 156.003,52.001 z" />
-    <text
-       style="font-size:22.96120071px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="192.00301"
-       y="466"
-       id="text2824">
-      <tspan
-         x="192.00301"
-         y="466"
-         id="tspan2826">Мини-бухгалтерия</tspan>
-    </text>
-  </g>
-  <g
-     id="g2828"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <ellipse
-       style="fill:#ffffff"
-       cx="625.79999"
-       cy="490.306"
-       rx="215.39999"
-       ry="86.106003"
-       id="ellipse2830"
-       sodipodi:cx="625.79999"
-       sodipodi:cy="490.306"
-       sodipodi:rx="215.39999"
-       sodipodi:ry="86.106003"
-       d="m 841.19998,490.306 c 0,47.55503 -96.43786,86.106 -215.39999,86.106 -118.96213,0 -215.4,-38.55097 -215.4,-86.106 0,-47.55503 96.43787,-86.106 215.4,-86.106 118.96213,0 215.39999,38.55097 215.39999,86.106 z" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:2"
-       cx="625.79999"
-       cy="490.306"
-       rx="215.39999"
-       ry="86.106003"
-       id="ellipse2832"
-       sodipodi:cx="625.79999"
-       sodipodi:cy="490.306"
-       sodipodi:rx="215.39999"
-       sodipodi:ry="86.106003"
-       d="m 841.19998,490.306 c 0,47.55503 -96.43786,86.106 -215.39999,86.106 -118.96213,0 -215.4,-38.55097 -215.4,-86.106 0,-47.55503 96.43787,-86.106 215.4,-86.106 118.96213,0 215.39999,38.55097 215.39999,86.106 z" />
-    <text
-       style="font-size:22.96120071px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="625.79999"
-       y="468.603"
-       id="text2834">
-      <tspan
-         x="625.79999"
-         y="468.603"
-         id="tspan2836">Интегрированная</tspan>
-      <tspan
-         x="625.79999"
-         y="497.30499"
-         id="tspan2838">бухгалтерская</tspan>
-      <tspan
-         x="625.79999"
-         y="526.00702"
-         id="tspan2840">система</tspan>
-    </text>
-  </g>
-  <g
-     id="g2842"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <ellipse
-       style="fill:#ffffff"
-       cx="1067.58"
-       cy="465.26001"
-       rx="177.181"
-       ry="59.060299"
-       id="ellipse2844"
-       sodipodi:cx="1067.58"
-       sodipodi:cy="465.26001"
-       sodipodi:rx="177.181"
-       sodipodi:ry="59.060299"
-       d="m 1244.761,465.26001 c 0,32.6181 -79.3267,59.0603 -177.181,59.0603 -97.85441,0 -177.18104,-26.4422 -177.18104,-59.0603 0,-32.6181 79.32663,-59.0603 177.18104,-59.0603 97.8543,0 177.181,26.4422 177.181,59.0603 z" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:2"
-       cx="1067.58"
-       cy="465.26001"
-       rx="177.181"
-       ry="59.060299"
-       id="ellipse2846"
-       sodipodi:cx="1067.58"
-       sodipodi:cy="465.26001"
-       sodipodi:rx="177.181"
-       sodipodi:ry="59.060299"
-       d="m 1244.761,465.26001 c 0,32.6181 -79.3267,59.0603 -177.181,59.0603 -97.85441,0 -177.18104,-26.4422 -177.18104,-59.0603 0,-32.6181 79.32663,-59.0603 177.18104,-59.0603 97.8543,0 177.181,26.4422 177.181,59.0603 z" />
-    <text
-       style="font-size:22.96120071px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="1067.58"
-       y="457.90799"
-       id="text2848">
-      <tspan
-         x="1067.58"
-         y="457.90799"
-         id="tspan2850">Бухгалтерский</tspan>
-      <tspan
-         x="1067.58"
-         y="486.60999"
-         id="tspan2852">конструктор</tspan>
-    </text>
-  </g>
-  <g
-     id="g2854"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="30.104,641.265 30.104,626.515 47.604,626.515 47.604,619.14 65.104,633.89 47.604,648.64 47.604,641.265 "
-       id="polygon2856" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="30.104,641.265 30.104,626.515 47.604,626.515 47.604,619.14 65.104,633.89 47.604,648.64 47.604,641.265 "
-       id="polygon2858" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="30.104,641.265 30.104,626.515 47.604,626.515 47.604,619.14 65.104,633.89 47.604,648.64 47.604,641.265 "
-       id="polygon2860" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="95.632935"
-     y="320.11139"
-     id="text2862">
-    <tspan
-       x="95.632935"
-       y="320.11139"
-       id="tspan2864">Отсутствие организации учета</tspan>
-    <tspan
-       x="95.632935"
-       y="327.00671"
-       id="tspan2866">по различным классам</tspan>
-  </text>
-  <g
-     id="g2868"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="28.604,697.565 28.604,682.815 46.104,682.815 46.104,675.44 63.604,690.19 46.104,704.94 46.104,697.565 "
-       id="polygon2870" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="28.604,697.565 28.604,682.815 46.104,682.815 46.104,675.44 63.604,690.19 46.104,704.94 46.104,697.565 "
-       id="polygon2872" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="28.604,697.565 28.604,682.815 46.104,682.815 46.104,675.44 63.604,690.19 46.104,704.94 46.104,697.565 "
-       id="polygon2874" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="95.473694"
-     y="338.36429"
-     id="text2876">
-    <tspan
-       x="95.473694"
-       y="338.36429"
-       id="tspan2878">Небольшой набор учетных</tspan>
-    <tspan
-       x="95.473694"
-       y="345.25961"
-       id="tspan2880">операций</tspan>
-  </text>
-  <g
-     id="g2882"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="28.604,749.565 28.604,734.815 46.104,734.815 46.104,727.44 63.604,742.19 46.104,756.94 46.104,749.565 "
-       id="polygon2884" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="28.604,749.565 28.604,734.815 46.104,734.815 46.104,727.44 63.604,742.19 46.104,756.94 46.104,749.565 "
-       id="polygon2886" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="28.604,749.565 28.604,734.815 46.104,734.815 46.104,727.44 63.604,742.19 46.104,756.94 46.104,749.565 "
-       id="polygon2888" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="95.792236"
-     y="355.56598"
-     id="text2890">
-    <tspan
-       x="95.792236"
-       y="355.56598"
-       id="tspan2892">Оформление небольшого набора</tspan>
-    <tspan
-       x="95.792236"
-       y="362.4613"
-       id="tspan2894">первичных документов</tspan>
-  </text>
-  <g
-     id="g2896"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="416.994,639.565 416.994,624.815 434.494,624.815 434.494,617.44 451.994,632.19 434.494,646.94 434.494,639.565 "
-       id="polygon2898" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="416.994,639.565 416.994,624.815 434.494,624.815 434.494,617.44 451.994,632.19 434.494,646.94 434.494,639.565 "
-       id="polygon2900" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="416.994,639.565 416.994,624.815 434.494,624.815 434.494,617.44 451.994,632.19 434.494,646.94 434.494,639.565 "
-       id="polygon2902" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="218.87671"
-     y="321.79971"
-     id="text2904">
-    <tspan
-       x="218.87671"
-       y="321.79971"
-       id="tspan2906">Огранизация работы в локальной сети</tspan>
-  </text>
-  <g
-     id="g2908"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="417.358,696.115 417.358,681.365 434.858,681.365 434.858,673.99 452.358,688.74 434.858,703.49 434.858,696.115 "
-       id="polygon2910" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="417.358,696.115 417.358,681.365 434.858,681.365 434.858,673.99 452.358,688.74 434.858,703.49 434.858,696.115 "
-       id="polygon2912" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="417.358,696.115 417.358,681.365 434.858,681.365 434.858,673.99 452.358,688.74 434.858,703.49 434.858,696.115 "
-       id="polygon2914" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="218.67413"
-     y="337.9024"
-     id="text2916">
-    <tspan
-       x="218.67413"
-       y="337.9024"
-       id="tspan2918">Использование централизированного</tspan>
-    <tspan
-       x="218.67413"
-       y="344.79807"
-       id="tspan2920">хранилища (СУБД)</tspan>
-  </text>
-  <g
-     id="g2922"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="417.358,747.565 417.358,732.815 434.858,732.815 434.858,725.44 452.358,740.19 434.858,754.94 434.858,747.565 "
-       id="polygon2924" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="417.358,747.565 417.358,732.815 434.858,732.815 434.858,725.44 452.358,740.19 434.858,754.94 434.858,747.565 "
-       id="polygon2926" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="417.358,747.565 417.358,732.815 434.858,732.815 434.858,725.44 452.358,740.19 434.858,754.94 434.858,747.565 "
-       id="polygon2928" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="217.71844"
-     y="355.24744"
-     id="text2930">
-    <tspan
-       x="217.71844"
-       y="355.24744"
-       id="tspan2932">Ведение учета по всем основным</tspan>
-    <tspan
-       x="217.71844"
-       y="362.14276"
-       id="tspan2934">участкам</tspan>
-  </text>
-  <g
-     id="g2936"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="908.568,642.115 908.568,627.365 926.068,627.365 926.068,619.99 943.568,634.74 926.068,649.49 926.068,642.115 "
-       id="polygon2938" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="908.568,642.115 908.568,627.365 926.068,627.365 926.068,619.99 943.568,634.74 926.068,649.49 926.068,642.115 "
-       id="polygon2940" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="908.568,642.115 908.568,627.365 926.068,627.365 926.068,619.99 943.568,634.74 926.068,649.49 926.068,642.115 "
-       id="polygon2942" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="375.46753"
-     y="319.74506"
-     id="text2944">
-    <tspan
-       x="375.46753"
-       y="319.74506"
-       id="tspan2946">Наличие встроенного</tspan>
-    <tspan
-       x="375.46753"
-       y="326.64072"
-       id="tspan2948">языка программирования</tspan>
-  </text>
-  <g
-     id="g2950"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="906.67,699.115 906.67,684.365 924.17,684.365 924.17,676.99 941.67,691.74 924.17,706.49 924.17,699.115 "
-       id="polygon2952" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="906.67,699.115 906.67,684.365 924.17,684.365 924.17,676.99 941.67,691.74 924.17,706.49 924.17,699.115 "
-       id="polygon2954" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="906.67,699.115 906.67,684.365 924.17,684.365 924.17,676.99 941.67,691.74 924.17,706.49 924.17,699.115 "
-       id="polygon2956" />
-  </g>
+     inkscape:current-layer="svg2816"
+     units="mm"
+     inkscape:document-units="pt"
+     borderlayer="false" />
   <text
      style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
      x="374.86292"
-     y="338.85803"
+     y="338.85791"
      id="text2958">
     <tspan
        x="374.86292"
-       y="338.85803"
+       y="338.85791"
        id="tspan2960" />
   </text>
   <text
      style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="376.23871"
-     y="339.63849"
-     id="text2962">
-    <tspan
-       x="376.23871"
-       y="339.63849"
-       id="tspan2964">Позволяют изменять методику</tspan>
-    <tspan
-       x="376.23871"
-       y="346.53381"
-       id="tspan2966">учета</tspan>
-  </text>
-  <g
-     id="g2968"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="185.606,794.64 165.606,794.64 165.606,814.64 155.606,814.64 175.606,834.64 195.606,814.64 185.606,814.64 "
-       id="polygon2970" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="185.606,794.64 165.606,794.64 165.606,814.64 155.606,814.64 175.606,834.64 195.606,814.64 185.606,814.64 "
-       id="polygon2972" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="185.606,794.64 165.606,794.64 165.606,814.64 155.606,814.64 175.606,834.64 195.606,814.64 185.606,814.64 "
-       id="polygon2974" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="103.11951"
-     y="396.56335"
-     id="text2976">
-    <tspan
-       x="103.11951"
-       y="396.56335"
-       id="tspan2978">1С</tspan>
-  </text>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="103.43805"
-     y="406.85251"
-     id="text2980">
-    <tspan
-       x="103.43805"
-       y="406.85251"
-       id="tspan2982">ИнфоСофт</tspan>
-  </text>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="104.0752"
-     y="417.6832"
-     id="text2984">
-    <tspan
-       x="104.0752"
-       y="417.6832"
-       id="tspan2986">Инфофин</tspan>
-  </text>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="237.229"
-     y="399.20731"
-     id="text2988">
-    <tspan
-       x="237.229"
-       y="399.20731"
-       id="tspan2990">1С</tspan>
-  </text>
-  <g
-     id="g2992"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="587.02,791.84 567.02,791.84 567.02,811.84 557.02,811.84 577.02,831.84 597.02,811.84 587.02,811.84 "
-       id="polygon2994" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="587.02,791.84 567.02,791.84 567.02,811.84 557.02,811.84 577.02,831.84 597.02,811.84 587.02,811.84 "
-       id="polygon2996" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="587.02,791.84 567.02,791.84 567.02,811.84 557.02,811.84 577.02,831.84 597.02,811.84 587.02,811.84 "
-       id="polygon2998" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="237.54755"
-     y="408.66824"
-     id="text3000">
-    <tspan
-       x="237.54755"
-       y="408.66824"
-       id="tspan3002">Галлактика</tspan>
-  </text>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="237.229"
-     y="416.409"
-     id="text3004">
-    <tspan
-       x="237.229"
-       y="416.409"
-       id="tspan3006">Парус</tspan>
-  </text>
-  <g
-     id="g3008"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="1053.02,787.84 1033.02,787.84 1033.02,807.84 1023.02,807.84 1043.02,827.84 1063.02,807.84 1053.02,807.84 "
-       id="polygon3010" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="1053.02,787.84 1033.02,787.84 1033.02,807.84 1023.02,807.84 1043.02,827.84 1063.02,807.84 1053.02,807.84 "
-       id="polygon3012" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="1053.02,787.84 1033.02,787.84 1033.02,807.84 1023.02,807.84 1043.02,827.84 1063.02,807.84 1053.02,807.84 "
-       id="polygon3014" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="390.7713"
-     y="396.02182"
-     id="text3016">
-    <tspan
-       x="390.7713"
-       y="396.02182"
-       id="tspan3018">1С</tspan>
-  </text>
-  <g
-     id="g3020"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <ellipse
-       style="fill:#ffffff"
-       cx="1484.49"
-       cy="466.79999"
-       rx="188.881"
-       ry="62.9603"
-       id="ellipse3022"
-       sodipodi:cx="1484.49"
-       sodipodi:cy="466.79999"
-       sodipodi:rx="188.881"
-       sodipodi:ry="62.9603"
-       d="m 1673.371,466.79999 c 0,34.77201 -84.5649,62.9603 -188.881,62.9603 -104.3161,0 -188.881,-28.18829 -188.881,-62.9603 0,-34.77202 84.5649,-62.9603 188.881,-62.9603 104.3161,0 188.881,28.18828 188.881,62.9603 z" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:2"
-       cx="1484.49"
-       cy="466.79999"
-       rx="188.881"
-       ry="62.9603"
-       id="ellipse3024"
-       sodipodi:cx="1484.49"
-       sodipodi:cy="466.79999"
-       sodipodi:rx="188.881"
-       sodipodi:ry="62.9603"
-       d="m 1673.371,466.79999 c 0,34.77201 -84.5649,62.9603 -188.881,62.9603 -104.3161,0 -188.881,-28.18829 -188.881,-62.9603 0,-34.77202 84.5649,-62.9603 188.881,-62.9603 104.3161,0 188.881,28.18828 188.881,62.9603 z" />
-    <text
-       style="font-size:22.96120071px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="1484.49"
-       y="459.448"
-       id="text3026">
-      <tspan
-         x="1484.49"
-         y="459.448"
-         id="tspan3028">Управленческие</tspan>
-      <tspan
-         x="1484.49"
-         y="488.14999"
-         id="tspan3030">системы</tspan>
-    </text>
-  </g>
-  <g
-     id="g3032"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="1327.51,639.565 1327.51,624.815 1345.01,624.815 1345.01,617.44 1362.51,632.19 1345.01,646.94 1345.01,639.565 "
-       id="polygon3034" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="1327.51,639.565 1327.51,624.815 1345.01,624.815 1345.01,617.44 1362.51,632.19 1345.01,646.94 1345.01,639.565 "
-       id="polygon3036" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="1327.51,639.565 1327.51,624.815 1345.01,624.815 1345.01,617.44 1362.51,632.19 1345.01,646.94 1345.01,639.565 "
-       id="polygon3038" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="508.92139"
-     y="318.93274"
-     id="text3040">
-    <tspan
-       x="508.92139"
-       y="318.93274"
-       id="tspan3042">Управленческий учет</tspan>
-  </text>
-  <g
-     id="g3044"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="1325.61,696.565 1325.61,681.815 1343.11,681.815 1343.11,674.44 1360.61,689.19 1343.11,703.94 1343.11,696.565 "
-       id="polygon3046" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="1325.61,696.565 1325.61,681.815 1343.11,681.815 1343.11,674.44 1360.61,689.19 1343.11,703.94 1343.11,696.565 "
-       id="polygon3048" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="1325.61,696.565 1325.61,681.815 1343.11,681.815 1343.11,674.44 1360.61,689.19 1343.11,703.94 1343.11,696.565 "
-       id="polygon3050" />
-  </g>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
      x="508.31616"
-     y="338.04575"
+     y="338.04541"
      id="text3052">
     <tspan
        x="508.31616"
-       y="338.04575"
+       y="338.04541"
        id="tspan3054" />
   </text>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.54191536;stroke-linecap:butt"
+     id="rect220"
+     class="st4"
+     height="411.72385"
+     width="583.37878"
+     y="91.176331"
+     x="31.338779" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.52026236;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path230"
+     class="st5"
+     d="m 31.437368,101.76977 c -0.677912,0 60.542616,0.113 60.542616,0.113 l 0,-10.579993"
+     sodipodi:nodetypes="ccc" />
+  <g
+     transform="matrix(0,0.2823498,-0.25143331,0,1001.9511,470.64178)"
+     v:groupContext="shape"
+     v:mID="51"
+     id="shape51-86">
+    <title
+       id="title238">Sheet.51</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path240"
+       class="st6"
+       d="m 0,1683.78 113.39,0" />
+  </g>
+  <g
+     transform="matrix(0,0.2823498,-0.25143331,0,952.05919,458.63678)"
+     v:groupContext="shape"
+     v:mID="52"
+     id="shape52-89">
+    <title
+       id="title243">Sheet.52</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path245"
+       class="st6"
+       d="m 0,1683.78 155.91,0" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.37424,-12.776223)"
+     v:groupContext="shape"
+     v:mID="53"
+     id="shape53-92">
+    <title
+       id="title248">Sheet.53</title>
+    <path
+       style="stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
+       id="path250"
+       class="st7"
+       d="m 0,1683.78 184.25,0" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.37424,-8.7742226)"
+     v:groupContext="shape"
+     v:mID="54"
+     id="shape54-95">
+    <title
+       id="title253">Sheet.54</title>
+    <path
+       style="stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
+       id="path255"
+       class="st7"
+       d="m 0,1683.78 184.25,0" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.37424,-4.7722226)"
+     v:groupContext="shape"
+     v:mID="55"
+     id="shape55-98">
+    <title
+       id="title258">Sheet.55</title>
+    <path
+       style="stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
+       id="path260"
+       class="st7"
+       d="m 0,1683.78 184.25,0" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.37424,-0.77122261)"
+     v:groupContext="shape"
+     v:mID="56"
+     id="shape56-101">
+    <title
+       id="title263">Sheet.56</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path265"
+       class="st6"
+       d="m 0,1683.78 184.25,0" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.37424,3.2307774)"
+     v:groupContext="shape"
+     v:mID="57"
+     id="shape57-104">
+    <title
+       id="title268">Sheet.57</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path270"
+       class="st6"
+       d="m 0,1683.78 184.25,0" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.37424,7.2327774)"
+     v:groupContext="shape"
+     v:mID="58"
+     id="shape58-107">
+    <title
+       id="title273">Sheet.58</title>
+    <path
+       style="stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
+       id="path275"
+       class="st7"
+       d="m 0,1683.78 184.25,0" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.37424,11.234777)"
+     v:groupContext="shape"
+     v:mID="59"
+     id="shape59-110">
+    <title
+       id="title278">Sheet.59</title>
+    <path
+       style="stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
+       id="path280"
+       class="st7"
+       d="m 0,1683.78 184.25,0" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.37424,15.236777)"
+     v:groupContext="shape"
+     v:mID="60"
+     id="shape60-113">
+    <title
+       id="title283">Sheet.60</title>
+    <path
+       style="stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
+       id="path285"
+       class="st7"
+       d="m 0,1683.78 184.25,0" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.37424,19.238777)"
+     v:groupContext="shape"
+     v:mID="61"
+     id="shape61-116">
+    <title
+       id="title288">Sheet.61</title>
+    <path
+       style="stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
+       id="path290"
+       class="st7"
+       d="m 0,1683.78 184.25,0" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.37424,23.239777)"
+     v:groupContext="shape"
+     v:mID="62"
+     id="shape62-119">
+    <title
+       id="title293">Sheet.62</title>
+    <path
+       style="stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
+       id="path295"
+       class="st7"
+       d="m 0,1683.78 184.25,0" />
+  </g>
+  <g
+     transform="matrix(0.25189991,0,0,0.2823498,528.70134,-4.7722226)"
+     v:groupContext="shape"
+     v:mID="63"
+     id="shape63-122">
+    <title
+       id="title298">Sheet.63</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path300"
+       class="st6"
+       d="m 0,1683.78 340.16,0" />
+  </g>
+  <g
+     transform="matrix(0.25189991,0,0,0.2823498,528.70134,15.236777)"
+     v:groupContext="shape"
+     v:mID="64"
+     id="shape64-125">
+    <title
+       id="title303">Sheet.64</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path305"
+       class="st6"
+       d="m 0,1683.78 340.16,0" />
+  </g>
+  <g
+     transform="matrix(0,0.2823498,-0.25143331,0,910.72106,458.63678)"
+     v:groupContext="shape"
+     v:mID="65"
+     id="shape65-128">
+    <title
+       id="title308">Sheet.65</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path310"
+       class="st6"
+       d="m 0,1683.78 70.87,0" />
+  </g>
+  <g
+     transform="matrix(0,0.2823498,-0.25143331,0,917.84922,458.63678)"
+     v:groupContext="shape"
+     v:mID="66"
+     id="shape66-131">
+    <title
+       id="title313">Sheet.66</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path315"
+       class="st6"
+       d="m 0,1683.78 155.91,0" />
+  </g>
+  <g
+     transform="matrix(0,0.2823498,-0.25143331,0,934.24264,458.63678)"
+     v:groupContext="shape"
+     v:mID="67"
+     id="shape67-134">
+    <title
+       id="title318">Sheet.67</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path320"
+       class="st6"
+       d="m 0,1683.78 155.91,0" />
+  </g>
+  <g
+     transform="matrix(0,0.2823498,-0.25143331,0,944.93108,458.63678)"
+     v:groupContext="shape"
+     v:mID="68"
+     id="shape68-137">
+    <title
+       id="title323">Sheet.68</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path325"
+       class="st6"
+       d="m 0,1683.78 155.91,0" />
+  </g>
+  <g
+     transform="matrix(0.25365226,0,0,0.2823498,578.59528,-0.77122261)"
+     v:groupContext="shape"
+     v:mID="69"
+     id="shape69-140">
+    <title
+       id="title328">Sheet.69</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path330"
+       class="st6"
+       d="m 0,1683.78 141.73,0" />
+  </g>
+  <g
+     transform="matrix(0.25254278,0,0,0.2823498,578.59401,11.234777)"
+     v:groupContext="shape"
+     v:mID="70"
+     id="shape70-143">
+    <title
+       id="title333">Sheet.70</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path335"
+       class="st6"
+       d="m 0,1683.78 141.73,0" />
+  </g>
+  <g
+     transform="matrix(0,0.2823498,-0.25143331,0,1012.642,470.64178)"
+     v:groupContext="shape"
+     v:mID="71"
+     id="shape71-146">
+    <title
+       id="title338">Sheet.71</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path340"
+       class="st6"
+       d="m 0,1683.78 56.69,0" />
+  </g>
+  <g
+     transform="matrix(0,0.2823498,-0.25143331,0,1024.7585,470.64178)"
+     v:groupContext="shape"
+     v:mID="72"
+     id="shape72-149">
+    <title
+       id="title343">Sheet.72</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path345"
+       class="st6"
+       d="m 0,1683.78 56.69,0" />
+  </g>
+  <g
+     transform="matrix(0,0.2823498,-0.25143331,0,1016.2048,486.64878)"
+     v:groupContext="shape"
+     v:mID="73"
+     id="shape73-152">
+    <title
+       id="title348">Sheet.73</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
+       id="path350"
+       class="st6"
+       d="m 0,1683.78 14.17,0" />
+  </g>
+  <g
+     transform="matrix(0,0.2823498,-0.25143331,0,1005.5139,474.64278)"
+     v:groupContext="shape"
+     v:mID="74"
+     id="shape74-155">
+    <title
+       id="title353">Sheet.74</title>
+    <path
+       style="stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
+       id="path355"
+       class="st7"
+       d="m 0,1683.78 42.52,0" />
+  </g>
+  <g
+     transform="matrix(0,0.2823498,-0.25143331,0,1009.0767,474.64278)"
+     v:groupContext="shape"
+     v:mID="75"
+     id="shape75-158">
+    <title
+       id="title358">Sheet.75</title>
+    <path
+       style="stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
+       id="path360"
+       class="st7"
+       d="m 0,1683.78 42.52,0" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,494.13378,3.2307774)"
+     v:groupContext="shape"
+     v:mID="78"
+     id="shape78-161">
+    <title
+       id="title363">Sheet.78</title>
+    <desc
+       id="desc365">№ докум</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="66.62"
+       cy="1676.69"
+       cx="33.3071" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect367"
+       class="st8"
+       height="14.1732"
+       width="66.614197"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text369"
+       v:langID="1033"
+       class="st9"
+       y="1679.6899"
+       x="12.72"><v:paragraph
+   v:horizAlign="1" />
+<v:tabList />
+№ докум</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,510.88426,3.2307774)"
+     v:groupContext="shape"
+     v:mID="79"
+     id="shape79-164">
+    <title
+       id="title372">Sheet.79</title>
+    <desc
+       id="desc374">Подп.</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="42.52"
+       cy="1676.69"
+       cx="21.2598" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect376"
+       class="st8"
+       height="14.1732"
+       width="42.519699"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text378"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="9.1999998"><v:paragraph
+   v:horizAlign="1" />
+<v:tabList />
+Подп.</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,521.57521,3.2307774)"
+     v:groupContext="shape"
+     v:mID="80"
+     id="shape80-167">
+    <title
+       id="title381">Sheet.80</title>
+    <desc
+       id="desc383">Дата</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="28.35"
+       cy="1676.69"
+       cx="14.1732" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect385"
+       class="st8"
+       height="14.1732"
+       width="28.3465"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text387"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="4.0599999"><v:paragraph
+   v:horizAlign="1" />
+<v:tabList />
+Дата</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,528.70081,-4.7722226)"
+     v:groupContext="shape"
+     v:mID="89"
+     id="shape89-170">
+    <title
+       id="title390">Sheet.89</title>
+    <desc
+       id="desc392">ИИДП 8.70112.01</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(4,4,4,4)" />
+    <v:textRect
+       height="42.5197"
+       width="340.16"
+       cy="1662.52"
+       cx="170.079" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect394"
+       class="st8"
+       height="42.519699"
+       width="340.15701"
+       y="1641.26"
+       x="0" />
+    <text
+       style="fill:#000000;font-family:Arial"
+       id="text396"
+       v:langID="1049"
+       class="st11"
+       y="1669.72"
+       x="72.68">ГУИР 4.70223.01</text>
+  </g>
+  <rect
+     x="528.70093"
+     y="470.64111"
+     width="49.890656"
+     height="20.009029"
+     class="st8"
+     id="rect403"
+     style="fill:none;stroke:none" />
   <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="509.69238"
-     y="338.82587"
-     id="text3056">
+     x="560.01331"
+     y="453.34387"
+     class="st12"
+     v:langID="1049"
+     id="text405"
+     style="font-size:3.19732976px;fill:#000000;font-family:Arial"
+     transform="scale(0.94366463,1.0596985)">
     <tspan
-       x="509.69238"
-       y="338.82587"
-       id="tspan3058">Планирование и</tspan>
-    <tspan
-       x="509.69238"
-       y="345.72119"
-       id="tspan3060">управление</tspan>
+       x="563.61035"
+       dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+       class="st3"
+       id="tspan409"
+       style="font-size:3.19732976px" />
   </text>
   <g
-     id="g3062"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="1325.61,760.115 1325.61,745.365 1343.11,745.365 1343.11,737.99 1360.61,752.74 1343.11,767.49 1343.11,760.115 "
-       id="polygon3064" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="1325.61,760.115 1325.61,745.365 1343.11,745.365 1343.11,737.99 1360.61,752.74 1343.11,767.49 1343.11,760.115 "
-       id="polygon3066" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="1325.61,760.115 1325.61,745.365 1343.11,745.365 1343.11,737.99 1360.61,752.74 1343.11,767.49 1343.11,760.115 "
-       id="polygon3068" />
+     transform="matrix(0.25143331,0,0,0.2823498,582.15556,11.234777)"
+     v:groupContext="shape"
+     v:mID="91"
+     id="shape91-178">
+    <title
+       id="title412">Sheet.91</title>
+    <desc
+       id="desc414">У</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="42.5197"
+       width="14.18"
+       cy="1662.52"
+       cx="7.08661" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect416"
+       class="st8"
+       height="42.519699"
+       width="14.1732"
+       y="1641.26"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text418"
+       v:langID="1049"
+       class="st12"
+       y="1666.72"
+       x="2.8499999"><v:paragraph
+   v:indentLeft="2.83" />
+<v:tabList />
+У</text>
   </g>
   <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="509.69238"
-     y="361.61844"
-     id="text3070">
-    <tspan
-       x="509.69238"
-       y="361.61844"
-       id="tspan3072">Открытость архитектуры</tspan>
-  </text>
+     x="-71.34156"
+     y="-95.760315"
+     class="st13"
+     v:langID="1049"
+     id="text427"
+     style="font-size:2.88955688px;fill:#000000;font-family:Arial"
+     transform="scale(-1,-1)">ГУИР 4.70223.01</text>
   <g
-     id="g3074"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
-    <polygon
-       style="fill:#ffffff"
-       points="1425.02,785.84 1405.02,785.84 1405.02,805.84 1395.02,805.84 1415.02,825.84 1435.02,805.84 1425.02,805.84 "
-       id="polygon3076" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="1425.02,785.84 1405.02,785.84 1405.02,805.84 1395.02,805.84 1415.02,825.84 1435.02,805.84 1425.02,805.84 "
-       id="polygon3078" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="1425.02,785.84 1405.02,785.84 1405.02,805.84 1395.02,805.84 1415.02,825.84 1435.02,805.84 1425.02,805.84 "
-       id="polygon3080" />
+     transform="matrix(0.25143331,0,0,0.2823498,578.59274,27.241777)"
+     v:groupContext="shape"
+     v:mID="99"
+     id="shape99-294">
+    <title
+       id="title530">Sheet.99</title>
+    <desc
+       id="desc532">БГУИР гр. 321701</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(4,4,4,4)" />
+    <v:textRect
+       height="42.5197"
+       width="141.74"
+       cy="1662.52"
+       cx="70.8661" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect534"
+       class="st8"
+       height="42.519699"
+       width="141.73199"
+       y="1641.26"
+       x="0" />
+    <text
+       style="fill:#000000;font-family:Arial"
+       id="text536"
+       v:langID="1049"
+       class="st12"
+       y="1666.72"
+       x="12.71">БГУИР гр. 521703</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.73131,3.2307774)"
+     v:groupContext="shape"
+     v:mID="100"
+     id="shape100-297">
+    <title
+       id="title539">Sheet.100</title>
+    <desc
+       id="desc541">Изм.</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="19.85"
+       cy="1676.69"
+       cx="9.92126" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect543"
+       class="st8"
+       height="14.1732"
+       width="19.842501"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text545"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="0.28"><v:paragraph
+   v:horizAlign="1" />
+<v:tabList />
+Изм.</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,487.18417,3.2307774)"
+     v:groupContext="shape"
+     v:mID="76"
+     id="shape76-300">
+    <title
+       id="title548">Sheet.76</title>
+    <desc
+       id="desc550">Лист</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="29.77"
+       cy="1676.69"
+       cx="14.8819" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect552"
+       class="st8"
+       height="14.1732"
+       width="29.7638"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text554"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="5.0999999"><v:paragraph
+   v:horizAlign="1" />
+<v:tabList />
+Лист</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.37424,7.6327774)"
+     v:groupContext="shape"
+     v:mID="77"
+     id="shape77-303">
+    <title
+       id="title557">Sheet.77</title>
+    <desc
+       id="desc559">Разраб.</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="47.06"
+       cy="1676.69"
+       cx="23.5276" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect561"
+       class="st8"
+       height="14.1732"
+       width="47.055099"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text563"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="2.8499999"><v:paragraph
+   v:indentLeft="2.83" />
+<v:tabList />
+Разраб.</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.73131,11.234777)"
+     v:groupContext="shape"
+     v:mID="81"
+     id="shape81-306">
+    <title
+       id="title566">Sheet.81</title>
+    <desc
+       id="desc568">Пров.</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="48.19"
+       cy="1676.69"
+       cx="24.0945" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect570"
+       class="st8"
+       height="14.1732"
+       width="48.188999"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text572"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="2.8499999"><v:paragraph
+   v:indentLeft="2.83" />
+<v:tabList />
+Пров.</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.73131,15.236777)"
+     v:groupContext="shape"
+     v:mID="82"
+     id="shape82-309">
+    <title
+       id="title575">Sheet.82</title>
+    <desc
+       id="desc577">Т. контр.</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="47.63"
+       cy="1676.69"
+       cx="23.811" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect579"
+       class="st8"
+       height="14.1732"
+       width="47.622002"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text581"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="2.8499999"><v:paragraph
+   v:indentLeft="2.83" />
+<v:tabList />
+Т. контр.</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.73131,23.239777)"
+     v:groupContext="shape"
+     v:mID="83"
+     id="shape83-312">
+    <title
+       id="title584">Sheet.83</title>
+    <desc
+       id="desc586">Н. контр.</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="48.19"
+       cy="1676.69"
+       cx="24.0945" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect588"
+       class="st8"
+       height="14.1732"
+       width="48.188999"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text590"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="2.8499999"><v:paragraph
+   v:indentLeft="2.83" />
+<v:tabList />
+Н. контр.</text>
+  </g>
+  <g
+     transform="matrix(0.25218412,0,0,0.2823498,482.33672,27.241777)"
+     v:groupContext="shape"
+     v:mID="84"
+     id="shape84-315">
+    <title
+       id="title593">Sheet.84</title>
+    <path
+       style="stroke:#000000;stroke-width:2.16000009;stroke-linecap:butt"
+       id="path595"
+       class="st5"
+       d="M 524.41,1683.78 0,1683.78" />
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,578.59274,-0.77122261)"
+     v:groupContext="shape"
+     v:mID="85"
+     id="shape85-318">
+    <title
+       id="title598">Sheet.85</title>
+    <desc
+       id="desc600">Лит</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="42.52"
+       cy="1676.69"
+       cx="21.2598" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect602"
+       class="st8"
+       height="14.1732"
+       width="42.519699"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text604"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="13.72"><v:paragraph
+   v:horizAlign="1" />
+<v:tabList />
+Лит</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,589.28369,-0.77122261)"
+     v:groupContext="shape"
+     v:mID="86"
+     id="shape86-321">
+    <title
+       id="title607">Sheet.86</title>
+    <desc
+       id="desc609">Масса</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="48.19"
+       cy="1676.69"
+       cx="24.0945" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect611"
+       class="st8"
+       height="14.1732"
+       width="48.188999"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text613"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="10.85"><v:paragraph
+   v:horizAlign="1" />
+<v:tabList />
+Масса</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,601.75478,-0.77122261)"
+     v:groupContext="shape"
+     v:mID="87"
+     id="shape87-324">
+    <title
+       id="title616">Sheet.87</title>
+    <desc
+       id="desc618">Масштаб</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="49.61"
+       cy="1676.69"
+       cx="24.8031" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect620"
+       class="st8"
+       height="14.1732"
+       width="49.6063"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text622"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="5.5500002"><v:paragraph
+   v:horizAlign="1" />
+<v:tabList />
+Масштаб</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,580.01839,15.236777)"
+     v:groupContext="shape"
+     v:mID="88"
+     id="shape88-327">
+    <title
+       id="title625">Sheet.88</title>
+    <desc
+       id="desc627">Лист 1</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="51.03"
+       cy="1676.69"
+       cx="25.5118" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect629"
+       class="st8"
+       height="14.1732"
+       width="51.023602"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text631"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="0"><v:paragraph />
+<v:tabList />
+Лист 1</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,594.62915,15.236777)"
+     v:groupContext="shape"
+     v:mID="92"
+     id="shape92-330">
+    <title
+       id="title634">Sheet.92</title>
+    <desc
+       id="desc636">Листов 1</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="77.96"
+       cy="1676.69"
+       cx="38.9764" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect638"
+       class="st8"
+       height="14.1732"
+       width="77.952797"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text640"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="0"><v:paragraph />
+<v:tabList />
+Листов 1</text>
+  </g>
+  <rect
+     x="493.41516"
+     y="478.23193"
+     width="16.749029"
+     height="4.0018005"
+     class="st8"
+     id="rect3385"
+     style="fill:none;stroke:none" />
+  <text
+     x="526.26044"
+     y="453.97668"
+     class="st9"
+     v:langID="1033"
+     id="text3387"
+     style="font-size:2.13155317px;fill:#000000;font-family:Arial"
+     transform="scale(0.94366463,1.0596985)">Залунин П.В..</text>
+  <rect
+     x="500.31256"
+     y="482.48486"
+     width="16.749029"
+     height="4.0018005"
+     class="st8"
+     id="rect3395"
+     style="fill:none;stroke:none" />
+  <text
+     x="532.85309"
+     y="457.98938"
+     class="st9"
+     v:langID="1033"
+     id="text3397"
+     style="font-size:2.13155317px;text-align:center;text-anchor:middle;fill:#000000;font-family:Arial"
+     transform="scale(0.94366463,1.0596985)">Шульц П.Б..</text>
+  <rect
+     x="494.09137"
+     y="494.48291"
+     width="16.749029"
+     height="4.0018005"
+     class="st8"
+     id="rect3405"
+     style="fill:none;stroke:none" />
+  <text
+     x="527.72064"
+     y="472.93567"
+     class="st9"
+     v:langID="1033"
+     id="text3407"
+     style="font-size:2.13155317px;fill:#000000;font-family:Arial"
+     transform="scale(0.94366463,1.0596985)">Зав. каф.</text>
+  <text
+     x="577.69958"
+     y="456.93762"
+     class="st12"
+     v:langID="1049"
+     id="text2612"
+     style="font-size:3.19732976px;fill:#000000;font-family:Arial"
+     transform="scale(0.94366463,1.0596985)">
+    <tspan
+       x="581.29651"
+       dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+       class="st3"
+       id="tspan2614"
+       style="font-size:3.19732976px">систем</tspan>
+  </text>
+  <text
+     x="532.65985"
+     y="461.61829"
+     class="st9"
+     v:langID="1033"
+     id="text3702"
+     style="font-size:2.13155317px;text-align:center;text-anchor:middle;fill:#000000;font-family:Arial"
+     transform="scale(0.94366463,1.0596985)" />
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.59387,19.239777)"
+     v:groupContext="shape"
+     v:mID="82"
+     id="g3714">
+    <title
+       id="title3716">Sheet.82</title>
+    <desc
+       id="desc3718">Т. контр.</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="47.63"
+       cy="1676.69"
+       cx="23.811" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3720"
+       class="st8"
+       height="14.1732"
+       width="47.622002"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text3722"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="2.8499999">Реценз.</text>
+  </g>
+  <g
+     transform="matrix(0.25143331,0,0,0.2823498,482.39272,27.144777)"
+     v:groupContext="shape"
+     v:mID="82"
+     id="g3724">
+    <title
+       id="title3726">Sheet.82</title>
+    <desc
+       id="desc3728">Т. контр.</desc>
+    <v:textBlock
+       v:tabSpace="42.5197"
+       v:margins="rect(0,0,0,0)" />
+    <v:textRect
+       height="14.1732"
+       width="47.63"
+       cy="1676.69"
+       cx="23.811" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3730"
+       class="st8"
+       height="14.1732"
+       width="47.622002"
+       y="1669.61"
+       x="0" />
+    <text
+       style="font-size:8.00001907px;fill:#000000;font-family:Arial"
+       id="text3732"
+       v:langID="1033"
+       class="st10"
+       y="1679.39"
+       x="2.8499999">Утв.</text>
   </g>
   <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="509.27179"
-     y="395.3847"
-     id="text3082">
-    <tspan
-       x="509.27179"
-       y="395.3847"
-       id="tspan3084">Новый Атлант</tspan>
-  </text>
+     x="524.31958"
+     y="469.172"
+     class="st9"
+     v:langID="1033"
+     id="text3734"
+     style="font-size:2.13155317px;fill:#000000;font-family:Arial"
+     transform="scale(0.94366463,1.0596985)">Самодумкин С.А.</text>
+  <g
+     transform="matrix(0.25271963,0,0,0.28381911,482.18573,24.831777)"
+     v:groupContext="shape"
+     v:mID="28"
+     id="shape28-83-9">
+    <title
+       id="title233-6">Sheet.28</title>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.16000009;stroke-linecap:butt"
+       id="path235-2"
+       class="st5"
+       d="m 524.41,1527.87 -524.41,0 0,155.91" />
+  </g>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15783">
+    <ellipse
+       sodipodi:ry="52.000999"
+       sodipodi:rx="156.00301"
+       sodipodi:cy="459.00101"
+       sodipodi:cx="192.00301"
+       d="m 348.00601,459.00101 c 0,28.71936 -69.84492,52.001 -156.003,52.001 C 105.84492,511.00201 36,487.72037 36,459.00101 c 0,-28.71936 69.84492,-52.001 156.00301,-52.001 86.15808,0 156.003,23.28164 156.003,52.001 z"
+       style="fill:#ffffff"
+       cx="192.00301"
+       cy="459.00101"
+       rx="156.00301"
+       ry="52.000999"
+       id="ellipse15785" />
+    <ellipse
+       sodipodi:ry="52.000999"
+       sodipodi:rx="156.00301"
+       sodipodi:cy="459.00101"
+       sodipodi:cx="192.00301"
+       d="m 348.00601,459.00101 c 0,28.71936 -69.84492,52.001 -156.003,52.001 C 105.84492,511.00201 36,487.72037 36,459.00101 c 0,-28.71936 69.84492,-52.001 156.00301,-52.001 86.15808,0 156.003,23.28164 156.003,52.001 z"
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="192.00301"
+       cy="459.00101"
+       rx="156.00301"
+       ry="52.000999"
+       id="ellipse15787" />
+    <text
+       style="font-size:22.96159935px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:Bitstream Vera Sans"
+       x="192.00301"
+       y="466"
+       id="text15789">
+      <tspan
+         x="192.00301"
+         y="466"
+         id="tspan15791">Мини-бухгалтерия</tspan>
+    </text>
+  </g>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15793">
+    <ellipse
+       sodipodi:ry="86.106003"
+       sodipodi:rx="215.39999"
+       sodipodi:cy="490.306"
+       sodipodi:cx="625.79999"
+       d="m 841.19998,490.306 c 0,47.55503 -96.43786,86.106 -215.39999,86.106 -118.96213,0 -215.4,-38.55097 -215.4,-86.106 0,-47.55503 96.43787,-86.106 215.4,-86.106 118.96213,0 215.39999,38.55097 215.39999,86.106 z"
+       style="fill:#ffffff"
+       cx="625.79999"
+       cy="490.306"
+       rx="215.39999"
+       ry="86.106003"
+       id="ellipse15795" />
+    <ellipse
+       sodipodi:ry="86.106003"
+       sodipodi:rx="215.39999"
+       sodipodi:cy="490.306"
+       sodipodi:cx="625.79999"
+       d="m 841.19998,490.306 c 0,47.55503 -96.43786,86.106 -215.39999,86.106 -118.96213,0 -215.4,-38.55097 -215.4,-86.106 0,-47.55503 96.43787,-86.106 215.4,-86.106 118.96213,0 215.39999,38.55097 215.39999,86.106 z"
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="625.79999"
+       cy="490.306"
+       rx="215.39999"
+       ry="86.106003"
+       id="ellipse15797" />
+    <text
+       style="font-size:22.96159935px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:Bitstream Vera Sans"
+       x="625.79999"
+       y="468.603"
+       id="text15799">
+      <tspan
+         x="625.79999"
+         y="468.603"
+         id="tspan15801">Интегрированная</tspan>
+      <tspan
+         x="625.79999"
+         y="497.30499"
+         id="tspan15803">бухгалтерская</tspan>
+      <tspan
+         x="625.79999"
+         y="526.00702"
+         id="tspan15805">система</tspan>
+    </text>
+  </g>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15807">
+    <ellipse
+       sodipodi:ry="59.060299"
+       sodipodi:rx="177.181"
+       sodipodi:cy="465.26001"
+       sodipodi:cx="1067.58"
+       d="m 1244.761,465.26001 c 0,32.6181 -79.3267,59.0603 -177.181,59.0603 -97.85441,0 -177.18104,-26.4422 -177.18104,-59.0603 0,-32.6181 79.32663,-59.0603 177.18104,-59.0603 97.8543,0 177.181,26.4422 177.181,59.0603 z"
+       style="fill:#ffffff"
+       cx="1067.58"
+       cy="465.26001"
+       rx="177.181"
+       ry="59.060299"
+       id="ellipse15809" />
+    <ellipse
+       sodipodi:ry="59.060299"
+       sodipodi:rx="177.181"
+       sodipodi:cy="465.26001"
+       sodipodi:cx="1067.58"
+       d="m 1244.761,465.26001 c 0,32.6181 -79.3267,59.0603 -177.181,59.0603 -97.85441,0 -177.18104,-26.4422 -177.18104,-59.0603 0,-32.6181 79.32663,-59.0603 177.18104,-59.0603 97.8543,0 177.181,26.4422 177.181,59.0603 z"
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="1067.58"
+       cy="465.26001"
+       rx="177.181"
+       ry="59.060299"
+       id="ellipse15811" />
+    <text
+       style="font-size:22.96159935px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:Bitstream Vera Sans"
+       x="1067.58"
+       y="457.90799"
+       id="text15813">
+      <tspan
+         x="1067.58"
+         y="457.90799"
+         id="tspan15815">Бухгалтерский</tspan>
+      <tspan
+         x="1067.58"
+         y="486.60999"
+         id="tspan15817">конструктор</tspan>
+    </text>
+  </g>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,60.960505,104.18177)"
+     id="g15819">
+    <polygon
+       style="fill:#ffffff"
+       points="47.604,619.14 65.104,633.89 47.604,648.64 47.604,641.265 30.104,641.265 30.104,626.515 47.604,626.515 "
+       id="polygon15821" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="47.604,619.14 65.104,633.89 47.604,648.64 47.604,641.265 30.104,641.265 30.104,626.515 47.604,626.515 "
+       id="polygon15823" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="47.604,619.14 65.104,633.89 47.604,648.64 47.604,641.265 30.104,641.265 30.104,626.515 47.604,626.515 "
+       id="polygon15825" />
+  </g>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,60.960505,104.18177)"
+     id="g15833">
+    <polygon
+       style="fill:#ffffff"
+       points="46.104,675.44 63.604,690.19 46.104,704.94 46.104,697.565 28.604,697.565 28.604,682.815 46.104,682.815 "
+       id="polygon15835" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="46.104,675.44 63.604,690.19 46.104,704.94 46.104,697.565 28.604,697.565 28.604,682.815 46.104,682.815 "
+       id="polygon15837" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="46.104,675.44 63.604,690.19 46.104,704.94 46.104,697.565 28.604,697.565 28.604,682.815 46.104,682.815 "
+       id="polygon15839" />
+  </g>
   <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="511.18304"
-     y="406.21539"
-     id="text3086">
+     style="font-size:6.72028923px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Bitstream Vera Sans"
+     x="90.883911"
+     y="324.56458"
+     id="text15841"
+     transform="scale(0.94288992,1.0605692)">
     <tspan
-       x="511.18304"
-       y="406.21539"
-       id="tspan3088">SAP</tspan>
-  </text>
-  <text
-     style="font-size:5.51629543px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="509.909"
-     y="415.77191"
-     id="text3090">
+       x="90.883911"
+       y="324.56458"
+       id="tspan15843"
+       style="font-size:6.72028923px">Небольшой набор учетных</tspan>
     <tspan
-       x="509.909"
-       y="415.77191"
-       id="tspan3092">Oracle</tspan>
+       x="90.883911"
+       y="331.69739"
+       id="tspan15845"
+       style="font-size:6.72028923px">операций</tspan>
   </text>
   <g
-     id="g3094"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+     transform="matrix(0.31070075,0,0,0.34947835,60.960505,104.18177)"
+     id="g15847">
+    <polygon
+       style="fill:#ffffff"
+       points="46.104,727.44 63.604,742.19 46.104,756.94 46.104,749.565 28.604,749.565 28.604,734.815 46.104,734.815 "
+       id="polygon15849" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="46.104,727.44 63.604,742.19 46.104,756.94 46.104,749.565 28.604,749.565 28.604,734.815 46.104,734.815 "
+       id="polygon15851" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="46.104,727.44 63.604,742.19 46.104,756.94 46.104,749.565 28.604,749.565 28.604,734.815 46.104,734.815 "
+       id="polygon15853" />
+  </g>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Bitstream Vera Sans"
+     x="90.196655"
+     y="342.05676"
+     id="text15855"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="90.196655"
+       y="342.05676"
+       id="tspan15857"
+       style="font-size:6.72028923px">Оформление небольшого набора</tspan>
+    <tspan
+       x="90.196655"
+       y="349.18958"
+       id="tspan15859"
+       style="font-size:6.72028923px">первичных документов</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15861">
+    <polygon
+       style="fill:#ffffff"
+       points="434.494,624.815 434.494,617.44 451.994,632.19 434.494,646.94 434.494,639.565 416.994,639.565 416.994,624.815 "
+       id="polygon15863" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="434.494,624.815 434.494,617.44 451.994,632.19 434.494,646.94 434.494,639.565 416.994,639.565 416.994,624.815 "
+       id="polygon15865" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="434.494,624.815 434.494,617.44 451.994,632.19 434.494,646.94 434.494,639.565 416.994,639.565 416.994,624.815 "
+       id="polygon15867" />
+  </g>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="228.3654"
+     y="307.12805"
+     id="text15869"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="228.3654"
+       y="307.12805"
+       id="tspan15871"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Огранизация работы в локальной сети</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15873">
+    <polygon
+       style="fill:#ffffff"
+       points="434.858,681.365 434.858,673.99 452.358,688.74 434.858,703.49 434.858,696.115 417.358,696.115 417.358,681.365 "
+       id="polygon15875" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="434.858,681.365 434.858,673.99 452.358,688.74 434.858,703.49 434.858,696.115 417.358,696.115 417.358,681.365 "
+       id="polygon15877" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="434.858,681.365 434.858,673.99 452.358,688.74 434.858,703.49 434.858,696.115 417.358,696.115 417.358,681.365 "
+       id="polygon15879" />
+  </g>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="227.81689"
+     y="323.78528"
+     id="text15881"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="227.81689"
+       y="323.78528"
+       id="tspan15883"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Использование централизированного</tspan>
+    <tspan
+       x="227.81689"
+       y="330.91809"
+       id="tspan15885"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">хранилища (СУБД)</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15887">
+    <polygon
+       style="fill:#ffffff"
+       points="434.858,732.815 434.858,725.44 452.358,740.19 434.858,754.94 434.858,747.565 417.358,747.565 417.358,732.815 "
+       id="polygon15889" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="434.858,732.815 434.858,725.44 452.358,740.19 434.858,754.94 434.858,747.565 417.358,747.565 417.358,732.815 "
+       id="polygon15891" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="434.858,732.815 434.858,725.44 452.358,740.19 434.858,754.94 434.858,747.565 417.358,747.565 417.358,732.815 "
+       id="polygon15893" />
+  </g>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="226.82834"
+     y="341.72766"
+     id="text15895"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="226.82834"
+       y="341.72766"
+       id="tspan15897"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Ведение учета по всем основным</tspan>
+    <tspan
+       x="226.82834"
+       y="348.86047"
+       id="tspan15899"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">участкам</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15901">
+    <polygon
+       style="fill:#ffffff"
+       points="926.068,627.365 926.068,619.99 943.568,634.74 926.068,649.49 926.068,642.115 908.568,642.115 908.568,627.365 "
+       id="polygon15903" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="926.068,627.365 926.068,619.99 943.568,634.74 926.068,649.49 926.068,642.115 908.568,642.115 908.568,627.365 "
+       id="polygon15905" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="926.068,627.365 926.068,619.99 943.568,634.74 926.068,649.49 926.068,642.115 908.568,642.115 908.568,627.365 "
+       id="polygon15907" />
+  </g>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="390.00974"
+     y="305.00208"
+     id="text15909"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="390.00974"
+       y="305.00208"
+       id="tspan15911"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Наличие встроенного</tspan>
+    <tspan
+       x="390.00974"
+       y="312.13489"
+       id="tspan15913"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">языка программирования</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15915">
+    <polygon
+       style="fill:#ffffff"
+       points="924.17,684.365 924.17,676.99 941.67,691.74 924.17,706.49 924.17,699.115 906.67,699.115 906.67,684.365 "
+       id="polygon15917" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="924.17,684.365 924.17,676.99 941.67,691.74 924.17,706.49 924.17,699.115 906.67,699.115 906.67,684.365 "
+       id="polygon15919" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="924.17,684.365 924.17,676.99 941.67,691.74 924.17,706.49 924.17,699.115 906.67,699.115 906.67,684.365 "
+       id="polygon15921" />
+  </g>
+  <text
+     style="font-size:5.706357px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Bitstream Vera Sans"
+     x="389.38434"
+     y="324.77356"
+     id="text15923"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="389.38434"
+       y="324.77356"
+       id="tspan15925" />
+  </text>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="390.80719"
+     y="325.58118"
+     id="text15927"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="390.80719"
+       y="325.58118"
+       id="tspan15929"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Позволяют изменять методику</tspan>
+    <tspan
+       x="390.80719"
+       y="332.71399"
+       id="tspan15931"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">учета</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15933">
+    <polygon
+       style="fill:#ffffff"
+       points="165.606,814.64 155.606,814.64 175.606,834.64 195.606,814.64 185.606,814.64 185.606,794.64 165.606,794.64 "
+       id="polygon15935" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="165.606,814.64 155.606,814.64 175.606,834.64 195.606,814.64 185.606,814.64 185.606,794.64 165.606,794.64 "
+       id="polygon15937" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="165.606,814.64 155.606,814.64 175.606,834.64 195.606,814.64 185.606,814.64 185.606,794.64 165.606,794.64 "
+       id="polygon15939" />
+  </g>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="108.96085"
+     y="384.46594"
+     id="text15941"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="108.96085"
+       y="384.46594"
+       id="tspan15943"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">1С</tspan>
+  </text>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="109.29037"
+     y="393.60266"
+     id="text15945"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="109.29037"
+       y="393.60266"
+       id="tspan15947"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">ИнфоСофт</tspan>
+  </text>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="109.27158"
+     y="404.20422"
+     id="text15949"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="109.27158"
+       y="404.20422"
+       id="tspan15951"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Инфофин</tspan>
+  </text>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="247.01077"
+     y="385.09192"
+     id="text15953"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="247.01077"
+       y="385.09192"
+       id="tspan15955"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">1С</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15957">
+    <polygon
+       style="fill:#ffffff"
+       points="567.02,811.84 557.02,811.84 577.02,831.84 597.02,811.84 587.02,811.84 587.02,791.84 567.02,791.84 "
+       id="polygon15959" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="567.02,811.84 557.02,811.84 577.02,831.84 597.02,811.84 587.02,811.84 587.02,791.84 567.02,791.84 "
+       id="polygon15961" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="567.02,811.84 557.02,811.84 577.02,831.84 597.02,811.84 587.02,811.84 587.02,791.84 567.02,791.84 "
+       id="polygon15963" />
+  </g>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="247.34027"
+     y="394.27649"
+     id="text15965"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="247.34027"
+       y="394.27649"
+       id="tspan15967"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Галлактика</tspan>
+  </text>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="247.01077"
+     y="403.18762"
+     id="text15969"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="247.01077"
+       y="403.18762"
+       id="tspan15971"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Парус</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15973">
+    <polygon
+       style="fill:#ffffff"
+       points="1033.02,807.84 1023.02,807.84 1043.02,827.84 1063.02,807.84 1053.02,807.84 1053.02,787.84 1033.02,787.84 "
+       id="polygon15975" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1033.02,807.84 1023.02,807.84 1043.02,827.84 1063.02,807.84 1053.02,807.84 1053.02,787.84 1033.02,787.84 "
+       id="polygon15977" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1033.02,807.84 1023.02,807.84 1043.02,827.84 1063.02,807.84 1053.02,807.84 1053.02,787.84 1033.02,787.84 "
+       id="polygon15979" />
+  </g>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="405.84052"
+     y="383.90637"
+     id="text15981"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="405.84052"
+       y="383.90637"
+       id="tspan15983"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">1С</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15985">
+    <ellipse
+       sodipodi:ry="62.9603"
+       sodipodi:rx="188.881"
+       sodipodi:cy="466.79999"
+       sodipodi:cx="1484.49"
+       d="m 1673.371,466.79999 c 0,34.77201 -84.5649,62.9603 -188.881,62.9603 -104.3161,0 -188.881,-28.18829 -188.881,-62.9603 0,-34.77202 84.5649,-62.9603 188.881,-62.9603 104.3161,0 188.881,28.18828 188.881,62.9603 z"
+       style="fill:#ffffff"
+       cx="1484.49"
+       cy="466.79999"
+       rx="188.881"
+       ry="62.9603"
+       id="ellipse15987" />
+    <ellipse
+       sodipodi:ry="62.9603"
+       sodipodi:rx="188.881"
+       sodipodi:cy="466.79999"
+       sodipodi:cx="1484.49"
+       d="m 1673.371,466.79999 c 0,34.77201 -84.5649,62.9603 -188.881,62.9603 -104.3161,0 -188.881,-28.18829 -188.881,-62.9603 0,-34.77202 84.5649,-62.9603 188.881,-62.9603 104.3161,0 188.881,28.18828 188.881,62.9603 z"
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="1484.49"
+       cy="466.79999"
+       rx="188.881"
+       ry="62.9603"
+       id="ellipse15989" />
+    <text
+       style="font-size:22.96159935px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:Bitstream Vera Sans"
+       x="1484.49"
+       y="459.448"
+       id="text15991">
+      <tspan
+         x="1484.49"
+         y="459.448"
+         id="tspan15993">Управленческие</tspan>
+      <tspan
+         x="1484.49"
+         y="488.14999"
+         id="tspan15995">системы</tspan>
+    </text>
+  </g>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g15997">
+    <polygon
+       style="fill:#ffffff"
+       points="1345.01,624.815 1345.01,617.44 1362.51,632.19 1345.01,646.94 1345.01,639.565 1327.51,639.565 1327.51,624.815 "
+       id="polygon15999" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1345.01,624.815 1345.01,617.44 1362.51,632.19 1345.01,646.94 1345.01,639.565 1327.51,639.565 1327.51,624.815 "
+       id="polygon16001" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1345.01,624.815 1345.01,617.44 1362.51,632.19 1345.01,646.94 1345.01,639.565 1327.51,639.565 1327.51,624.815 "
+       id="polygon16003" />
+  </g>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="528.05939"
+     y="304.16223"
+     id="text16005"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="528.05939"
+       y="304.16223"
+       id="tspan16007"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Управленческий учет</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g16009">
+    <polygon
+       style="fill:#ffffff"
+       points="1343.11,681.815 1343.11,674.44 1360.61,689.19 1343.11,703.94 1343.11,696.565 1325.61,696.565 1325.61,681.815 "
+       id="polygon16011" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1343.11,681.815 1343.11,674.44 1360.61,689.19 1343.11,703.94 1343.11,696.565 1325.61,696.565 1325.61,681.815 "
+       id="polygon16013" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1343.11,681.815 1343.11,674.44 1360.61,689.19 1343.11,703.94 1343.11,696.565 1325.61,696.565 1325.61,681.815 "
+       id="polygon16015" />
+  </g>
+  <text
+     style="font-size:5.706357px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Bitstream Vera Sans"
+     x="527.43329"
+     y="323.93372"
+     id="text16017"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="527.43329"
+       y="323.93372"
+       id="tspan16019" />
+  </text>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="528.85681"
+     y="324.74036"
+     id="text16021"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="528.85681"
+       y="324.74036"
+       id="tspan16023"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Планирование и</tspan>
+    <tspan
+       x="528.85681"
+       y="331.87317"
+       id="tspan16025"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">управление</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g16027">
+    <polygon
+       style="fill:#ffffff"
+       points="1343.11,745.365 1343.11,737.99 1360.61,752.74 1343.11,767.49 1343.11,760.115 1325.61,760.115 1325.61,745.365 "
+       id="polygon16029" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1343.11,745.365 1343.11,737.99 1360.61,752.74 1343.11,767.49 1343.11,760.115 1325.61,760.115 1325.61,745.365 "
+       id="polygon16031" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1343.11,745.365 1343.11,737.99 1360.61,752.74 1343.11,767.49 1343.11,760.115 1325.61,760.115 1325.61,745.365 "
+       id="polygon16033" />
+  </g>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="528.85681"
+     y="348.3175"
+     id="text16035"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="528.85681"
+       y="348.3175"
+       id="tspan16037"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Открытость архитектуры</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g16039">
+    <polygon
+       style="fill:#ffffff"
+       points="1405.02,805.84 1395.02,805.84 1415.02,825.84 1435.02,805.84 1425.02,805.84 1425.02,785.84 1405.02,785.84 "
+       id="polygon16041" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1405.02,805.84 1395.02,805.84 1415.02,825.84 1435.02,805.84 1425.02,805.84 1425.02,785.84 1405.02,785.84 "
+       id="polygon16043" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="1405.02,805.84 1395.02,805.84 1415.02,825.84 1435.02,805.84 1425.02,805.84 1425.02,785.84 1405.02,785.84 "
+       id="polygon16045" />
+  </g>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="528.42188"
+     y="383.24719"
+     id="text16047"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="528.42188"
+       y="383.24719"
+       id="tspan16049"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Новый Атлант</tspan>
+  </text>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="528.36542"
+     y="394.45032"
+     id="text16051"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="528.36542"
+       y="394.45032"
+       id="tspan16053"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">SAP</tspan>
+  </text>
+  <text
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
+     x="528.06415"
+     y="404.63782"
+     id="text16055"
+     transform="scale(0.94288992,1.0605692)">
+    <tspan
+       x="528.06415"
+       y="404.63782"
+       id="tspan16057"
+       style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Oracle</tspan>
+  </text>
+  <g
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g16059">
     <rect
        style="fill:#ffffff"
        x="45.608002"
-       y="90.639503"
+       y="90.639603"
        width="1566"
        height="148"
-       id="rect3096" />
+       id="rect16061" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:2"
        x="45.608002"
-       y="90.639503"
+       y="90.639603"
        width="1566"
        height="148"
-       id="rect3098" />
+       id="rect16063" />
   </g>
   <text
-     style="font-size:16.30433464px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="241.68933"
-     y="178.03816"
-     id="text3100">
+     style="font-size:16.86606598px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Bitstream Vera Sans"
+     x="251.62469"
+     y="158.41614"
+     id="text16065"
+     transform="scale(0.94288992,1.0605692)">
     <tspan
-       x="241.68933"
-       y="178.03816"
-       id="tspan3102">Бухгалтерские системы</tspan>
+       x="251.62469"
+       y="158.41614"
+       id="tspan16067">Бухгалтерские системы</tspan>
   </text>
   <g
-     id="g3104"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g16069">
     <polygon
        style="fill:#ffffff"
-       points="223.608,266.64 163.608,266.64 163.608,326.64 133.608,326.64 193.608,386.64 253.608,326.64 223.608,326.64 "
-       id="polygon3106" />
+       points="163.608,326.64 133.608,326.64 193.608,386.64 253.608,326.64 223.608,326.64 223.608,266.64 163.608,266.64 "
+       id="polygon16071" />
     <polygon
        style="fill:none;stroke:#000000;stroke-width:2"
-       points="223.608,266.64 163.608,266.64 163.608,326.64 133.608,326.64 193.608,386.64 253.608,326.64 223.608,326.64 "
-       id="polygon3108" />
+       points="163.608,326.64 133.608,326.64 193.608,386.64 253.608,326.64 223.608,326.64 223.608,266.64 163.608,266.64 "
+       id="polygon16073" />
     <polygon
        style="fill:none;stroke:#000000;stroke-width:2"
-       points="223.608,266.64 163.608,266.64 163.608,326.64 133.608,326.64 193.608,386.64 253.608,326.64 223.608,326.64 "
-       id="polygon3110" />
+       points="163.608,326.64 133.608,326.64 193.608,386.64 253.608,326.64 223.608,326.64 223.608,266.64 163.608,266.64 "
+       id="polygon16075" />
   </g>
   <g
-     id="g3112"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g16077">
     <polygon
        style="fill:#ffffff"
-       points="645.022,267.84 585.022,267.84 585.022,327.84 555.022,327.84 615.022,387.84 675.022,327.84 645.022,327.84 "
-       id="polygon3114" />
+       points="585.022,327.84 555.022,327.84 615.022,387.84 675.022,327.84 645.022,327.84 645.022,267.84 585.022,267.84 "
+       id="polygon16079" />
     <polygon
        style="fill:none;stroke:#000000;stroke-width:2"
-       points="645.022,267.84 585.022,267.84 585.022,327.84 555.022,327.84 615.022,387.84 675.022,327.84 645.022,327.84 "
-       id="polygon3116" />
+       points="585.022,327.84 555.022,327.84 615.022,387.84 675.022,327.84 645.022,327.84 645.022,267.84 585.022,267.84 "
+       id="polygon16081" />
     <polygon
        style="fill:none;stroke:#000000;stroke-width:2"
-       points="645.022,267.84 585.022,267.84 585.022,327.84 555.022,327.84 615.022,387.84 675.022,327.84 645.022,327.84 "
-       id="polygon3118" />
+       points="585.022,327.84 555.022,327.84 615.022,387.84 675.022,327.84 645.022,327.84 645.022,267.84 585.022,267.84 "
+       id="polygon16083" />
   </g>
   <g
-     id="g3120"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g16085">
     <polygon
        style="fill:#ffffff"
-       points="1087.02,267.84 1027.02,267.84 1027.02,327.84 997.022,327.84 1057.02,387.84 1117.02,327.84 1087.02,327.84 "
-       id="polygon3122" />
+       points="1027.02,327.84 997.022,327.84 1057.02,387.84 1117.02,327.84 1087.02,327.84 1087.02,267.84 1027.02,267.84 "
+       id="polygon16087" />
     <polygon
        style="fill:none;stroke:#000000;stroke-width:2"
-       points="1087.02,267.84 1027.02,267.84 1027.02,327.84 997.022,327.84 1057.02,387.84 1117.02,327.84 1087.02,327.84 "
-       id="polygon3124" />
+       points="1027.02,327.84 997.022,327.84 1057.02,387.84 1117.02,327.84 1087.02,327.84 1087.02,267.84 1027.02,267.84 "
+       id="polygon16089" />
     <polygon
        style="fill:none;stroke:#000000;stroke-width:2"
-       points="1087.02,267.84 1027.02,267.84 1027.02,327.84 997.022,327.84 1057.02,387.84 1117.02,327.84 1087.02,327.84 "
-       id="polygon3126" />
+       points="1027.02,327.84 997.022,327.84 1057.02,387.84 1117.02,327.84 1087.02,327.84 1087.02,267.84 1027.02,267.84 "
+       id="polygon16091" />
   </g>
   <g
-     id="g3128"
-     transform="matrix(0.31854982,0,0,0.31854982,70.115846,119.85823)">
+     transform="matrix(0.31070075,0,0,0.34947835,69.908486,104.18177)"
+     id="g16093">
     <polygon
        style="fill:#ffffff"
-       points="1501.02,267.84 1441.02,267.84 1441.02,327.84 1411.02,327.84 1471.02,387.84 1531.02,327.84 1501.02,327.84 "
-       id="polygon3130" />
+       points="1441.02,327.84 1411.02,327.84 1471.02,387.84 1531.02,327.84 1501.02,327.84 1501.02,267.84 1441.02,267.84 "
+       id="polygon16095" />
     <polygon
        style="fill:none;stroke:#000000;stroke-width:2"
-       points="1501.02,267.84 1441.02,267.84 1441.02,327.84 1411.02,327.84 1471.02,387.84 1531.02,327.84 1501.02,327.84 "
-       id="polygon3132" />
+       points="1441.02,327.84 1411.02,327.84 1471.02,387.84 1531.02,327.84 1501.02,327.84 1501.02,267.84 1441.02,267.84 "
+       id="polygon16097" />
     <polygon
        style="fill:none;stroke:#000000;stroke-width:2"
-       points="1501.02,267.84 1441.02,267.84 1441.02,327.84 1411.02,327.84 1471.02,387.84 1531.02,327.84 1501.02,327.84 "
-       id="polygon3134" />
+       points="1441.02,327.84 1411.02,327.84 1471.02,387.84 1531.02,327.84 1501.02,327.84 1501.02,267.84 1441.02,267.84 "
+       id="polygon16099" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="532.94824"
+     y="475.32959"
+     id="text16605"><tspan
+       sodipodi:role="line"
+       id="tspan16607"
+       x="532.94824"
+       y="475.32959" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:3.19213748px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="530.85803"
+     y="480.63916"
+     id="text16609"><tspan
+       sodipodi:role="line"
+       id="tspan16611"
+       x="530.85803"
+       y="480.63916">Классификация бухгалтерских</tspan></text>
+  <text
+     x="524.30774"
+     y="461.79504"
+     class="st9"
+     v:langID="1033"
+     id="text3387-6"
+     style="font-size:2.13155317px;fill:#000000;font-family:Arial"
+     transform="scale(0.94366464,1.0596985)">Самодумкин С.А.</text>
+  <text
+     xml:space="preserve"
+     style="font-size:6.72028923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="85.161865"
+     y="323.00244"
+     id="text16635"><tspan
+       sodipodi:role="line"
+       id="tspan16637"
+       x="85.161865"
+       y="323.00244">Отсутствие организации учета</tspan><tspan
+       sodipodi:role="line"
+       x="85.161865"
+       y="331.40283"
+       id="tspan16639">по различным классам</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:3.30414224px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="315.25278"
+     y="453.38721"
+     id="text16641"><tspan
+       sodipodi:role="line"
+       id="tspan16643"
+       x="315.25278"
+       y="453.38721" /></text>
 </svg>

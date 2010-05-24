@@ -13,7 +13,7 @@
    id="svg15523"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="entity_pretty.svg">
+   sodipodi:docname="plakat-2.svg">
   <metadata
      id="metadata16133">
     <rdf:RDF>
@@ -48,11 +48,11 @@
      inkscape:window-height="769"
      id="namedview16129"
      showgrid="false"
-     inkscape:zoom="0.52329392"
-     inkscape:cx="652.21953"
-     inkscape:cy="391.5617"
-     inkscape:window-x="164"
-     inkscape:window-y="17"
+     inkscape:zoom="2.0931757"
+     inkscape:cx="518.08794"
+     inkscape:cy="360.25751"
+     inkscape:window-x="197"
+     inkscape:window-y="58"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg15523" />
   <g
@@ -1362,70 +1362,6 @@
      y2="616.68109"
      id="line15929" />
   <g
-     id="g15931"
-     transform="matrix(0.43660887,0,0,0.43660887,24.97783,197.09992)">
-    <polygon
-       style="fill:#ffffff"
-       points="457.6,591.48 406.8,621.96 356,591.48 406.8,561 "
-       id="polygon15933" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="457.6,591.48 406.8,621.96 356,591.48 406.8,561 "
-       id="polygon15935" />
-    <text
-       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:end;fill:#000000;font-family:monospace"
-       x="350"
-       y="585.47998"
-       id="text15937" />
-    <text
-       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:monospace"
-       x="463.60001"
-       y="585.47998"
-       id="text15939" />
-    <text
-       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
-       x="406.79999"
-       y="595.47998"
-       id="text15941">Содержит</text>
-  </g>
-  <line
-     style="fill:none;stroke:#000000;stroke-width:0.8732177"
-     x1="202.5903"
-     y1="442.03751"
-     x2="202.5903"
-     y2="408.41861"
-     id="line15943" />
-  <g
-     id="g15945"
-     transform="matrix(0.43660887,0,0,0.43660887,24.97783,197.09992)">
-    <rect
-       style="fill:#ffffff"
-       x="347"
-       y="662"
-       width="120.4"
-       height="36"
-       id="rect15947" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:2"
-       x="347"
-       y="662"
-       width="120.4"
-       height="36"
-       id="rect15949" />
-    <text
-       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
-       x="407.20001"
-       y="684"
-       id="text15951">Пользователь</text>
-  </g>
-  <line
-     style="fill:none;stroke:#000000;stroke-width:0.8732177"
-     x1="202.70778"
-     y1="485.69748"
-     x2="202.5903"
-     y2="468.6532"
-     id="line15953" />
-  <g
      id="g15955"
      transform="matrix(0.43660887,0,0,0.43660887,24.97783,197.09992)">
     <ellipse
@@ -1823,26 +1759,6 @@
        x="207.52486"
        y="387.36621"
        id="tspan16103">1</tspan>
-  </text>
-  <text
-     style="font-size:5.58859348px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="206.21503"
-     y="482.11038"
-     id="text16105">
-    <tspan
-       x="206.21503"
-       y="482.11038"
-       id="tspan16107">1</tspan>
-  </text>
-  <text
-     style="font-size:5.58859348px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
-     x="207.08824"
-     y="414.87256"
-     id="text16109">
-    <tspan
-       x="207.08824"
-       y="414.87256"
-       id="tspan16111">0..n</tspan>
   </text>
   <text
      style="font-size:5.58859348px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
