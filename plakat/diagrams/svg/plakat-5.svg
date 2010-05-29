@@ -9,13 +9,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1052.3622"
    height="744.09448"
-   viewBox="-5 26 586.36285 417.66666"
-   id="svg6152"
+   viewBox="-498 -350 593.99998 410.5"
+   id="svg4151"
    version="1.1"
    inkscape:version="0.47 r22583"
    sodipodi:docname="plakat-5.svg">
   <metadata
-     id="metadata6292">
+     id="metadata4909">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,14 +26,14 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6290">
+     id="defs4907">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 478.34647 : 1"
+       inkscape:vp_x="0 : 744.09448 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1240.1575 : 478.34647 : 1"
-       inkscape:persp3d-origin="620.07874 : 318.89764 : 1"
-       id="perspective6294" />
+       inkscape:vp_z="3047.2441 : 744.09448 : 1"
+       inkscape:persp3d-origin="1523.6221 : 496.06299 : 1"
+       id="perspective4911" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -44,387 +44,1879 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="956"
-     inkscape:window-height="667"
-     id="namedview6288"
+     inkscape:window-width="896"
+     inkscape:window-height="668"
+     id="namedview4905"
      showgrid="false"
-     inkscape:zoom="0.24668312"
-     inkscape:cx="620.07874"
-     inkscape:cy="478.34647"
-     inkscape:window-x="169"
-     inkscape:window-y="62"
+     inkscape:zoom="0.44853766"
+     inkscape:cx="540.93807"
+     inkscape:cy="368.87837"
+     inkscape:window-x="225"
+     inkscape:window-y="59"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg6152" />
+     inkscape:current-layer="svg4151" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x="-397.01965"
+     y="-273.46097"
+     width="179.64189"
+     height="156.82726"
+     id="rect4153" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x="-400.89682"
+     y="-73.245094"
+     width="120.45702"
+     height="51.246113"
+     id="rect4155" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x="-274.9245"
+     y="-73.750801"
+     width="143.97058"
+     height="50.908966"
+     id="rect4157" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x="-213.06165"
+     y="-273.44882"
+     width="78.473976"
+     height="156.47765"
+     id="rect4159" />
   <g
-     id="g6154"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
+     id="g4161"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
     <rect
        style="fill:#ffffff"
-       x="246"
-       y="95"
-       width="165.55"
-       height="52"
-       rx="10"
-       ry="10"
-       id="rect6156" />
+       x="72"
+       y="-56"
+       width="160.194"
+       height="70"
+       id="rect4163" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:2"
-       x="246"
-       y="95"
-       width="165.55"
-       height="52"
-       rx="10"
-       ry="10"
-       id="rect6158" />
+       x="72"
+       y="-56"
+       width="160.194"
+       height="70"
+       id="rect4165" />
     <text
-       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="328.77499"
-       y="116.9"
-       id="text6160">
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="81"
+       y="-33.099998"
+       id="text4167">
       <tspan
-         x="328.77499"
-         y="116.9"
-         id="tspan6162">Загрузить структуру</tspan>
+         x="81"
+         y="-33.099998"
+         id="tspan4169">Контроллер</tspan>
       <tspan
-         x="328.77499"
-         y="132.89999"
-         id="tspan6164">декларции</tspan>
-    </text>
-  </g>
-  <ellipse
-     style="fill:#000000"
-     cx="327"
-     cy="38"
-     rx="10"
-     ry="10"
-     id="ellipse6166"
-     sodipodi:cx="327"
-     sodipodi:cy="38"
-     sodipodi:rx="10"
-     sodipodi:ry="10"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)" />
-  <g
-     id="g6168"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
-    <line
-       style="fill:none;stroke:#000000;stroke-width:2"
-       x1="328.134"
-       y1="78.0121"
-       x2="327"
-       y2="48"
-       id="line6170" />
-    <polygon
-       style="fill:#000000"
-       points="333.131,77.8233 323.138,78.2009 328.738,94.0007 "
-       id="polygon6172" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="333.131,77.8233 323.138,78.2009 328.738,94.0007 "
-       id="polygon6174" />
-    <text
-       style="font-size:12.79979992px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="412.22601"
-       y="66.75"
-       id="text6176">открыть декларацию</text>
-  </g>
-  <g
-     id="g6178"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
-    <rect
-       style="fill:#ffffff"
-       x="230"
-       y="199"
-       width="195.14999"
-       height="52"
-       rx="10"
-       ry="10"
-       id="rect6180" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:2"
-       x="230"
-       y="199"
-       width="195.14999"
-       height="52"
-       rx="10"
-       ry="10"
-       id="rect6182" />
-    <text
-       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="327.57501"
-       y="220.89999"
-       id="text6184">
+         x="81"
+         y="-17.1"
+         id="tspan4171">состояния</tspan>
       <tspan
-         x="327.57501"
-         y="220.89999"
-         id="tspan6186">Загрузка сохранененного</tspan>
-      <tspan
-         x="327.57501"
-         y="236.89999"
-         id="tspan6188">состояния</tspan>
+         x="81"
+         y="-1.1"
+         id="tspan4173">декларации</tspan>
     </text>
   </g>
   <g
-     id="g6190"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
-    <line
-       style="fill:none;stroke:#000000;stroke-width:2"
-       x1="327.96701"
-       y1="182.005"
-       x2="328.776"
-       y2="147"
-       id="line6192" />
-    <polygon
-       style="fill:#000000"
-       points="332.966,182.12 322.968,181.889 327.597,198 "
-       id="polygon6194" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="332.966,182.12 322.968,181.889 327.597,198 "
-       id="polygon6196" />
-    <text
-       style="font-size:12.79979992px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="408.78799"
-       y="175.5"
-       id="text6198">структура загружена</text>
-  </g>
-  <g
-     id="g6200"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
-    <line
-       style="fill:none;stroke:#000000;stroke-width:2"
-       x1="447.452"
-       y1="277.91101"
-       x2="425.14999"
-       y2="251"
-       id="line6202" />
-    <polygon
-       style="fill:#000000"
-       points="451.302,274.72 443.603,281.101 457.662,290.23 "
-       id="polygon6204" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="451.302,274.72 443.603,281.101 457.662,290.23 "
-       id="polygon6206" />
-    <text
-       style="font-size:12.79979992px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="564.65002"
-       y="266.5"
-       id="text6208">сохраненное состояние не найдено</text>
-  </g>
-  <g
-     id="g6210"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
+     id="g4175"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
     <rect
        style="fill:#ffffff"
-       x="371"
-       y="291"
-       width="174.60001"
-       height="52"
-       rx="10"
-       ry="10"
-       id="rect6212" />
+       x="73"
+       y="36.5"
+       width="160.194"
+       height="59.400002"
+       id="rect4177" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:2"
-       x="371"
-       y="291"
-       width="174.60001"
-       height="52"
-       rx="10"
-       ry="10"
-       id="rect6214" />
+       x="73"
+       y="36.5"
+       width="160.194"
+       height="59.400002"
+       id="rect4179" />
     <text
-       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="458.29999"
-       y="312.89999"
-       id="text6216">
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="82"
+       y="62.099998"
+       id="text4181">
       <tspan
-         x="458.29999"
-         y="312.89999"
-         id="tspan6218">Установить состояния</tspan>
+         x="82"
+         y="62.099998"
+         id="tspan4183">Контроллер</tspan>
       <tspan
-         x="458.29999"
-         y="328.89999"
-         id="tspan6220">ячеек по умолчанию</tspan>
+         x="82"
+         y="78.099998"
+         id="tspan4185">декларации</tspan>
     </text>
   </g>
   <g
-     id="g6222"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
+     id="g4187"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
     <rect
        style="fill:#ffffff"
-       x="108"
-       y="306"
-       width="190.89999"
-       height="52"
-       rx="10"
-       ry="10"
-       id="rect6224" />
+       x="-197.10001"
+       y="-125.5"
+       width="156.3"
+       height="59.400002"
+       id="rect4189" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:2"
-       x="108"
-       y="306"
-       width="190.89999"
-       height="52"
-       rx="10"
-       ry="10"
-       id="rect6226" />
+       x="-197.10001"
+       y="-125.5"
+       width="156.3"
+       height="59.400002"
+       id="rect4191" />
     <text
-       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="203.45"
-       y="327.89999"
-       id="text6228">
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="-188.10001"
+       y="-99.900002"
+       id="text4193">
       <tspan
-         x="203.45"
-         y="327.89999"
-         id="tspan6230">Установить сохнаненные</tspan>
+         x="-188.10001"
+         y="-99.900002"
+         id="tspan4195">Главный</tspan>
       <tspan
-         x="203.45"
-         y="343.89999"
-         id="tspan6232">состояния ячеек</tspan>
+         x="-188.10001"
+         y="-83.900002"
+         id="tspan4197">контроллер</tspan>
     </text>
   </g>
   <g
-     id="g6234"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
-    <line
-       style="fill:none;stroke:#000000;stroke-width:2"
-       x1="210.84"
-       y1="290.69"
-       x2="230"
-       y2="251"
-       id="line6236" />
-    <polygon
-       style="fill:#000000"
-       points="215.343,292.864 206.338,288.517 203.885,305.099 "
-       id="polygon6238" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="215.343,292.864 206.338,288.517 203.885,305.099 "
-       id="polygon6240" />
-    <text
-       style="font-size:12.79979992px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="107"
-       y="271"
-       id="text6242">сохраненное состояние найдено</text>
-  </g>
-  <g
-     id="g6244"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
+     id="g4199"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
     <rect
        style="fill:#ffffff"
-       x="247"
-       y="431"
-       width="157.55"
-       height="52"
-       rx="10"
-       ry="10"
-       id="rect6246" />
+       x="-280.79999"
+       y="-105.2"
+       width="19"
+       height="20"
+       id="rect4201" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:2"
-       x="247"
-       y="431"
-       width="157.55"
-       height="52"
-       rx="10"
-       ry="10"
-       id="rect6248" />
+       x="-280.79999"
+       y="-105.2"
+       width="19"
+       height="20"
+       id="rect4203" />
+  </g>
+  <g
+     id="g4205"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="-280.8,-95.2 -303.578,-95.2 -303.578,-95 -309.356,-95 "
+       id="polyline4207" />
+    <path
+       style="fill:#ffffff"
+       d="m -325.356,-95 c 0,-4 4,-8 8,-8 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 z"
+       id="path4209" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m -325.356,-95 c 0,-4 4,-8 8,-8 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8"
+       id="path4211" />
     <text
-       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="325.77499"
-       y="452.89999"
-       id="text6250">
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="-295.35599"
+       y="-109"
+       id="text4213">
       <tspan
-         x="325.77499"
-         y="452.89999"
-         id="tspan6252">Посчитать значения</tspan>
-      <tspan
-         x="325.77499"
-         y="468.89999"
-         id="tspan6254">ячеек</tspan>
+         x="-295.35599"
+         y="-109"
+         id="tspan4215" />
     </text>
   </g>
   <g
-     id="g6256"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
-    <line
+     id="g4217"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="-100.817"
+       y="293.39999"
+       width="166.3"
+       height="71.75"
+       id="rect4219" />
+    <rect
        style="fill:none;stroke:#000000;stroke-width:2"
-       x1="413.41101"
-       y1="416.492"
-       x2="458.29999"
-       y2="343"
-       id="line6258" />
-    <polygon
-       style="fill:#000000"
-       points="417.678,419.098 409.144,413.886 405.071,430.147 "
-       id="polygon6260" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="417.678,419.098 409.144,413.886 405.071,430.147 "
-       id="polygon6262" />
+       x="-100.817"
+       y="293.39999"
+       width="166.3"
+       height="71.75"
+       id="rect4221" />
     <text
-       style="font-size:12.79979992px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="514"
-       y="394.75"
-       id="text6264">состояния установлены</text>
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="-91.817001"
+       y="325.17499"
+       id="text4223">
+      <tspan
+         x="-91.817001"
+         y="325.17499"
+         id="tspan4225">Загрузчик структуры</tspan>
+      <tspan
+         x="-91.817001"
+         y="341.17499"
+         id="tspan4227">декларации</tspan>
+    </text>
   </g>
   <g
-     id="g6266"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
-    <line
+     id="g4229"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="-273.966"
+       y="294.64999"
+       width="158.60001"
+       height="71.75"
+       id="rect4231" />
+    <rect
        style="fill:none;stroke:#000000;stroke-width:2"
-       x1="238.28999"
-       y1="416.401"
-       x2="203.45"
-       y2="358"
-       id="line6268" />
-    <polygon
-       style="fill:#000000"
-       points="242.584,413.839 233.996,418.962 246.488,430.141 "
-       id="polygon6270" />
-    <polygon
-       style="fill:none;stroke:#000000;stroke-width:2"
-       points="242.584,413.839 233.996,418.962 246.488,430.141 "
-       id="polygon6272" />
+       x="-273.966"
+       y="294.64999"
+       width="158.60001"
+       height="71.75"
+       id="rect4233" />
     <text
-       style="font-size:12.79979992px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="113"
-       y="392"
-       id="text6274">состояния ячеек установлены</text>
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="-264.966"
+       y="326.42499"
+       id="text4235">
+      <tspan
+         x="-264.966"
+         y="326.42499"
+         id="tspan4237">Интерпретатор</tspan>
+      <tspan
+         x="-264.966"
+         y="342.42499"
+         id="tspan4239">декларации</tspan>
+    </text>
   </g>
-  <ellipse
-     style="fill:#000000"
-     cx="326"
-     cy="553"
-     rx="10"
-     ry="10"
-     id="ellipse6276"
-     sodipodi:cx="326"
-     sodipodi:cy="553"
-     sodipodi:rx="10"
-     sodipodi:ry="10"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)" />
   <g
-     id="g6278"
-     transform="matrix(0.64273721,0,0,0.64273721,71.736002,43.12341)">
-    <line
+     id="g4241"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="105.688"
+       y="294.41599"
+       width="145.89999"
+       height="73.263702"
+       id="rect4243" />
+    <rect
        style="fill:none;stroke:#000000;stroke-width:2"
-       x1="325.936"
-       y1="526"
-       x2="325.77399"
-       y2="483"
-       id="line6280" />
+       x="105.688"
+       y="294.41599"
+       width="145.89999"
+       height="73.263702"
+       id="rect4245" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="114.688"
+       y="326.948"
+       id="text4247">
+      <tspan
+         x="114.688"
+         y="326.948"
+         id="tspan4249">Представление</tspan>
+      <tspan
+         x="114.688"
+         y="342.948"
+         id="tspan4251">декларации</tspan>
+    </text>
+  </g>
+  <g
+     id="g4253"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="178.638,294.416 178.638,255.056 178.18,255.056 178.18,229.25 "
+       id="polyline4255" />
+    <path
+       style="fill:#ffffff"
+       d="m 178.18,213.25 c 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 0,-4 4,-8 8,-8 z"
+       id="path4257" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 178.18,213.25 c 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 0,-4 4,-8 8,-8"
+       id="path4259" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="91.537804"
+       y="343.66599"
+       id="text4261">
+      <tspan
+         x="91.537804"
+         y="343.66599"
+         id="tspan4263" />
+    </text>
+  </g>
+  <g
+     id="g4265"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="335.43799"
+       y="294.366"
+       width="145.89999"
+       height="73.563797"
+       id="rect4267" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="335.43799"
+       y="294.366"
+       width="145.89999"
+       height="73.563797"
+       id="rect4269" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="344.43799"
+       y="319.048"
+       id="text4271">
+      <tspan
+         x="344.43799"
+         y="319.048"
+         id="tspan4273">Загрузчик</tspan>
+      <tspan
+         x="344.43799"
+         y="335.048"
+         id="tspan4275">представления</tspan>
+      <tspan
+         x="344.43799"
+         y="351.048"
+         id="tspan4277">декларации</tspan>
+    </text>
+  </g>
+  <g
+     id="g4279"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="657.112"
+       y="-261.116"
+       width="158.60001"
+       height="71.75"
+       id="rect4281" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="657.112"
+       y="-261.116"
+       width="158.60001"
+       height="71.75"
+       id="rect4283" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="666.112"
+       y="-229.341"
+       id="text4285">
+      <tspan
+         x="666.112"
+         y="-229.341"
+         id="tspan4287">Подсистема</tspan>
+      <tspan
+         x="666.112"
+         y="-213.341"
+         id="tspan4289">хранения</tspan>
+    </text>
+  </g>
+  <g
+     id="g4291"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="931.728,-207.484 872.904,-207.484 872.904,-208 865.5,-208 "
+       id="polyline4293" />
+    <path
+       style="fill:#ffffff"
+       d="m 849.5,-208 c 0,-4 4,-8 8,-8 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 z"
+       id="path4295" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 849.5,-208 c 0,-4 4,-8 8,-8 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8"
+       id="path4297" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="895.5"
+       y="-223"
+       id="text4299">
+      <tspan
+         x="895.5"
+         y="-223"
+         id="tspan4301">JDBC</tspan>
+    </text>
+  </g>
+  <g
+     id="g4303"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="815.712,-207.302 827.444,-207.302 827.444,-208 832.5,-208 "
+       id="polyline4305" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 840.5,-216 a 8,8 0 1 0 0,16"
+       id="path4307" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="1222.0601"
+       y="-90.615196"
+       id="text4309">
+      <tspan
+         x="1222.0601"
+         y="-90.615196"
+         id="tspan4311" />
+    </text>
+  </g>
+  <g
+     id="g4313"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="830.48602"
+       y="282.01001"
+       width="292.492"
+       height="188.069"
+       id="rect4315" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="830.48602"
+       y="282.01001"
+       width="292.492"
+       height="188.069"
+       id="rect4317" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="839.48602"
+       y="379.944"
+       id="text4319">
+      <tspan
+         x="839.48602"
+         y="379.944"
+         id="tspan4321" />
+    </text>
+  </g>
+  <g
+     id="g4323"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="-492.556"
+       y="-208.302"
+       width="156.3"
+       height="64.587502"
+       id="rect4325" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="-492.556"
+       y="-208.302"
+       width="156.3"
+       height="64.587502"
+       id="rect4327" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="-483.556"
+       y="-172.108"
+       id="text4329">
+      <tspan
+         x="-483.556"
+         y="-172.108"
+         id="tspan4331">Веб-браузер</tspan>
+    </text>
+  </g>
+  <g
+     id="g4333"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="70.593597"
+       y="-145.24001"
+       width="159.60001"
+       height="70"
+       id="rect4335" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="70.593597"
+       y="-145.24001"
+       width="159.60001"
+       height="70"
+       id="rect4337" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="79.593597"
+       y="-114.34"
+       id="text4339">
+      <tspan
+         x="79.593597"
+         y="-114.34"
+         id="tspan4341">Контроллер</tspan>
+      <tspan
+         x="79.593597"
+         y="-98.340202"
+         id="tspan4343">налоговых форм</tspan>
+    </text>
+  </g>
+  <g
+     id="g4345"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="71.593597"
+       y="-232.49001"
+       width="155.60001"
+       height="70"
+       id="rect4347" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="71.593597"
+       y="-232.49001"
+       width="155.60001"
+       height="70"
+       id="rect4349" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="80.593597"
+       y="-201.59"
+       id="text4351">
+      <tspan
+         x="80.593597"
+         y="-201.59"
+         id="tspan4353">Контроллер</tspan>
+      <tspan
+         x="80.593597"
+         y="-185.59"
+         id="tspan4355">компании</tspan>
+    </text>
+  </g>
+  <g
+     id="g4357"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="71.618599"
+       y="-316.48999"
+       width="155.575"
+       height="70"
+       id="rect4359" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="71.618599"
+       y="-316.48999"
+       width="155.575"
+       height="70"
+       id="rect4361" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="80.618599"
+       y="-293.59"
+       id="text4363">
+      <tspan
+         x="80.618599"
+         y="-293.59"
+         id="tspan4365">Контроллер</tspan>
+      <tspan
+         x="80.618599"
+         y="-277.59"
+         id="tspan4367">бухгалтерской</tspan>
+      <tspan
+         x="80.618599"
+         y="-261.59"
+         id="tspan4369">книги</tspan>
+    </text>
+  </g>
+  <g
+     id="g4371"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="-40.799999"
+       y1="-125.5"
+       x2="65.926201"
+       y2="-273.591"
+       id="line4373" />
     <polygon
        style="fill:#000000"
-       points="330.936,525.981 320.936,526.019 325.996,542 "
-       id="polygon6282" />
+       points="65.9262,-273.591 60.4082,-274.487 70.3112,-279.676 68.5209,-268.64 "
+       id="polygon4375" />
     <polygon
        style="fill:none;stroke:#000000;stroke-width:2"
-       points="330.936,525.981 320.936,526.019 325.996,542 "
-       id="polygon6284" />
+       points="65.9262,-273.591 60.4082,-274.487 70.3112,-279.676 68.5209,-268.64 "
+       id="polygon4377" />
+  </g>
+  <g
+     id="g4379"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="-40.799999"
+       y1="-95.800003"
+       x2="64.374001"
+       y2="-190.95799"
+       id="line4381" />
+    <polygon
+       style="fill:#000000"
+       points="64.374,-190.958 59.1656,-192.988 69.9355,-195.99 65.8747,-185.573 "
+       id="polygon4383" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="64.374,-190.958 59.1656,-192.988 69.9355,-195.99 65.8747,-185.573 "
+       id="polygon4385" />
+  </g>
+  <g
+     id="g4387"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="-40.799999"
+       y1="-95.800003"
+       x2="60.938301"
+       y2="-108.989"
+       id="line4389" />
+    <polygon
+       style="fill:#000000"
+       points="60.9383,-108.989 57.8163,-113.626 68.3761,-109.953 59.1018,-103.709 "
+       id="polygon4391" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="60.9383,-108.989 57.8163,-113.626 68.3761,-109.953 59.1018,-103.709 "
+       id="polygon4393" />
+  </g>
+  <g
+     id="g4395"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="-40.799999"
+       y1="-80.949997"
+       x2="63.402699"
+       y2="-25.569201"
+       id="line4397" />
+    <polygon
+       style="fill:#000000"
+       points="63.4027,-25.5692 63.5417,-31.1577 70.0255,-22.0494 58.8486,-22.3273 "
+       id="polygon4399" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="63.4027,-25.5692 63.5417,-31.1577 70.0255,-22.0494 58.8486,-22.3273 "
+       id="polygon4401" />
+  </g>
+  <g
+     id="g4403"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="-40.799999"
+       y1="-66.099998"
+       x2="66.651001"
+       y2="58.818901"
+       id="line4405" />
+    <polygon
+       style="fill:#000000"
+       points="66.651,58.8189 68.8113,53.663 71.5418,64.5048 61.2301,60.1841 "
+       id="polygon4407" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="66.651,58.8189 68.8113,53.663 71.5418,64.5048 61.2301,60.1841 "
+       id="polygon4409" />
+  </g>
+  <g
+     id="g4411"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="307.59399"
+       y="-310.48999"
+       width="132.392"
+       height="54"
+       id="rect4413" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="307.59399"
+       y="-310.48999"
+       width="132.392"
+       height="54"
+       id="rect4415" />
     <text
-       style="font-size:12.79979992px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
-       x="399"
-       y="519"
-       id="text6286">декларация открыта</text>
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="316.59399"
+       y="-287.59"
+       id="text4417">
+      <tspan
+         x="316.59399"
+         y="-287.59"
+         id="tspan4419">Бухгалтерская</tspan>
+      <tspan
+         x="316.59399"
+         y="-271.59"
+         id="tspan4421">книга</tspan>
+    </text>
+  </g>
+  <g
+     id="g4423"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="307.59399"
+       y="-223.49001"
+       width="130.392"
+       height="54"
+       id="rect4425" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="307.59399"
+       y="-223.49001"
+       width="130.392"
+       height="54"
+       id="rect4427" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="316.59399"
+       y="-192.59"
+       id="text4429">
+      <tspan
+         x="316.59399"
+         y="-192.59"
+         id="tspan4431">Компания</tspan>
+    </text>
+  </g>
+  <g
+     id="g4433"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="307.59399"
+       y="-133.99001"
+       width="128.97501"
+       height="54"
+       id="rect4435" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="307.59399"
+       y="-133.99001"
+       width="128.97501"
+       height="54"
+       id="rect4437" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="316.59399"
+       y="-111.09"
+       id="text4439">
+      <tspan
+         x="316.59399"
+         y="-111.09"
+         id="tspan4441">Налоговые</tspan>
+      <tspan
+         x="316.59399"
+         y="-95.090202"
+         id="tspan4443">формы</tspan>
+    </text>
+  </g>
+  <g
+     id="g4445"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="227.194"
+       y1="-281.48999"
+       x2="297.86099"
+       y2="-283.24799"
+       id="line4447" />
+    <polygon
+       style="fill:#000000"
+       points="297.861,-283.248 295.237,-288.184 305.359,-283.434 295.486,-278.187 "
+       id="polygon4449" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="297.861,-283.248 295.237,-288.184 305.359,-283.434 295.486,-278.187 "
+       id="polygon4451" />
+  </g>
+  <g
+     id="g4453"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="227.194"
+       y1="-197.49001"
+       x2="297.85901"
+       y2="-196.61099"
+       id="line4455" />
+    <polygon
+       style="fill:#000000"
+       points="297.859,-196.611 295.421,-201.642 305.358,-196.518 295.297,-191.643 "
+       id="polygon4457" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="297.859,-196.611 295.421,-201.642 305.358,-196.518 295.297,-191.643 "
+       id="polygon4459" />
+  </g>
+  <g
+     id="g4461"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="230.194"
+       y1="-110.24"
+       x2="297.867"
+       y2="-107.399"
+       id="line4463" />
+    <polygon
+       style="fill:#000000"
+       points="297.867,-107.399 295.578,-112.499 305.36,-107.084 295.159,-102.508 "
+       id="polygon4465" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="297.867,-107.399 295.578,-112.499 305.36,-107.084 295.159,-102.508 "
+       id="polygon4467" />
+  </g>
+  <g
+     id="g4469"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="307.59399"
+       y="39.6348"
+       width="128.97501"
+       height="56.875"
+       id="rect4471" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="307.59399"
+       y="39.6348"
+       width="128.97501"
+       height="56.875"
+       id="rect4473" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="316.59399"
+       y="71.972298"
+       id="text4475">
+      <tspan
+         x="316.59399"
+         y="71.972298"
+         id="tspan4477">Декларация</tspan>
+    </text>
+  </g>
+  <g
+     id="g4479"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="232.194"
+       y1="-21"
+       x2="297.862"
+       y2="-19.140699"
+       id="line4481" />
+    <polygon
+       style="fill:#000000"
+       points="297.862,-19.1407 295.504,-24.2095 305.359,-18.9285 295.221,-14.2135 "
+       id="polygon4483" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="297.862,-19.1407 295.504,-24.2095 305.359,-18.9285 295.221,-14.2135 "
+       id="polygon4485" />
+  </g>
+  <g
+     id="g4487"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:20"
+       x1="233.194"
+       y1="66.199997"
+       x2="297.86099"
+       y2="67.827301"
+       id="line4489" />
+    <polygon
+       style="fill:#000000"
+       points="297.861,67.8273 295.488,62.766 305.359,68.0159 295.236,72.7628 "
+       id="polygon4491" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="297.861,67.8273 295.488,62.766 305.359,68.0159 295.236,72.7628 "
+       id="polygon4493" />
+  </g>
+  <g
+     id="g4495"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="498.33801"
+       y="-125.365"
+       width="20"
+       height="20"
+       id="rect4497" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="498.33801"
+       y="-125.365"
+       width="20"
+       height="20"
+       id="rect4499" />
+  </g>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="-157.63223"
+     y1="-249.58702"
+     x2="-137.95912"
+     y2="-200.82736"
+     id="line4501" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="-158.30652"
+     y1="-224.80682"
+     x2="-137.95912"
+     y2="-197.45589"
+     id="line4503" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="-158.78461"
+     y1="-199.18378"
+     x2="-137.95912"
+     y2="-197.45589"
+     id="line4505" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="-158.78461"
+     y1="-164.92142"
+     x2="-137.95912"
+     y2="-194.08446"
+     id="line4507" />
+  <g
+     id="g4509"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="307.59399"
+       y="-45.8652"
+       width="128.97501"
+       height="54"
+       id="rect4511" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="307.59399"
+       y="-45.8652"
+       width="128.97501"
+       height="54"
+       id="rect4513" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+       x="316.59399"
+       y="-22.9652"
+       id="text4515">
+      <tspan
+         x="316.59399"
+         y="-22.9652"
+         id="tspan4517">Состояние</tspan>
+      <tspan
+         x="316.59399"
+         y="-6.9651999"
+         id="tspan4519">декларации</tspan>
+    </text>
+  </g>
+  <g
+     id="g4521"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="518.338,-115.365 548.338,-115.365 548.338,-115.365 560.088,-115.365 "
+       id="polyline4523" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 568.088,-123.365 a 8,8 0 1 0 0,16"
+       id="path4525" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="543.33801"
+       y="-132.36501"
+       id="text4527">
+      <tspan
+         x="543.33801"
+         y="-132.36501"
+         id="tspan4529" />
+    </text>
+  </g>
+  <g
+     id="g4531"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="657.112,-225.241 630.808,-225.241 630.808,-116.553 621.504,-116.553 "
+       id="polyline4533" />
+    <path
+       style="fill:#ffffff"
+       d="m 605.504,-116.553 c 0,-4 4,-8 8,-8 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 z"
+       id="path4535" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 605.504,-116.553 c 0,-4 4,-8 8,-8 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8"
+       id="path4537" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="818.33801"
+       y="-158.36501"
+       id="text4539">
+      <tspan
+         x="818.33801"
+         y="-158.36501"
+         id="tspan4541" />
+    </text>
+  </g>
+  <g
+     id="g4543"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="562.33801"
+       y1="-115.615"
+       x2="594.77002"
+       y2="-116.336"
+       id="line4545" />
+    <polygon
+       style="fill:#000000"
+       points="594.77,-116.336 592.16,-121.28 602.268,-116.503 592.382,-111.282 "
+       id="polygon4547" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="594.77,-116.336 592.16,-121.28 602.268,-116.503 592.382,-111.282 "
+       id="polygon4549" />
+  </g>
+  <g
+     id="g4551"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="251.588,331.048 272.776,331.048 272.776,331.18 277.964,331.18 "
+       id="polyline4553" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 285.964,323.18 a 8,8 0 1 0 0,16"
+       id="path4555" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="269.452"
+       y="281.448"
+       id="text4557">
+      <tspan
+         x="269.452"
+         y="281.448"
+         id="tspan4559" />
+    </text>
+  </g>
+  <g
+     id="g4561"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="335.438,331.148 312.701,331.148 312.701,331.18 306.964,331.18 "
+       id="polyline4563" />
+    <path
+       style="fill:#ffffff"
+       d="m 290.964,331.18 c 0,-4 4,-8 8,-8 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 z"
+       id="path4565" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 290.964,331.18 c 0,-4 4,-8 8,-8 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8"
+       id="path4567" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="297.452"
+       y="294.82199"
+       id="text4569">
+      <tspan
+         x="297.452"
+         y="294.82199"
+         id="tspan4571" />
+    </text>
+  </g>
+  <g
+     id="g4573"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="-17.667,293.4 -17.667,250.852 -17.5472,250.852 -17.5472,225.304 "
+       id="polyline4575" />
+    <path
+       style="fill:#ffffff"
+       d="m -17.5472,209.304 c 4,0 7.99998,4 7.99998,8 0,4 -3.99998,8 -7.99998,8 -4,0 -8,-4 -8,-8 0,-4 4,-8 8,-8 z"
+       id="path4577" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m -17.5472,209.304 c 4,0 7.99998,4 7.99998,8 0,4 -3.99998,8 -7.99998,8 -4,0 -8,-4 -8,-8 0,-4 4,-8 8,-8"
+       id="path4579" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="-31.495399"
+       y="213.448"
+       id="text4581">
+      <tspan
+         x="-31.495399"
+         y="213.448"
+         id="tspan4583" />
+    </text>
+  </g>
+  <g
+     id="g4585"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="-194.666,294.65 -194.666,251.825 -195.195,251.825 -195.195,226 "
+       id="polyline4587" />
+    <path
+       style="fill:#ffffff"
+       d="m -195.195,210 c 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 0,-4 4,-8 8,-8 z"
+       id="path4589" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m -195.195,210 c 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 0,-4 4,-8 8,-8"
+       id="path4591" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="-204.496"
+       y="208.448"
+       id="text4593">
+      <tspan
+         x="-204.496"
+         y="208.448"
+         id="tspan4595" />
+    </text>
+  </g>
+  <g
+     id="g4597"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="23.116,412.054 23.616,412.054 23.616,431.054 593.616,431.054 "
+       id="polyline4599" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 601.616,423.054 a 8,8 0 1 0 0,16"
+       id="path4601" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="61.616001"
+       y="464.05399"
+       id="text4603">
+      <tspan
+         x="61.616001"
+         y="464.05399"
+         id="tspan4605" />
+    </text>
+  </g>
+  <g
+     id="g4607"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="830.486,376.044 749.066,376.044 749.066,376.43 720.066,376.43 "
+       id="polyline4609" />
+    <path
+       style="fill:#ffffff"
+       d="m 704.066,376.43 c 0,-4 4,-8 8,-8 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 z"
+       id="path4611" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 704.066,376.43 c 0,-4 4,-8 8,-8 4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8"
+       id="path4613" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="753.06598"
+       y="366.42999"
+       id="text4615">
+      <tspan
+         x="753.06598"
+         y="366.42999"
+         id="tspan4617">java.io</tspan>
+    </text>
+  </g>
+  <g
+     id="g4619"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="528.366,331.804 571.216,331.804 571.216,332.25 598.066,332.25 "
+       id="polyline4621" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 606.066,324.25 a 8,8 0 1 0 0,16"
+       id="path4623" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="676.15802"
+       y="232.48399"
+       id="text4625">
+      <tspan
+         x="676.15802"
+         y="232.48399"
+         id="tspan4627" />
+    </text>
+  </g>
+  <g
+     id="g4629"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="-414.406,-143.715 -414.406,-95 -342.356,-95 "
+       id="polyline4631" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m -334.356,-103 a 8,8 0 1 0 0,16"
+       id="path4633" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="-373.556"
+       y="-109.89"
+       id="text4635">
+      <tspan
+         x="-373.556"
+         y="-109.89"
+         id="tspan4637">HTTP</tspan>
+    </text>
+  </g>
+  <text
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="-3.6389999"
+     y="-528.22101"
+     id="text4639">
+    <tspan
+       x="-3.6389999"
+       y="-528.22101"
+       id="tspan4641" />
+  </text>
+  <text
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="-3.6389999"
+     y="-528.22101"
+     id="text4643">
+    <tspan
+       x="-3.6389999"
+       y="-528.22101"
+       id="tspan4645" />
+  </text>
+  <text
+     style="font-size:4.31546211px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="-388.75961"
+     y="-265.57849"
+     id="text4647">
+    <tspan
+       x="-388.75961"
+       y="-265.57849"
+       id="tspan4649">Подсистема управления</tspan>
+  </text>
+  <text
+     style="font-size:4.31546211px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="-209.26338"
+     y="-268.47797"
+     id="text4651">
+    <tspan
+       x="-209.26338"
+       y="-268.47797"
+       id="tspan4653">Модель</tspan>
+  </text>
+  <text
+     style="font-size:4.31546211px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="-396.37909"
+     y="-25.227482"
+     id="text4655">
+    <tspan
+       x="-396.37909"
+       y="-25.227482"
+       id="tspan4657">Подсистема управления декларацией</tspan>
+  </text>
+  <text
+     style="font-size:4.31546211px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="-228.48068"
+     y="-68.382111"
+     id="text4659">
+    <tspan
+       x="-228.48068"
+       y="-68.382111"
+       id="tspan4661">Подсистема отображения декларации</tspan>
+  </text>
+  <g
+     id="g4663"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <path
+       style="fill:#ffffff"
+       d="m 848.454,349.028 113.65,0 0,95.829 c -22.73,-15.972 -34.095,-15.972 -56.825,0 -22.73,15.971 -34.095,15.971 -56.825,0 l 0,-95.829 z"
+       id="path4665" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 848.454,349.028 113.65,0 0,95.829 c -22.73,-15.972 -34.095,-15.972 -56.825,0 -22.73,15.971 -34.095,15.971 -56.825,0 l 0,-95.829"
+       id="path4667" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="905.27899"
+       y="376.957"
+       id="text4669">
+      <tspan
+         x="905.27899"
+         y="376.957"
+         id="tspan4671">XML Документы</tspan>
+      <tspan
+         x="905.27899"
+         y="392.957"
+         id="tspan4673">(структура</tspan>
+      <tspan
+         x="905.27899"
+         y="408.957"
+         id="tspan4675">декларации)</tspan>
+    </text>
+  </g>
+  <g
+     id="g4677"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <path
+       style="fill:#ffffff"
+       d="m 996.104,347.128 116.796,0 0,97.457 c -23.36,-16.243 -35.04,-16.243 -58.4,0 -23.36,16.243 -35.04,16.243 -58.396,0 l 0,-97.457 z"
+       id="path4679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 996.104,347.128 116.796,0 0,97.457 c -23.36,-16.243 -35.04,-16.243 -58.4,0 -23.36,16.243 -35.04,16.243 -58.396,0 l 0,-97.457"
+       id="path4681" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="1054.5"
+       y="367.73499"
+       id="text4683">
+      <tspan
+         x="1054.5"
+         y="367.73499"
+         id="tspan4685">XSLT Документы</tspan>
+      <tspan
+         x="1054.5"
+         y="383.73499"
+         id="tspan4687">(внешний</tspan>
+      <tspan
+         x="1054.5"
+         y="399.73499"
+         id="tspan4689">вид</tspan>
+      <tspan
+         x="1054.5"
+         y="415.73499"
+         id="tspan4691">декларации)</tspan>
+    </text>
+  </g>
+  <text
+     style="font-size:4.31546211px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="-0.35387182"
+     y="-54.356834"
+     id="text4693">
+    <tspan
+       x="-0.35387182"
+       y="-54.356834"
+       id="tspan4695">Файловая система</tspan>
+    <tspan
+       x="-0.35387182"
+       y="-48.962517"
+       id="tspan4697">&lt;&lt;хранилище&gt;&gt;</tspan>
+  </text>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="8.2406702"
+     y1="-195.15688"
+     x2="8.0720806"
+     y2="-261.8699"
+     id="line4699" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     d="m 8.419336,-261.43834 a 77.572457,77.572457 0 0 0 63.49866,0.57988"
+     id="path4701" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     d="M 72.086569,-261.11132 A 79.342471,79.342471 0 0 0 8.0720785,-261.53274"
+     id="path4703" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="71.075134"
+     y1="-194.65118"
+     x2="71.287491"
+     y2="-261.5314"
+     id="line4705" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     d="m 8.0329675,-195.23814 a 77.574143,77.574143 0 0 0 63.5006775,0.57989"
+     id="path4707" />
+  <g
+     id="g4709"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <path
+       style="fill:#ffffff"
+       d="m 946.852,-208.296 157.448,0 0,88.114 c -31.49,-14.685 -47.23,-14.685 -78.72,0 -31.493,14.686 -47.238,14.686 -78.728,0 l 0,-88.114 z"
+       id="path4711" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 946.852,-208.296 157.448,0 0,88.114 c -31.49,-14.685 -47.23,-14.685 -78.72,0 -31.493,14.686 -47.238,14.686 -78.728,0 l 0,-88.114"
+       id="path4713" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="1025.58"
+       y="-191.582"
+       id="text4715">
+      <tspan
+         x="1025.58"
+         y="-191.582"
+         id="tspan4717">Код на языке SQL</tspan>
+      <tspan
+         x="1025.58"
+         y="-175.582"
+         id="tspan4719">для создания</tspan>
+      <tspan
+         x="1025.58"
+         y="-159.582"
+         id="tspan4721">таблиц в схеме базы</tspan>
+      <tspan
+         x="1025.58"
+         y="-143.582"
+         id="tspan4723">данных</tspan>
+    </text>
+  </g>
+  <text
+     style="font-size:4.31546211px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sanserif"
+     x="22.021105"
+     y="-243.83263"
+     id="text4725">
+    <tspan
+       x="22.021105"
+       y="-243.83263"
+       id="tspan4727">СУБД</tspan>
+    <tspan
+       x="22.021105"
+       y="-238.43829"
+       id="tspan4729">&lt;&lt;хранилище&gt;&gt;</tspan>
+  </text>
+  <g
+     id="g4731"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="15.616"
+       y="398.05399"
+       width="15"
+       height="14"
+       id="rect4733" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="15.616"
+       y="398.05399"
+       width="15"
+       height="14"
+       id="rect4735" />
+  </g>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="-297.91101"
+     y1="-35.452415"
+     x2="-298.17804"
+     y2="-24.35899"
+     id="line4737" />
+  <g
+     id="g4739"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="513.36603"
+       y="324.05399"
+       width="15"
+       height="15.5"
+       id="rect4741" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="513.36603"
+       y="324.05399"
+       width="15"
+       height="15.5"
+       id="rect4743" />
+  </g>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="-143.69058"
+     y1="-46.916031"
+     x2="-132.89249"
+     y2="-46.694866"
+     id="line4745" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="-393.90881"
+     y1="-190.68591"
+     x2="-372.42288"
+     y2="-190.85966"
+     id="line4747" />
+  <g
+     id="g4749"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="-17.7902,132.33 -17.7902,170.317 -17.5472,170.317 -17.5472,192.304 "
+       id="polyline4751" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="M -9.54722,200.298 A 8,8 0 1 0 -25.5472,200.31"
+       id="path4753" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="-67.384003"
+       y="73.929802"
+       id="text4755">
+      <tspan
+         x="-67.384003"
+         y="73.929802"
+         id="tspan4757" />
+    </text>
+  </g>
+  <g
+     id="g4759"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="192.616,133.68 192.616,172.965 178.18,172.965 178.18,196.25 "
+       id="polyline4761" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 186.18,204.244 a 8.0000022,8.0000022 0 1 0 -16,0.012"
+       id="path4763" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="132.616"
+       y="114.93"
+       id="text4765">
+      <tspan
+         x="132.616"
+         y="114.93"
+         id="tspan4767" />
+    </text>
+  </g>
+  <g
+     id="g4769"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="-202.384"
+       y="114.68"
+       width="16"
+       height="17"
+       id="rect4771" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="-202.384"
+       y="114.68"
+       width="16"
+       height="17"
+       id="rect4773" />
+  </g>
+  <g
+     id="g4775"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="184.616"
+       y="116.68"
+       width="16"
+       height="17"
+       id="rect4777" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="184.616"
+       y="116.68"
+       width="16"
+       height="17"
+       id="rect4779" />
+  </g>
+  <g
+     id="g4781"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <ellipse
+       style="fill:#ffffff"
+       cx="-414.28201"
+       cy="-330.07001"
+       rx="6"
+       ry="6"
+       id="ellipse4783"
+       sodipodi:cx="-414.28201"
+       sodipodi:cy="-330.07001"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       d="m -408.28201,-330.07001 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2"
+       cx="-414.28201"
+       cy="-330.07001"
+       rx="6"
+       ry="6"
+       id="ellipse4785"
+       sodipodi:cx="-414.28201"
+       sodipodi:cy="-330.07001"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       d="m -408.28201,-330.07001 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="-438.28201"
+       y1="-318.07001"
+       x2="-390.28201"
+       y2="-318.07001"
+       id="line4787" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="-414.28201"
+       y1="-324.07001"
+       x2="-414.28201"
+       y2="-294.07001"
+       id="line4789" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="-414.28201"
+       y1="-294.07001"
+       x2="-438.28201"
+       y2="-268.07001"
+       id="line4791" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x1="-414.28201"
+       y1="-294.07001"
+       x2="-390.28201"
+       y2="-268.07001"
+       id="line4793" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sanserif"
+       x="-414.28201"
+       y="-244.17"
+       id="text4795">
+      <tspan
+         x="-414.28201"
+         y="-244.17"
+         id="tspan4797">Пользователь</tspan>
+    </text>
+  </g>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="-445.64484"
+     y1="-239.49963"
+     x2="-445.68661"
+     y2="-228.78917"
+     id="line4799" />
+  <polyline
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8"
+     points="72,-3.5 -193.804,-3.5702 -194.384,114.68 "
+     id="polyline4801"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)" />
+  <polyline
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8"
+     points="73,81.05 -18.1692,81.05 -18.1692,115.33 -17.7902,115.33 "
+     id="polyline4803"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)" />
+  <polyline
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8"
+     points="193.145,95.9 193.145,106.29 192.616,106.29 192.616,116.68 "
+     id="polyline4805"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)" />
+  <g
+     id="g4807"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <rect
+       style="fill:#ffffff"
+       x="-25.790199"
+       y="115.33"
+       width="16"
+       height="17"
+       id="rect4809" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2"
+       x="-25.790199"
+       y="115.33"
+       width="16"
+       height="17"
+       id="rect4811" />
+  </g>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="-103.23112"
+     y1="-47.158123"
+     x2="-68.935997"
+     y2="-31.64941"
+     id="line4813" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:0.67429096"
+     x1="-105.25401"
+     y1="-11.420691"
+     x2="-68.935997"
+     y2="-30.975117"
+     id="line4815" />
+  <g
+     id="g4817"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polygon
+       style="fill:#ffffff"
+       points="650.066,163.43 650.066,-62.5702 1110.37,-62.5702 1122.37,-50.5702 1122.37,163.43 "
+       id="polygon4819" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="650.066,163.43 650.066,-62.5702 1110.37,-62.5702 1122.37,-50.5702 1122.37,163.43 "
+       id="polygon4821" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1"
+       points="1110.37,-62.5702 1110.37,-50.5702 1122.37,-50.5702 "
+       id="polyline4823" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:monospace"
+       x="657.06598"
+       y="-37.6702"
+       id="text4825">
+      <tspan
+         x="657.06598"
+         y="-37.6702"
+         id="tspan4827">JDBC - Java Database Connectivity - платформо-независимый</tspan>
+      <tspan
+         x="657.06598"
+         y="-21.6702"
+         id="tspan4829">промышленный стандарт для взаимодействия Java-приложений</tspan>
+      <tspan
+         x="657.06598"
+         y="-5.6701999"
+         id="tspan4831">с различными СУБД.</tspan>
+      <tspan
+         x="657.06598"
+         y="10.3298"
+         id="tspan4833" />
+      <tspan
+         x="657.06598"
+         y="26.3298"
+         id="tspan4835">SQL - Structured Query Language - структурированный язык</tspan>
+      <tspan
+         x="657.06598"
+         y="42.3298"
+         id="tspan4837">запросов, предназначеный для манипуляции данными в различ-</tspan>
+      <tspan
+         x="657.06598"
+         y="58.3298"
+         id="tspan4839">ных СУБД</tspan>
+      <tspan
+         x="657.06598"
+         y="74.329803"
+         id="tspan4841" />
+      <tspan
+         x="657.06598"
+         y="90.329803"
+         id="tspan4843">XML - eXtensible Markup Language - язык разметки, предназна</tspan>
+      <tspan
+         x="657.06598"
+         y="106.33"
+         id="tspan4845">ченный для хранения структурированных данных</tspan>
+      <tspan
+         x="657.06598"
+         y="122.33"
+         id="tspan4847" />
+      <tspan
+         x="657.06598"
+         y="138.33"
+         id="tspan4849">XSLT - eXtensible Stylesheet Language Transformation - язык</tspan>
+      <tspan
+         x="657.06598"
+         y="154.33"
+         id="tspan4851">преобразований XML документов</tspan>
+    </text>
+  </g>
+  <g
+     id="g4853"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-156.04428)">
+    <polygon
+       style="fill:#ffffff"
+       points="-496.556,206.93 -496.556,-67.0702 -313.456,-67.0702 -301.456,-55.0702 -301.456,206.93 "
+       id="polygon4855" />
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="-496.556,206.93 -496.556,-67.0702 -313.456,-67.0702 -301.456,-55.0702 -301.456,206.93 "
+       id="polygon4857" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1"
+       points="-313.456,-67.0702 -313.456,-55.0702 -301.456,-55.0702 "
+       id="polyline4859" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:monospace"
+       x="-489.556"
+       y="-42.1702"
+       id="text4861">
+      <tspan
+         x="-489.556"
+         y="-42.1702"
+         id="tspan4863">&quot;Тонкий Клиент&quot; -</tspan>
+      <tspan
+         x="-489.556"
+         y="-26.1702"
+         id="tspan4865">клиентом является</tspan>
+      <tspan
+         x="-489.556"
+         y="-10.1702"
+         id="tspan4867">веб-браузер.</tspan>
+      <tspan
+         x="-489.556"
+         y="5.8298001"
+         id="tspan4869">Пользовательский</tspan>
+      <tspan
+         x="-489.556"
+         y="21.8298"
+         id="tspan4871">интерфейс представлен</tspan>
+      <tspan
+         x="-489.556"
+         y="37.8298"
+         id="tspan4873">в виде HTML страниц,</tspan>
+      <tspan
+         x="-489.556"
+         y="53.8298"
+         id="tspan4875">которые содержат</tspan>
+      <tspan
+         x="-489.556"
+         y="69.829803"
+         id="tspan4877">сценарии на языке</tspan>
+      <tspan
+         x="-489.556"
+         y="85.829803"
+         id="tspan4879">JavaScript для создания</tspan>
+      <tspan
+         x="-489.556"
+         y="101.83"
+         id="tspan4881">динамического пользова-</tspan>
+      <tspan
+         x="-489.556"
+         y="117.83"
+         id="tspan4883">тельского интерфейса и</tspan>
+      <tspan
+         x="-489.556"
+         y="133.83"
+         id="tspan4885">отправки/получений</tspan>
+      <tspan
+         x="-489.556"
+         y="149.83"
+         id="tspan4887">запросов от сервера</tspan>
+      <tspan
+         x="-489.556"
+         y="165.83"
+         id="tspan4889">без перезагрузки</tspan>
+      <tspan
+         x="-489.556"
+         y="181.83"
+         id="tspan4891">стрианицы.</tspan>
+      <tspan
+         x="-489.556"
+         y="197.83"
+         id="tspan4893" />
+    </text>
+  </g>
+  <g
+     id="g4895"
+     transform="matrix(0.33714549,0,0,0.33714549,-305.97153,-158.5611)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2"
+       points="-194.384,131.68 -194.384,170.34 -195.195,170.34 -195.195,193 "
+       id="polyline4897" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m -187.195,200.994 a 8.0000022,8.0000022 0 1 0 -16,0.012"
+       id="path4899" />
+    <text
+       style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:monospace"
+       x="-214.196"
+       y="143"
+       id="text4901">
+      <tspan
+         x="-214.196"
+         y="143"
+         id="tspan4903" />
+    </text>
   </g>
 </svg>
