@@ -5,16 +5,16 @@
 %% The original source files were:
 %%
 %% classes.dtx  (with options: `report')
-%% 
+%%
 %% This is a generated file.
-%% 
+%%
 %% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004
 %% The LaTeX3 Project and any individual authors listed elsewhere
 %% in this file.
-%% 
+%%
 %% This file was generated from file(s) of the LaTeX base system.
 %% --------------------------------------------------------------
-%% 
+%%
 %% It may be distributed and/or modified under the
 %% conditions of the LaTeX Project Public License, either version 1.3
 %% of this license or (at your option) any later version.
@@ -22,17 +22,17 @@
 %%    http://www.latex-project.org/lppl.txt
 %% and version 1.3 or later is part of all distributions of LaTeX
 %% version 2003/12/01 or later.
-%% 
+%%
 %% This file has the LPPL maintenance status "maintained".
-%% 
+%%
 %% This file may only be distributed together with a copy of the LaTeX
 %% base system. You may however distribute the LaTeX base system without
 %% such generated files.
-%% 
+%%
 %% The list of all files belonging to the LaTeX base distribution is
 %% given in the file `manifest.txt'. See also `legal.txt' for additional
 %% information.
-%% 
+%%
 %% The list of derived (unpacked) files belonging to the distribution
 %% and covered by LPPL is defined by the unpacking scripts (with
 %% extension .ins) which are part of the distribution.
@@ -313,14 +313,14 @@
 \def\@makechapterhead#1{%
   %\vspace*{50\p@}%
   {\parindent \z@ \raggedright \normalfont
-    \begin{center}
+%    \begin{center}
     {\bfseries{\large
     \ifnum \c@secnumdepth >\m@ne
-        \@chapapp\space \thechapter
+        \@chapapp \hspace{0.4in} \thechapter
     \fi
     \space\space \MakeUppercase{#1}\par\nobreak
     }}
-    \end{center}
+%    \end{center}
     %\vskip 20\p@
   }}
 \def\@schapter#1{\if@twocolumn
@@ -385,7 +385,7 @@
                  \fi}
 \def\@makesappendixhead#1{%
   %\vspace*{50\p@}%
-  {\parindent \z@ 
+  {\parindent \z@
     \large \bfseries \centering
     \interlinepenalty\@M
     \MakeUppercase{#1}\par\nobreak
@@ -674,7 +674,7 @@
                 \@mkboth{\MakeUppercase\indexname}%
                         {\MakeUppercase\indexname}%
                 \thispagestyle{myheadings}
-		\parindent\z@
+                \parindent\z@
                 \parskip\z@ \@plus .3\p@\relax
                 \columnseprule \z@
                 \columnsep 35\p@

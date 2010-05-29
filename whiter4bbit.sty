@@ -22,8 +22,27 @@
 
 \renewcommand{\thefootnote}{\roman{thefootnote}}
 
-\pagestyle{myheadings}
+\newcommand{\gostitemi}[1]{\par--- #1}
 
+\newcounter{gostItemCount}
+\newenvironment{gostenumerate}{
+  \setlength{\parindent}{0.62cm}
+  \setcounter{gostItemCount}{0}
+  \stepcounter{gostItemCount}
+}
+
+
+\newcommand{\gostenum}[1]{~\par\arabic{gostItemCount}. #1\stepcounter{gostItemCount}}
+
+\newenvironment{gostitemize}{
+  \setlength{\parindent}{0.62cm}
+  \stepcounter{gostItemCount}
+}
+
+\newcommand{\gostitem}[1]{~\par--- #1\stepcounter{gostItemCount}}
+
+
+\pagestyle{myheadings}
 
 
 
