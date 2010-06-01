@@ -313,14 +313,15 @@
 \def\@makechapterhead#1{%
   %\vspace*{50\p@}%
   {\parindent \z@ \raggedright \normalfont
-%    \begin{center}
+    \begin{center}
     {\bfseries{\large
     \ifnum \c@secnumdepth >\m@ne
-        \@chapapp \hspace{0.4in} \thechapter
+%        \@chapapp \hspace{0.4in} \thechapter
+        \@chapapp \thechapter
     \fi
     \space\space \MakeUppercase{#1}\par\nobreak
     }}
-%    \end{center}
+    \end{center}
     %\vskip 20\p@
   }}
 \def\@schapter#1{\if@twocolumn
