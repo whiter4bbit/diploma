@@ -8,3 +8,8 @@
 *.bak
 *.eps
 *.toc
+*.nav
+*.out
+*.snm
+*.vrb
+

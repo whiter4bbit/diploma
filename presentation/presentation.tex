@@ -100,17 +100,17 @@
   \end{itemize}
 \end{frame}
 
-\begin{frame}
-  \frametitle{Проектирование системы}
-  \begin{enumerate}
-    \item Выделение объектов: диаграмма \textbf{<<Сущность-связь>>}.
-    \item Выделение вариантов использования: диаграммы \textbf{вариантов использования}.
-    \item Анализ вариантов использования: \textbf{диаграммы последовательности}.
-    \item Детализация объектов: \textbf{выделение} новых \textbf{объектов}, \textbf{алгоримтов} подсчёта ячеек, \textbf{грамматика} языка для описание формул, \textbf{диаграмма активности}.
-    \item Представление \textbf{структуры декларации} на языке XML.
-    \item Логическая \textbf{модель данных}.
-  \end{enumerate}
-\end{frame}
+%\begin{frame}
+%  \frametitle{Проектирование системы}
+%  \begin{enumerate}
+%    \item Выделение объектов: диаграмма \textbf{<<Сущность-связь>>}.
+%    \item Выделение вариантов использования: диаграммы \textbf{вариантов использования}.
+%    \item Анализ вариантов использования: \textbf{диаграммы последовательности}.
+%    \item Детализация объектов: \textbf{выделение} новых \textbf{объектов}, \textbf{алгоримтов} подсчёта ячеек, \textbf{грамматика} языка для описание формул, \textbf{диаграмма активности}.
+%    \item Представление \textbf{структуры декларации} на языке XML.
+%    \item Логическая \textbf{модель данных}.
+%  \end{enumerate}
+%\end{frame}
 
 \section{Реализация}
 \begin{frame}
@@ -168,10 +168,34 @@
 
 \begin{frame}
   \frametitle{Реализация подсистемы хранения}
-  Объектно-реляционное отображение. Библиотека Hibernate.
+  Объектно-реляционное отображение.  Библиотека Hibernate.
   \begin{center}
     \includegraphics[width=0.9\textwidth]{pics/orm}
   \end{center}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Реализация подсистемы вычисления выражений}
+  \begin{itemize}
+    \item Выделение лексем (ExpressionLexer)
+    \item Создание АСД (ExpressionParser). Метод метод нисходящего рекурсивного парсера.
+    \item Обработка АСД и вычисление значения выражений (StandardEvaluationVisitor). Шаблон проектирования ``Посетитель''.
+  \end{itemize}
+
+  \begin{exampleblock}{Грамматика}
+    \begin{verbatim}
+      number = integer | double
+      simple_expr = number | str_const | variable
+      | func_call | '(',expression,')'
+      unary_op = '-' | '!'
+      bin_op = '<' | '>' | '<=' | '>=' | '+' | "-" | '*' |
+      '/' | '&' | '&&' | '||' | '^'
+      expression = simple_expr | unary_op expression
+      | {bin_op, expression }
+      func_call = ident, '(',  ')' | ident, '(', params, ')'
+      params = expression | expression ',' params
+    \end{verbatim}
+  \end{exampleblock}
 \end{frame}
 
 \begin{frame}
