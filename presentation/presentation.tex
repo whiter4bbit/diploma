@@ -31,8 +31,12 @@
 \subsection{Актуальность}
 \begin{frame}
   \frametitle{Актуальность}
-  \begin{block}{Проблемма}
-    Заполнение финансовых документов весьма трудоемкий процесс, включающий в себя операции с большим объемом данных. Данные представляют собой различные аспекты деятельности предприятия, которые так же необходимо учитывать. Правила заполнения финансовых документов меняются как минимум раз в финансовый год. На больших предприятиях существует потребность в заполнении большого количества документов, что влечет за собой большие финансовые затраты.
+  \begin{block}{Предпосылки}
+    \begin{itemize}
+    \itemЗаполнение финансовых документов весьма трудоемкий процесс, включающий в себя операции с большим объемом данных. Данные представляют собой различные аспекты деятельности предприятия, которые так же необходимо учитывать.
+    \itemПравила заполнения финансовых документов меняются как минимум раз в финансовый год.
+    \itemНа больших предприятиях существует потребность в заполнении большого количества документов, что влечет за собой большие финансовые затраты.
+    \end{itemize}
   \end{block}
 \end{frame}
 
@@ -40,11 +44,9 @@
 \begin{frame}
   \frametitle{Налоговая декларация}
   \begin{block}{Налоговая декларация}
-    Налоговая декларация - документ, содержащий данные о финансовой деятельности предприятия.
-
-
-Существуют различные налоговые формы ( активные доходы, пассивные доходы, налог на $CO^{2}$ и др.)
+    Документ, содержащий данные о финансовой деятельности предприятия.
   \end{block}
+  Существуют различные налоговые формы ( активные доходы, пассивные доходы, налог на $CO^{2}$ и др.)
   \begin{center}
     \includegraphics[width=0.9\textwidth,maxheigth=0.9\textheight]{pics/declaration}
   \end{center}
@@ -77,7 +79,6 @@
   \\
 \end{frame}
 
-
 \section{Проектирование}
 \subsection{Структура системы}
 \begin{frame}
@@ -94,114 +95,54 @@
     \item использование реляционной БД;
     \item возможность добавление новых деклараций и изменения существующих, необходимо предоставить простой способ для достижения этой цели;
     \itemредактирование декларации должно осуществляться интерактивно, без перезагрузки страницы;
-    \itemподдержка трех типов ячеек: a) формула b) интервальная c) пользовательская;
+    \itemна декларации может присутствовать три типа ячеек: a) формула b) интервальная c) пользовательская;
     \itemтребуется предоставить возможность задания произвольного значения для ячейки, которая считается по каким-либо правилам.
   \end{itemize}
 \end{frame}
 
 \begin{frame}
   \frametitle{Проектирование системы}
-  \begin{itemize}
-    \item Выделение объектов: диаграмма сущность связь
-    \item Выделение вариантов использования: диаграммы вариантов использования
-    \item Анализ вариантов использования: диаграммы последовательности
-    \item Детализация объектов: выделение новых объектов, алгоримты подсчёта ячеек, грамматика языка для описание формул, диаграмма активности
-    \item Представление структуры декларации на языке XML
-    \item Логическая модель базы данных
-  \end{itemize}
-\end{frame}
-
-\subsection{Типы ячеек}
-\begin{frame}
- \frametitle{Ячейка типа <<Счета>>}
-  \begin{columns}
-    \begin{column}{0.4\textwidth}
-      \begin{block}{Правило подсчета}
-        Параметрами данной ячейки являются <<Интервалы>>, содержащие параметры: a) начало интервала b) конец интервала c) знак (+, -) d) тип (дебет, кредит). Значение считается как сумма дебетов либо кредитов <<Счетов>> из бухгалтерской книги, попавших в интервалы, с определенным знаком.
-      \end{block}
-    \end{column}
-    \begin{column}{0.6\textwidth}
-      \begin{figure}
-        \includegraphics[width=0.65\textwidth]{pics/algo_accounts_calc}
-        \caption{Алгоритм подсчета ячейки типа <<Счета>>}
-      \end{figure}
-    \end{column}
-  \end{columns}
-\end{frame}
-\begin{frame}
-  \frametitle{Ячейка типа <<Формула>>}
-  \begin{columns}
-    \begin{column}{0.5\textwidth}
-      \begin{block}{Правило подсчета}
-        Значение данной ячейки вычисляется по формуле. Примеры формул:
-        \begin{itemize}
-          \item \{A1\}+\{A2\}*\{A3\}
-          \item ROUND(\{A1\})+\{A2\})
-          \item MAX(\{A1\},\{A2\},\{A3\}) + MIN(\{A7\},\{A8\})
-          \item SUM(A000,A999) + \{A2\}
-        \end{itemize}
-      \end{block}
-    \end{column}
-    \begin{column}{0.5\textwidth}
-      \begin{figure}
-        \includegraphics[width=0.65\textwidth]{pics/eval_algorithm}
-        \caption{Алгоритм вычисления значения выражения}
-      \end{figure}
-    \end{column}
-  \end{columns}
-\end{frame}
-\begin{frame}[fragile]
-  \begin{block}{Грамматика (расширенная форма Бэкуса-Наура)}
-    \begin{verbatim}
-      number = integer | double
-      simple_expr = number | str_const | variable
-                   | func_call | '(',expression,')'
-      unary_op = '-' | '!'
-      bin_op = '<' | '>' | '<=' | '>='
-             | '+' | "-" | '*' | '/' | '&'
-             | '&&' | '||' | '^'
-      expression = simple_expr | unary_op expression
-             | {bin_op, expression }
-      func_call = ident, '(',  ')' | ident, '(', params, ')'
-      params = expression | expression ',' params
-    \end{verbatim}
-  \end{block}
+  \begin{enumerate}
+    \item Выделение объектов: диаграмма \textbf{<<Сущность-связь>>}.
+    \item Выделение вариантов использования: диаграммы \textbf{вариантов использования}.
+    \item Анализ вариантов использования: \textbf{диаграммы последовательности}.
+    \item Детализация объектов: \textbf{выделение} новых \textbf{объектов}, \textbf{алгоримтов} подсчёта ячеек, \textbf{грамматика} языка для описание формул, \textbf{диаграмма активности}.
+    \item Представление \textbf{структуры декларации} на языке XML.
+    \item Логическая \textbf{модель данных}.
+  \end{enumerate}
 \end{frame}
 
 \section{Реализация}
-\subsection{Инструментальные средства разработки}
 \begin{frame}
-  \frametitle{Процесс реализации системы}
+  \frametitle{Реализация системы}
   \begin{enumerate}
     \item Выбор инструментальных средств разработки
-    \item Реализация классов-сущностей
-    \item Реализация подсистемы управления
-    \item Реализация подсистемы управления декларацией
-    \item Реализация подсистемы хранения
-    \item Реализация подсистемы отображения
-    \item Реализация подсистемы вычисления значения выражения
-    \item Тестирование системы
+    \item Реализация классов-сущностей.
+    \item Реализация подсистемы управления.
+    \item Реализация подсистемы управления декларацией.
+    \item Реализация подсистемы хранения.
+    \item Реализация подсистемы отображения декларации.
+    \item Реализация подсистемы вычисления значения выражения.
+    \item Тестирование системы.
   \end{enumerate}
 \end{frame}
 \begin{frame}
   \frametitle{Инструментальные средства}
   \begin{itemize}
     \item Язык программирования Java.
+    \item Интегрированная среда разработки Eclipse.
     \item Набор библиотек Spring (использовались модули Spring MVC, Spring IoC).
-    \item Библиотека Hibernate. Для реализации подсистемы хранения.
-    \item Среда разработки Eclipse.
-    \item Библиотека JUnit. Для тестирования.
-    \item Сервер приложений Apache Tomcat. Для развертывания приложения.
-    \item Технология Java Server Pages. Для реализации страниц.
-    \item Язык сценариев JavaScript. Для реализации динамических страниц.
-    \item Технология AJAX. Для работы с асинхронными запросами.
+    \item Библиотека Hibernate.
+    \item Библиотека JUnit.
+    \item Сервер приложений Apache Tomcat.
+    \item Технология Java Server Pages.
+    \item Язык сценариев JavaScript.
+    \item Технология AJAX.
     \item Средство сборки приложений Maven.
   \end{itemize}
 \end{frame}
-
-\subsection{Реализация компонентов системы}
 \begin{frame}
-  \frametitle{Подсистема управления}
+  \frametitle{Реализация подсистемы управления}
   \begin{columns}
     \begin{column}{0.6\textwidth}
       \begin{center}
@@ -213,7 +154,6 @@
       \end{center}
     \end{column}
     \begin{column}{0.5\textwidth}
-      Были реализованы следующие контроллеры:\\
       \begin{itemize}
         \item CompanyController
         \item TaxKitController
@@ -227,7 +167,7 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{Подсистема хранения}
+  \frametitle{Реализация подсистемы хранения}
   Объектно-реляционное отображение. Библиотека Hibernate.
   \begin{center}
     \includegraphics[width=0.9\textwidth]{pics/orm}
@@ -251,8 +191,10 @@
   \begin{center}
     \small {
       \rowcolors{1}{RoyalBlue!20}{RolalBlue!5}
-      \begin{tabular}{|m{4cm}|m{2cm}|m{2cm}|} \hline
-        Класс & Кол-во тестов & Успешные тесты \\ \hline
+      \begin{tabular}{|m{6cm}|m{2cm}|m{2cm}|} \hline
+        \textbf{Класс} &
+        \textbf{Кол-во тестов} &
+        \textbf{Успешные тесты} \\ \hline
         ReportFactoryImplTest & 1 & 100\% \\ \hline
         ReportManagerTest & 3 & 100\% \\ \hline
         ReportCrossInterpreterTest & 1 & 100\% \\ \hline
@@ -263,6 +205,10 @@
         AccountsInterpreterTest & 1 & 100\% \\ \hline
         ReflectionAssemblerTest & 1 & 100\% \\ \hline
         ExpressionParserTest & 2 & 100\% \\ \hline
+        CompanyControllerTest & 2 & 100\% \\ \hline
+        ReportStateControllerTest & 5 & 100\%  \\ \hline
+        ReportsServiceImplTest & 1 & 100\%  \\ \hline
+        TaxKitReportStateDAOImplTest & 1 & 100\%  \\ \hline
       \end{tabular}
     }
   \end{center}
@@ -280,6 +226,15 @@
     \item Выделение мер, обеспечивающих комфортные условия труда разработчикам систем документооборота
     \item Произведено технико-экономическое обснование эффективности внедрения программного продукта
   \end{itemize}
+\end{frame}
+\begin{frame}
+  \begin{center}
+    \begin{huge}
+      Спасибо за внимание.
+    \end{huge}
+
+    Вопросы, ответы.
+  \end{center}
 \end{frame}
 
 
