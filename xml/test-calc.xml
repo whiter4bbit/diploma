@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<report>
+    <name>test-calc</name>
+    <cells>
+        <cell>
+            <name>CELL1</name>
+            <valueType>LONG</valueType>
+            <cellState>
+                <types>
+                    <type.editable/>
+                </types>
+            </cellState>
+        </cell>
+        <cell>
+            <name>CELL2</name>
+            <valueType>LONG</valueType>
+            <cellState>
+                <types>
+                    <type.editable/>
+                </types>
+            </cellState>
+        </cell>
+        <cell>
+            <name>CELL3</name>
+            <valueType>LONG</valueType>
+            <cellState>
+                <types>
+                    <type.editable/>
+                    <type.formula 
+		      activeType="true">
+                        <formula>
+                        ${CELL1}+${CELL2}
+                        </formula>
+                    </type.formula>
+                </types>
+            </cellState>
+        </cell>
+    </cells>
+</report>

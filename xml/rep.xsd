@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+        <xs:element name="report" type="reportType" />
+
+        <xs:complexType name="reportType">
+                <xs:sequence>
+                        <xs:element name="name" type="xs:string" />
+                        <xs:element name="reportDescription"
+                                    type="reportDescriptionType" />
+                        <xs:element name="cells" type="cellsType" />
+                </xs:sequence>
+        </xs:complexType>
+
+        <!--
+                Описание декларации
+         -->
+        <xs:complexType name="reportDescriptionType">
+                <xs:sequence>
+                        <xs:element name="name"
+                                    type="xs:string" />
+                        <xs:element name="displayName"
+                                    type="xs:string" />
+                </xs:sequence>
+        </xs:complexType>
+
+        <xs:complexType name="cellsType">
+                <xs:sequence>
+                        <xs:element name="cell"
+                                    type="cellType" minOccurs="1"
+                                    maxOccurs="unbounded" />
+                </xs:sequence>
+        </xs:complexType>
+
+        <!--
+                Описание ячейки
+         -->
+        <xs:complexType name="cellType">
+                <xs:sequence>
+                        <xs:element name="name"
+                                    type="xs:string" />
+                        <xs:element name="valueType"
+                                    type="dataTypes" />
+                        <xs:element name="cellState"
+                                    type="cellStateType" />
+                </xs:sequence>
+        </xs:complexType>
+
+        <!--
+                Описание состояния
+         -->
+        <xs:complexType name="cellStateType">
+                <xs:sequence>
+                        <xs:element name="types"
+                                    type="typesType" />
+                </xs:sequence>
+        </xs:complexType>
+
+        <xs:complexType name="typesType">
+                <xs:sequence>
+                        <xs:element name="type.formula"
+                                    type="formulaType"
+                                    minOccurs="0" maxOccurs="1" />
+                        <xs:element name="type.editable"
+                                    type="editableType"
+                                    minOccurs="0" maxOccurs="1" />
+                        <xs:element name="type.accounts"
+                                    type="accountsType"
+                                    minOccurs="0" maxOccurs="1" />
+                </xs:sequence>
+        </xs:complexType>
+
+        <!--
+                Описание типа ячейки
+                "Формульная"
+         -->
+        <xs:complexType name="formulaType">
+                <xs:sequence>
+                        <xs:element name="formula"
+                                    type="xs:string" />
+                </xs:sequence>
+                <xs:attribute name="activeType"
+                              type="xs:boolean"
+                              use="optional" />
+        </xs:complexType>
+
+        <!--
+                Описание типа ячейки
+                "Пользовательская"
+         -->
+        <xs:complexType name="editableType">
+                <xs:attribute name="activeType"
+                              type="xs:boolean"
+                              use="optional" />
+        </xs:complexType>
+
+        <!--
+                Описание ячейки типа "Счета"
+         -->
+        <xs:complexType name="accountsType">
+                <xs:sequence>
+                        <xs:element name="accounts"
+                                    type="accounsOptionsType" />
+                </xs:sequence>
+                <xs:attribute name="activeType"
+                              type="xs:boolean"
+                              use="optional" />
+        </xs:complexType>
+
+
+        <xs:complexType name="accounsOptionsType">
+                <xs:sequence>
+                        <xs:element name="account"
+                                    type="accountType"
+                                    minOccurs="1"
+                                    maxOccurs="unbounded" />
+                </xs:sequence>
+        </xs:complexType>
+
+        <!--
+                Описание "Интервала"
+         -->
+        <xs:complexType name="accountType">
+                <xs:attribute name="accFrom"
+                              type="xs:string"
+                              use="required" />
+                <xs:attribute name="accTo"
+                              type="xs:string"
+                              use="required" />
+                <xs:attribute name="sign"
+                              type="signType"
+                              use="required" />
+                <xs:attribute name="type"
+                              type="intervalType"
+                              use="required" />
+        </xs:complexType>
+
+        <!--
+                Типы знаков:
+                плюс('+')
+                минус('-')
+         -->
+        <xs:simpleType name="signType">
+                <xs:restriction base="xs:string">
+                        <xs:enumeration value="+" />
+                        <xs:enumeration value="-" />
+                </xs:restriction>
+        </xs:simpleType>
+
+        <!--
+                Типы интервалов
+
+                debit - дебет
+                credit - кредит
+         -->
+        <xs:simpleType name="intervalType">
+                <xs:restriction base="xs:string">
+                        <xs:enumeration value="debit" />
+                        <xs:enumeration value="credit" />
+                </xs:restriction>
+        </xs:simpleType>
+
+        <!--
+                Поддерживаемые типы данных
+
+                LONG - Целый
+                STRING - Строковый
+                DOUBLE - Вещественный
+         -->
+        <xs:simpleType name="dataTypes">
+                <xs:restriction base="xs:string">
+                        <xs:enumeration value="LONG"/>
+                        <xs:enumeration value="STRING"/>
+                        <xs:enumeration value="DOUBLE"/>
+                </xs:restriction>
+        </xs:simpleType>
+
+</xs:schema>
