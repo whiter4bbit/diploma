@@ -1,0 +1,637 @@
+\documentclass[14pt,a4paper]{reportmod}
+\usepackage[russian]{babel}
+\usepackage{indentfirst}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{tabularx}
+\usepackage{amsmath}
+\usepackage{whiter4bbit}
+\usepackage{multirow}
+\usepackage{listings}
+\usepackage{lastpage}
+\usepackage{numberfigure}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{verbatim}
+
+\lstset{extendedchars=\true}
+\frenchspacing
+
+\renewcommand{\tabularxcolumn}[1]{m{#1}}
+
+\begin{document}
+
+\chapter*{Система учёта и управления электронными налоговыми декларациями.Руководство программиста}
+\setcounter{chapter}{1}
+
+\section{Структура директорий}
+В качестве системы сборки используется Maven. Конфигурация сборки представлена в файле pom.xml каждого модуля.
+
+Представим структуру директорий в которой содержится исходный код разработанной системы:
+\verbatiminput{dir_struct}
+
+Система состоит из трех модулей:
+\begin{enumerate}
+  \item autotax-engine - модуль, содержащий реализацию подсистемы управления декларацией, подсистемы отображения декларации;
+  \item autotax-web - модуль, содержащий реализацию подсистемы управления, подсистемы хранения;
+  \item expression-util - модуль, содержащий реализацию подсистемы вычисления выражений.
+\end{enumerate}
+
+\section{Описание Java классов}
+
+\subsection{Загрузка декларации}
+Для загрузки декларации из XML документа используется класс XMLReportLoader:
+\begin{small}
+\begin{verbatim}
+/**
+ * Конструктор
+ *
+ * @param registry реест деклараций
+ * @param cellLoader загрузчик ячейки
+ */
+ public XMLReportLoader(XMLReportRegistry registry,
+             XMLCellLoader cellLoader)
+
+/**
+ * реализация метода для загрузки структуры из
+ * XML документа
+ */
+public Report loadReport(String name)
+              throws ReportLoaderException
+\end{verbatim}
+\end{small}
+
+XMLReportRegistry используется для получения местоположения (java.net.URL) XML документа, содержащего структуру декларации, XMLReportClassPathRegistry:
+
+\begin{small}
+\begin{verbatim}
+/**
+ * получить местоположение xml документа по имени
+ */
+public URL get(String reportName)
+               throws RegistryException
+\end{verbatim}
+\end{small}
+
+Класс XMLCellLoader позволяет создавать ячейки из представления в виде XML элементов:
+\begin{small}
+\begin{verbatim}
+/**
+ * конструктор
+ *
+ * @param registry реестр деклараций
+ * @param typesRegistry реестр типов ячеек
+ */
+public XMLCellLoader(XMLReportRegistry registry,
+                     CellsTypesRegistry typesRegistry)
+
+/**
+ * загружает все ячейки, которые содержатся в XML элементе
+ *
+ * @param cellsElement XML элемент, содержащий ячейки
+ * @return множество ячеек
+ * @throws CellLoaderException
+ */
+public Set<Cell> loadCells(Element cellsElement)
+      throws CellLoaderException
+
+/**
+ * создание ячейки из XML элемента
+ *
+ * @param element XML элемент
+ * @return ячейка
+ * @throws CellLoaderException
+ */
+public Cell loadCell(Element element)
+      throws CellLoaderException
+
+/**
+ * загрузка ячеек из XML документа
+ */
+public Set<Cell> loadCells(String reportName)
+         throws CellLoaderException
+\end{verbatim}
+\end{small}
+
+Класс CellsTypesRegistry инкапсулирует соответствие классов, представляющих тип ячейки, названием XML элементов, например (``type.formula'', ``type.editable'', ``type.accounts'')
+\begin{small}
+\begin{verbatim}
+/**
+ * ключ - название типа ячейки
+ * значение - тип ячейки (класс-наследник CellType)
+ *
+ * @see CellType
+ */
+ private Map<String, Class<? extends CellType>> typesClasses;
+
+/**
+ * Конструктор
+ * @param typesClasses карта, содержащая типы ячеек
+ * @see #typesClasses
+ */
+public CellsTypesRegistry(Map<String,
+              Class<? extends CellType>> typesClasses)
+
+/**
+ * Конструктор
+ */
+public CellsTypesRegistry()
+
+/**
+ * добавить новый тип
+ *
+ * @param type название типа
+ * @param clazz тип
+ */
+public void registerType(String type,
+              Class<? extends CellType> clazz)
+
+/**
+ * получить типы
+ *
+ * @return карта, ключ - название типа, значение - тип
+ */
+public Map<String,
+           Class<? extends CellType>> getTypesClasses()
+
+/**
+ * возвращает тип ячейки по имени
+ */
+public Class<? extends CellType>
+              get(String type) throws RegistryException
+\end{verbatim}
+\end{small}
+
+Пример использования классов для загрузки декларации (исходный код модульного теста):
+\begin{small}
+\begin{verbatim}
+public void testLoadReport() throws Exception {
+   XMLReportRegistry registry =
+          new XMLClassPathReportRegistry();
+
+   CellsTypesRegistry cellsTypesRegistry =
+          new CellsTypesRegistry();
+   cellsTypesRegistry.
+          registerType("formula",
+                      CellTypeFormula.class);
+   cellsTypesRegistry.
+          registerType("accounts",
+                      CellTypeAccounts.class);
+   cellsTypesRegistry.
+         registerType("editable",
+                      CellTypeEditable.class);
+   cellsTypesRegistry.
+         registerType("constant",
+                     CellTypeConstant.class);
+
+   ReportLoader loader =
+         new XMLReportLoader(registry,
+             new XMLCellLoader(registry,
+                           cellsTypesRegistry));
+   Report report = loader.loadReport("states");
+
+   assertNotNull(report);
+   assertNotNull(report.getCells());
+   assertEquals(report.getCells().size(), 5);
+}
+\end{verbatim}
+\end{small}
+
+\subsection{Управление декларацией}
+Для управления декларацией с момента её создания используется класс ReportManager, опишем методы и поля данного класса:
+
+\begin{small}
+\begin{verbatim}
+/**
+ * декларация
+ */
+private Report report;
+
+/**
+ * интерпретатор декларации
+ */
+private ReportInterpreter reportInterpreter;
+
+/**
+ * преобразователь строковых значений в соответствующее
+ * @see CellValue
+ */
+private ValueConverter valueConverter =
+    new ValueConverterImpl();
+
+/**
+ * конструктор
+ *
+ * @param report декларация
+ */
+public ReportManager(Report report)
+
+/**
+ * конструктор
+ * @param report декларация
+ * @param contextFactory фабрика для создания контекста
+ */
+public ReportManager(Report report,
+    CrossReportContextFactory contextFactory)
+
+/**
+ * подсчитать декларацию
+ *
+ * @return подсчитанная декларация
+ */
+public Report calculateReport()
+
+/**
+ * функция возвращает ячейку по имени
+ */
+private F<String, Cell> cellForName
+
+/**
+ * пересчитать ячейку с новым состоянием
+ *
+ * @param cellStateDTO состояние
+ * @return пересчитанные ячейки (зависимые)
+ */
+public List<Cell>
+       recalculateCell(CellStateDTO cellStateDTO)
+
+/**
+ * пересчитать ячейку
+ *
+ * @param name название ячейки
+ * @return пересчитанные ячейки (зависимые)
+ */
+public List<Cell> recalculateCell(String name)
+
+/**
+ * пересчитать ячейку с новым значением
+ *
+ * @param name название ячейки
+ * @param cellValue новое значение
+ * @return пересчитанные ячейки (зависимости)
+ */
+public List<Cell> recalculateCell(String name,
+                             CellValue cellValue)
+
+/**
+ * изменить тип ячейки
+ *
+ * @param cellState состояние
+ */
+public void changeCellType(CellStateDTO cellState)
+
+/**
+ * изменить тип ячейки
+ * @param cell ячейка
+ * @param activeType название нового типа
+ * @return ячейка
+ */
+public Cell changeCellType(Cell cell,
+                String activeType)
+
+/**
+ * изменить тип ячейки
+ * @param cellName название ячейки
+ * @param activeType название нового типа
+ * @return ячейка
+ */
+public Cell changeCellType(String cellName,
+                 String activeType)
+
+/**
+ * получить значение из строкового представления
+ * @see #valueConverter
+ *
+ * @param cellStateDTO состояние ячейки
+ * @return значение
+ */
+public CellValue createValue(CellStateDTO cellStateDTO)
+
+/**
+ * получить декларацию
+ *
+ * @return декларация
+ */
+public Report getReport()
+
+\end{verbatim}
+\end{small}
+
+Опишем интерфейс CellInterpeter, используемый для подсчета ячеек:
+\begin{small}
+\begin{verbatim}
+/**
+ * CellVisitor
+ * Date: 10.03.2010
+ *
+ * Интерпретатор ячейки
+ */
+public interface CellInterpreter<A extends CellType> {
+/**
+ * посчитать значение ячейки
+ *
+ * @param cellType тип ячейки
+ * @param context контекст
+ * @return значение ячейки
+ */
+LazyValue<CellValue> calculate(A cellType, Context context);
+}
+\end{verbatim}
+\end{small}
+
+Метод ``calculate'' возвращает экземпляр класса LazyValue, который содержит реализацию интерфейса F0 для подсчета соответсвующей ячейки. Класс LazyValue используется для реализации отложенных вычислений. Значение (в данном случае - экземпляр класса CellValue) высчитывается по требованию, в процессе подсчета декларации - после того, как получены экземпляры классов LazyValue для всех ячеек. Для получения значение, требуется вызвать метод load.
+\begin{small}
+\begin{verbatim}
+public abstract class LazyValue<A> {
+/**
+ * функция, которая реализует возвращает
+ * значение, представленное экземпляром класса
+ * A
+ *
+ * @return функция
+ */
+public abstract F0<A> value();
+
+/**
+ * результат выполнения функции
+private A b = null;
+
+ /**
+  * возвращает значение, которое
+  * посчитано функцией
+  *
+  * @return значение
+  */
+public A load(){
+   if(b==null){
+        b = value().f();
+    }
+    return b;
+}
+}
+\end{verbatim}
+\end{small}
+
+Опишем интерфейс F0:
+\begin{small}
+\begin{verbatim}
+public interface F0<A> {
+/**
+ * @return значение
+ */
+ A f();
+}
+\end{verbatim}
+\end{small}
+
+\subsection{Классы подсистемы хранения}
+Подсистема хранения была реализована с использованием библиотеки Hibernate, которая предоставляет средства объектно-ориентированного отображения. Для хранения объекта в базе данных требуется определить аннотацию ``@Entity''для класса-сущности. Для определения первичного ключа требуется определить аннотацию ``@Id'' для поля, которое является первичным ключом.
+
+
+Пример декларации аннотаций в классе-сущности Company:
+\begin{small}
+\begin{verbatim}
+@Entity
+@Proxy(lazy=false)
+public class Company {
+@Id
+@GeneratedValue(strategy=GenerationType.SEQUENCE)
+private Long id;
+
+private String name;
+
+private String code;
+
+public Long getId() {
+   return id;
+}
+
+public void setId(Long id) {
+   this.id = id;
+}
+
+public String getName() {
+   return name;
+}
+
+public void setName(String name) {
+   this.name = name;
+}
+
+public String getCode() {
+   return code;
+}
+
+public void setCode(String code) {
+   this.code = code;
+}
+}
+
+\end{verbatim}
+\end{small}
+
+Подсистема хранения предоставляет объекты доступа к данным, которые предоставляют методы, необходимые для загрузки, сохранения, обновления таблиц, соответствующих классам-сущностям. Приведем абстрактных класс, от которого наследуются все классы, предоставляющие методы доступа к данным:
+\begin{small}
+\begin{verbatim}
+public abstract class GenericHibernateDAO<Entity> {
+
+/**
+ * фабрика для сессии бибилиотеки
+ * Hibernate
+ */
+private SessionFactory sessionFactory;
+
+public SessionFactory getSessionFactory() {
+   return sessionFactory;
+}
+
+public void setSessionFactory(SessionFactory sessionFactory) {
+   this.sessionFactory = sessionFactory;
+}
+
+public Session session(){
+    return sessionFactory.getCurrentSession();
+  }
+}
+\end{verbatim}
+\end{small}
+
+Представим интерфейс объекта доступа к данным ( Entity - класс, от которого наследуются все классы-сущности).
+\begin{small}
+\begin{verbatim}
+public interface DAO<Entity> {
+
+/**
+ * загрузка объекта
+ * @param id идентефикатор объекта
+ * @return экземпляр класса Entity
+ **/
+Entity load(Long id);
+
+/**
+ * сохранения объекта
+ * в базе данных
+ * @param entity экземпляр объекта
+ **/
+void insert(Entity entity);
+
+/**
+ * обновление объекта
+ * в базе данных
+ * @param entity экземпляр класса Entity
+ **/
+void update(Entity entity);
+
+/**
+ * удаление объекта из базы данных
+ * @param id идентификатор объекта
+ **/
+void remove(Long id);
+
+/**
+ * получить список всех объектов
+ * хранящихся в базе данных
+ **/
+List<Entity> list();
+}
+\end{verbatim}
+\end{small}
+
+Реализация интерфейса для работы с классом ReportState:
+\begin{small}
+\begin{verbatim}
+public class TaxKitReportStateDAOImpl
+    extends GenericHibernateDAO<TaxKitReportState>
+   implements TaxKitReportStateDAO{
+/**
+ * найти состояние декларации, по названию и уникальному
+ * идентификатору налоговых форм
+ * @param name название декларации
+ * @param taxKitId идентификатор налоговых форм
+ **/
+@Override
+@SuppressWarnings("unchecked")
+public TaxKitReportState findByNameAndTaxKit(String name, Long taxKitId) {
+ List<TaxKitReportState> states =
+  session().createCriteria(TaxKitReportState.class).
+      add(Restrictions.eq("taxKit.id", taxKitId)).
+       add(Restrictions.eq("name", name)).list();
+  TaxKitReportState reportState = null;
+  if(states.size()>0){
+     reportState = states.get(0);
+  }
+  return reportState;
+}
+
+/**
+ * добавить запись в таблицу базы данных
+ * соответствующую объекту TaxKitReportState
+ * @param tkReportState состояние декларации
+ **/
+@Override
+public void insert(TaxKitReportState tkReportState) {
+   session().save(tkReportState);
+}
+
+/**
+ * обновить запись в таблице
+ * @param tkReportState состояние декларации
+ **/
+@Override
+public void store(TaxKitReportState tkReportState) {
+   session().update(tkReportState);
+}
+}
+\end{verbatim}
+\end{small}
+
+\subsection{Классы подсистемы управления}
+Подсистема управления содержит классы, представляющие собой контроллеры Spring MVC. Контроллеры содержат методы, обрабатывающие запросы.
+
+Приведем исходный код контроллера, обрабатывающего запросы на отображение декларации:
+\begin{small}
+\begin{verbatim}
+@Controller
+@RequestMapping("/taxkits/{taxKitId}/reports")
+@SessionAttributes({"reportManager", "taxKit"})
+public class ReportController {
+
+@Autowired
+private Assembler<Report, ReportDTO> reportAssembler;
+
+@Autowired
+private ReportsService reportsService;
+
+@Autowired
+private TaxKitService taxKitService;
+
+private void storeSelectedTaxKit(Model model){
+  TaxKit taxKit = taxKitService.getSelected();
+  if(taxKit!=null){
+     model.addAttribute("taxKit", taxKit.getId());
+     model.addAttribute("selected", true);
+   } else {
+     model.addAttribute("selected", false);
+   }
+}
+
+/**
+ * метод обрабатывающий запрос
+ * на получение списка доступных деклараций
+ * осуществляется переход на jsp страницу, которая определена
+ * под именем "report.index"
+ * @param model экземпляр модели, используемый для
+ * передачи параметров на jsp страницу
+ **/
+@RequestMapping("/")
+public String report(Model model){
+   storeSelectedTaxKit(model);
+   model.addAttribute("reports", reportsService.availableReports());
+   return "report.index";
+}
+
+/**
+ * метод обрабатывающий запрос на отображение
+ * декларации
+ * @param reportName название декларации, которую требуется
+ * отобразить
+ * @param taxKitId идентификатор налоговых форм, для которых
+ * отображается декларация
+ * @param model экземпляр модели, который используется для
+ * передачи параметров на jsp страницу
+ **/
+@RequestMapping("/{name}/show")
+public String show(@PathVariable("name") String reportName,
+                   @PathVariable("taxKitId") Long taxKitId,
+                   Model model){
+  storeSelectedTaxKit(model);
+
+  Report report = reportsService.loadReport(reportName, taxKitId);
+  model.addAttribute("report", reportAssembler.assemble(report));
+  model.addAttribute("reports", reportsService.availableReports());
+  return "report.show";
+}
+}
+\end{verbatim}
+\end{small}
+
+В рамках данной подсистемы реализованы следующие контроллеры:
+\begin{itemize}
+  \item CompanyController
+  \item LedgerController
+  \item ReportController
+  \item ReportStateController
+  \item TaxKitController
+  \item TaxKitCreateController
+  \item TaxKitEditController
+\end{itemize}
+
+
+\section{Описание XML документа}
+
+Приведем описание XML документа, который содержит структуру декларации. Опишем правило составления XML документа на языке XML Schema:
+
+\verbatiminput{xml/rep.xsd}
+
+\end{document}
