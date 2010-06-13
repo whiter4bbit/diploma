@@ -1,12 +1,15 @@
-DIA_SRC=$(notdir $(wildcard uml/*.dia))
-IMAGES=$(DIA_SRC:.dia=.eps)
 PDFLATEX=pdflatex
 LATEXOPTS=-halt-on-error
-DOC_NAME=whiter4bbit-sem10
-TEX_SOURCE=$(DOC_NAME).tex
+TEX_SOURCE=$(wildcard *.tex)
 PDF_OBJECTS=$(TEX_SOURCE:.tex=.pdf)
 
-all: clean pics pdfs
+all: clean diagrams pdfs presentpdf
+
+presentpdf:
+	make -C presentation/ pdf
+
+diagrams:
+	make -C uml/ pics
 
 pdfs: $(PDF_OBJECTS)
 
@@ -14,17 +17,12 @@ pdfs: $(PDF_OBJECTS)
 	$(PDFLATEX) $(LATEXOPTS) $<	
 
 update_pdf:
-	$(PDFLATEX) $(LATEXOPTS) $(TEX_SOURCE)	
+	$(PDFLATEX) $(LATEXOPTS) whiter4bbit-sem10.tex
 	
 show:
 	okular $(DOC_NAME).pdf	
 
-pics: $(IMAGES)
-
-%.eps: uml/%.dia
-	dia $< -e uml/$@ -t eps-pango
-	epstopdf uml/$@
-
 clean:
 	rm -f *.pdf *.aux *.log *.tok
-	
+	make -C presentation/ clean	
+	make -C uml/ clean
