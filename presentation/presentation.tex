@@ -24,20 +24,18 @@
 
 \frame{\titlepage}
 
-\section[Outline]{}
-\frame{\tableofcontents}
-
 \section{Введение}
-\subsection{Актуальность}
 \begin{frame}
-  \frametitle{Актуальность}
-  \begin{block}{Предпосылки}
-    \begin{itemize}
-    \itemЗаполнение финансовых документов весьма трудоемкий процесс, включающий в себя операции с большим объемом данных. Данные представляют собой различные аспекты деятельности предприятия, которые так же необходимо учитывать.
-    \itemПравила заполнения финансовых документов меняются как минимум раз в финансовый год.
-    \itemНа больших предприятиях существует потребность в заполнении большого количества документов, что влечет за собой большие финансовые затраты.
-    \end{itemize}
-  \end{block}
+  \frametitle{Система учёта и управления электронными налоговыми декларациями}
+  Задачи, решаемые системой:
+  \begin{itemize}
+    \item \begin{Large}\textcolor{ForestGreen}{Автоматизация заполнения налоговых деклараций.}\end{Large}
+    \item Предоставление возможности аудита заполненных деклараций.
+    \item Предоставление возможности отправки деклараций в налоговые службы.
+  \end{itemize}
+
+  \vspace{3cm}
+  \textbf{Существующие решения:} 1C Бухгалтерия, Парус, Галлактика ERP, Microsoft Dynamic NAV.
 \end{frame}
 
 \subsection{Налоговая декларация}
@@ -46,57 +44,44 @@
   \begin{block}{Налоговая декларация}
     Документ, содержащий данные о финансовой деятельности предприятия.
   \end{block}
-  Существуют различные налоговые формы ( активные доходы, пассивные доходы, налог на $CO^{2}$ и др.)
-  \begin{center}
-    \includegraphics[width=0.9\textwidth,maxheigth=0.9\textheight]{pics/declaration}
-  \end{center}
-\end{frame}
+%  Существуют различные налоговые формы ( активные доходы, пассивные доходы, налог на $CO^{2}$ и др. )
 
-\begin{frame}
-  \frametitle{Существующие решения}
-  Были рассмотрены следующие коммерческие решения:
-  \begin{center}
-    \small {
-      \rowcolors{1}{RoyalBlue!20}{RolalBlue!5}
-      \begin{tabular}{|p{2cm}|p{2cm}|p{1.5cm}|p{1.6cm}|p{2.3cm}|}\hline
-        \bfseries{Название системы} &
-        \bfseries{Тип} &
-        \bfseries{ОС} &
-        \bfseries{Структура} &
-        \bfseries{База Данных}\\
-        \hline
-        1C Бухгалтерия & Система бухгалтерского учета & Windows, GNU Linux & Standalone, Web & 1CD, Microsoft SQL Server, DBF\\
-        \hline
-        Галактика ERP & СПРП\footnote[1]{Система планирования ресурсов предприятия\label{erp}} & Windows  & Standalone  & PervasiveSQL, Microsoft SQL Server, Oracle\\
-        \hline
-        Парус & СПРП$^{1}$ & Windows & Standalone, Web & Oracle\\
-        \hline
-        Microsoft Dynamic NAV & СПРП$^{1}$ & Windows & Standalone, Web & Microsoft SQL Server\\
-        \hline
-      \end{tabular}
-    }
-  \end{center}
-  \\
+  \begin{figure}
+    \begin{center}
+      \includegraphics[width=0.9\textwidth,maxheigth=0.9\textheight]{pics/declaration}
+    \end{center}
+  \end{figure}
 \end{frame}
 
 \section{Проектирование}
 \subsection{Структура системы}
 \begin{frame}
   \frametitle{Структура системы}
-  \begin{center}
-    \includegraphics[width=0.7\textwidth,maxheight=0.8\textheight]{pics/system_struct}
-  \end{center}
+  \begin{figure}
+    \begin{center}
+      \includegraphics[width=0.7\textwidth,maxheight=0.8\textheight]{diagrams/system_struct}
+    \end{center}
+  \end{figure}
 \end{frame}
-\subsection{Требования}
+%\subsection{Требования}
+%\begin{frame}
+%  \frametitle{Требования, предъявленные к системе}
+%  \begin{itemize}
+%    \item предоставление Web интерфейса;
+%    \item редактирование декларации должно осуществляться интерактивно, без перезагрузки страницы;
+%    \item использование реляционной БД;
+%    \item возможность добавление новых деклараций и изменения существующих, необходимо предоставить простой способ для достижения этой цели;
+%    \item на декларации может присутствовать три типа ячеек: a) формула b) интервальная c) пользовательская;
+%    \item возможность задания произвольного значения для ячейки, которая считается по каким-либо правилам.
+%  \end{itemize}
+%\end{frame}
 \begin{frame}
-  \frametitle{Требования, предъявленные к системе}
+  \frametitle{Типы ячеек}
+  На декларации могут присутствовать ячейки следующих типов:
   \begin{itemize}
-    \item Web интерфейс;
-    \item использование реляционной БД;
-    \item возможность добавление новых деклараций и изменения существующих, необходимо предоставить простой способ для достижения этой цели;
-    \itemредактирование декларации должно осуществляться интерактивно, без перезагрузки страницы;
-    \itemна декларации может присутствовать три типа ячеек: a) формула b) интервальная c) пользовательская;
-    \itemвозможность задания произвольного значения для ячейки, которая считается по каким-либо правилам.
+    \item \textbf{Интервальная.} Значение для данной ячейки считается как сумма значений кредита либо дебета соответствующих <<счетов>> из <<Бухгалтерской Книги>>, находящихся в заданных интервалах.
+    \item \textbf{Формула.} Значение для данной ячейки считается по формуле, в которой могут участвовать переменные, соответствующие другим ячейкам декларации. Примеры: \$\{A1\}+\$\{A3\}*ROUND(\$\{A4\}), SUM(A001:A999), \$\{D.C3\}-\$\{A3\}.
+    \item \textbf{Пользовательская.} Значение для данной ячейки задает пользователь.
   \end{itemize}
 \end{frame}
 
@@ -104,104 +89,84 @@
 \begin{frame}
   \frametitle{Реализация системы}
   \begin{enumerate}
-    \item Выбор инструментальных средств разработки
+    \item Выбор средств разработки ( язык Java )
     \item Реализация классов-сущностей.
-    \item Реализация подсистемы управления.
+    \item Реализация подсистемы управления (Spring MVC, Spring IoC)
     \item Реализация подсистемы управления декларацией.
     \item Создание схемы базы данных.
-    \item Реализация подсистемы хранения.
-    \item Реализация подсистемы отображения декларации.
+    \item Реализация подсистемы хранения. (Hibernate)
+    \item Реализация подсистемы отображения декларации. (JSP, JavaScript, AJAX)
     \item Реализация подсистемы вычисления значения выражения.
-    \item Тестирование системы.
+    \item Тестирование системы. (JUnit)
   \end{enumerate}
 \end{frame}
-\begin{frame}
-  \frametitle{Инструментальные средства}
-  \begin{itemize}
-    \item Язык программирования Java.
-    \item Интегрированная среда разработки Eclipse.
-    \item Набор библиотек Spring (использовались модули Spring MVC, Spring IoC).
-    \item Библиотека Hibernate.
-    \item Библиотека JUnit.
-    \item Сервер приложений Apache Tomcat.
-    \item Технология Java Server Pages.
-    \item Язык сценариев JavaScript.
-    \item Технология AJAX.
-    \item Средство сборки приложений Maven.
-  \end{itemize}
-\end{frame}
-\begin{frame}
-  \frametitle{Реализация подсистемы управления}
-  \begin{columns}
-    \begin{column}{0.6\textwidth}
-      \begin{center}
-        \begin{figure}
-          \includegraphics[scale=0.23]{pics/springmvc}
-          \caption{Обработка запроса Spring MVC}
-          \label{pic:springmvc}
-        \end{figure}
-      \end{center}
-    \end{column}
-    \begin{column}{0.5\textwidth}
-      Контроллеры:
-      \begin{itemize}
-        \item CompanyController
-        \item TaxKitController
-        \item TaxKitEditController
-        \item LedgerController
-        \item ReportStateController
-        \item ReportController
-      \end{itemize}
-      JSP Страницы:
-      \begin{itemize}
-        \item company/show.jsp
-        \item taxkit/list.jsp
-        \item report/report.jsp
-        \item ...
-      \end{itemize}
-    \end{column}
-  \end{columns}
-\end{frame}
+%\begin{frame}
+%  \frametitle{Реализация подсистемы управления}
+%  \begin{columns}
+%    \begin{column}{0.6\textwidth}
+%      \begin{center}
+%        \begin{figure}
+%          \includegraphics[scale=0.23]{diagrams/springmvc}
+%          \caption{Обработка запроса Spring MVC}
+%          \label{pic:springmvc}
+%        \end{figure}
+%      \end{center}
+%    \end{column}
+%    \begin{column}{0.5\textwidth}
+%      Реализованные контроллеры:
+%      \begin{itemize}
+%        \item CompanyController
+%        \item TaxKitController
+%        \item TaxKitEditController
+%        \item LedgerController
+%        \item ReportStateController
+%        \item ReportController
+%      \end{itemize}
+%      JSP Страницы:
+%      \begin{itemize}
+%        \item company/show.jsp
+%        \item taxkit/list.jsp
+%        \item report/report.jsp
+%        \item ...
+%      \end{itemize}
+%    \end{column}
+%  \end{columns}
+%\end{frame}
 
 \begin{frame}
   \frametitle{Реализация подсистемы хранения}
   \begin{block}{Объектно-реляционное отображение}
-    Классы-сущности системы были отображены на соответствующую таблицу в базе данных, так же отображены связи между объектами. Типы данных Java отображены на типы данных SQL. Для реализации отображения использовалась библиотека Hibernate.
+    Классы-сущности были отображены на соответствующие таблицы в базе данных, отображены связи между объектами. Типы данных Java отображены на типы данных SQL. Для реализации подсистемы хранения использовалась библиотека Hibernate.
   \end{block}
+
   \begin{figure}
     \includegraphics[width=0.6\textwidth]{../uml/ormsample}
     \caption{Отображение объектов и связей между ними на таблицы в базе данных}
   \end{figure}
 \end{frame}
 
-\begin{frame}[fragile]
-  \frametitle{Реализация подсистемы вычисления выражений}
-  \begin{itemize}
-    \item Выделение лексем (ExpressionLexer)
-    \item Создание АСД (ExpressionParser). Метод метод нисходящего рекурсивного парсера.
-    \item Обход АСД и вычисление значения выражений (StandardEvaluationVisitor). Шаблон проектирования ``Посетитель''.
-  \end{itemize}
+%\begin{frame}[fragile]
+%  \frametitle{Реализация подсистемы вычисления выражений}
+%  \begin{itemize}
+%    \item Лексический Анализ (лексемы).
+%    \item Синтаксический Анализ (АСД)
+%    \item Интерпретация (значение выражения).
+%  \end{itemize}
 
-  \begin{exampleblock}{Грамматика}
-    \begin{verbatim}
-      number = integer | double
-      simple_expr = number | str_const | variable
-      | func_call | '(',expression,')'
-      unary_op = '-' | '!'
-      bin_op = '<' | '>' | '<=' | '>=' | '+' | "-" | '*' |
-      '/' | '&' | '&&' | '||' | '^'
-      expression = simple_expr | unary_op expression
-      | {bin_op, expression }
-      func_call = ident, '(',  ')' | ident, '(', params, ')'
-      params = expression | expression ',' params
-    \end{verbatim}
-  \end{exampleblock}
-\end{frame}
+%  Подсистема вычисления выражений:
+%  \begin{itemize}
+%    \item Стандартные функции: abs, round, if, min, max
+%    \item Возможность определения собственных функций
+%    \item Поддерживаемые типы данных: string, double, long
+%    \item Возможность подключения слушателей событий (загрузка переменных)
+%  \end{itemize}
+
+%\end{frame}
 
 \begin{frame}
   \frametitle{Интерфейс пользователя. Редактирование декларации.}
   \begin{center}
-    \includegraphics[width=0.9\textwidth]{pics/src_reportnice}
+    \includegraphics[width=0.9\textwidth]{pics/report_rules}
   \end{center}
 \end{frame}
 
@@ -214,11 +179,11 @@
   Результат выполнения:
   \begin{center}
     \small {
-      \rowcolors{1}{RoyalBlue!20}{RolalBlue!5}
-      \begin{tabular}{|m{6cm}|m{2cm}|m{2cm}|} \hline
+      \rowcolors{1}{RoyalBlue!20}{RoyalBlue!5}
+      \begin{tabular}{|m{5cm}|m{3cm}|m{2cm}|} \hline
         \textbf{Класс} &
         \textbf{Кол-во тестов} &
-        \textbf{Успешные тесты} \\ \hline
+        \textbf{Результат} \\ \hline
         ReportFactoryImplTest & 1 & 100\% \\ \hline
         ReportManagerTest & 3 & 100\% \\ \hline
         ReportCrossInterpreterTest & 1 & 100\% \\ \hline
@@ -250,17 +215,6 @@
     \item Выделение мер, обеспечивающих комфортные условия труда разработчикам систем документооборота
     \item Произведено технико-экономическое обоснование эффективности внедрения программного продукта
   \end{itemize}
-\end{frame}
-
-\begin{frame}
-  \frametitle{Источники}
-  \begin{itemize}
-    \itemЭккель, Б. Философия Java / Б. Эккель. -- 4-е издание. --- СПб. : Питер, 2009. -- 640 с.
-    \itemФаулер, М. Шаблоны корпоративных приложений / М. Фаулер. --- СПб. : Вильямс, 2009 -- 544 с.
-    \itemПриемы ОО-проектирования / Э. Гамма [и др.]. -- СПб. : Питер, 2006. -- 366 с.
-    \itemД. Крейн. AJAX в действии: технология - Asynchronous JavaScript and XML / Д. Крейн, Э. Паскарелло. -- СПб. : Вильямс, 2006. --- 640 с.
-  \end{itemize}
-
 \end{frame}
 
 \begin{frame}

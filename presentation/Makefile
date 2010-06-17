@@ -9,12 +9,15 @@ pdf: illustrations pdf_pres
 
 pdf_pres: $(pdf_objects)
 
+update_pdf:
+	pdflatex presentation.tex
+
 illustrations:
-	make -C pics/ pics	
+	make -C diagrams/ pics	
 
 clean: 
 	rm -f *.aux *.log *.nav *.pdf *.snm *.toc *.out *.vrb 
-	make -C pics/ clean
+	make -C diagrams/ clean;
 
 all: clean pdf
 
